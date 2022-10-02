@@ -11,8 +11,9 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |         |
-|2|         |         |
-|3|         |         |
-|4|         |         |
-|5|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
+|1|task-0-knowledge       |   collect relevant resources      |
+|2|task-1-data collaction      |   collect relevat datasets from open sources       |
+|3|task-2-data cleaning and preprocessing        |   clean and prepare datasets for further analysess      |
+|4|task-3- Explanatory data Analyses ( EDA)       |  look for indights and results       |
+|5|task-4- Modelling  | build ML and DL models     |
+|6|task-5- deployment or dashbiard|  deploy data on dashboard       |
