@@ -11,9 +11,9 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|task-0-knowledge       |   Gathering and Collect relevant resources      |
-|2|task-1-data collaction      |   Collect relevat Datasets from Open Sources       |
-|3|task-2-data cleaning and preprocessing        |   Clean and prepare datasets for further analysess      |
-|4|task-3- Explanatory data Analyses ( EDA)       |  Look for indights and results       |
-|5|task-4- Modelling  | Build Machnine learning (ML) and DeepLearning (DL) models     |
+|1|task-0-knowledge       |   Gathering and Collect relevant articles, blogs, video tutorials materials or resources      |
+|2|task-1-data collaction      |  Collect data from satellite imagery   from open source resources     |
+|3|task-2-data cleaning and preprocessing        |  Pre-process the images, Clean and prepare datasets prepare cleared, merged dataset  for further analyses    |
+|4|task-3- Explanatory data Analyses ( EDA)      |  Analyze the cleansed data sets and Look for insights and results       |
+|5|task-4- Modelling  | Build Machine learning (ML) and Deep Learning (DL) models    |
 |6|task-5- deployment or dashbiard|  Deployment and/or Dashboard to help showcase and visualize resutls.  |
