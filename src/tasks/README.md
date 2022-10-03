@@ -16,4 +16,4 @@ Note : Please Follow the below guidelines to create task folders
 |3|task-2-data cleaning and preprocessing        |   Clean and prepare datasets for further analysess      |
 |4|task-3- Explanatory data Analyses ( EDA)       |  Look for indights and results       |
 |5|task-4- Modelling  | Build Machnine learning (ML) and DeepLearning (DL) models     |
-|6|task-5- deployment or dashbiard|  Deploymeyment and/or Dashboard to help showacase and visualize resutls.  |
+|6|task-5- deployment or dashbiard|  Deployment and/or Dashboard to help showcase and visualize resutls.  |
