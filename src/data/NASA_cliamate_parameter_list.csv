@@ -1,0 +1,382 @@
+,0
+AOD_55_ADJ,Adjusted Aerosol Optical Depth 55
+AOD_55,Aerosol Optical Depth 55
+AOD_84,Aerosol Optical Depth 84
+AIRMASS,Air Mass
+ALLSKY_KT,All Sky Insolation Clearness Index
+ALLSKY_KT_MAX,All Sky Insolation Clearness Index Maximum
+ALLSKY_KT_MIN,All Sky Insolation Clearness Index Minimum
+ALLSKY_KT_SD,All Sky Insolation Clearness Index Standard Deviation
+ALLSKY_NKT,All Sky Normalized Insolation Clearness Index
+ALLSKY_SRF_ALB,All Sky Surface Albedo
+ALLSKY_SFC_LW_DWN,All Sky Surface Longwave Downward Irradiance
+ALLSKY_SFC_LW_DWN_MAX,All Sky Surface Longwave Downward Irradiance Maximum
+ALLSKY_SFC_LW_DWN_MIN,All Sky Surface Longwave Downward Irradiance Minimum
+ALLSKY_SFC_LW_DWN_SD,All Sky Surface Longwave Downward Irradiance Standard Deviation
+ALLSKY_SFC_LW_UP,All Sky Surface Longwave Upward Irradiance
+ALLSKY_SFC_LW_UP_MAX,All Sky Surface Longwave Upward Irradiance Maximum
+ALLSKY_SFC_LW_UP_MIN,All Sky Surface Longwave Upward Irradiance Minimum
+ALLSKY_SFC_LW_UP_SD,All Sky Surface Longwave Upward Irradiance Standard Deviation
+ALLSKY_SFC_PAR_TOT,All Sky Surface PAR Total
+ALLSKY_SFC_PAR_TOT_MAX,All Sky Surface PAR Total Maximum
+ALLSKY_SFC_PAR_TOT_MIN,All Sky Surface PAR Total Minimum
+ALLSKY_SFC_PAR_TOT_SD,All Sky Surface PAR Total Standard Deviation
+ALLSKY_SFC_SW_DIFF,All Sky Surface Shortwave Diffuse Irradiance
+ALLSKY_SFC_SW_DIFF_MAX,All Sky Surface Shortwave Diffuse Irradiance Maximum
+ALLSKY_SFC_SW_DIFF_MIN,All Sky Surface Shortwave Diffuse Irradiance Minimum
+ALLSKY_SFC_SW_DIFF_SD,All Sky Surface Shortwave Diffuse Irradiance Standard Deviation
+ALLSKY_SFC_SW_DIRH,All Sky Surface Shortwave Direct Horizontal Irradiance
+ALLSKY_SFC_SW_DIRH_MAX,All Sky Surface Shortwave Direct Horizontal Irradiance Maximum
+ALLSKY_SFC_SW_DIRH_MIN,All Sky Surface Shortwave Direct Horizontal Irradiance Minimum
+ALLSKY_SFC_SW_DIRH_SD,All Sky Surface Shortwave Direct Horizontal Irradiance Standard Deviation
+ALLSKY_SFC_SW_DNI,All Sky Surface Shortwave Downward Direct Normal Irradiance
+ALLSKY_SFC_SW_DNI_MAX,All Sky Surface Shortwave Downward Direct Normal Irradiance Maximum
+ALLSKY_SFC_SW_DNI_MAX_RD,All Sky Surface Shortwave Downward Direct Normal Irradiance Maximum Relative Difference
+ALLSKY_SFC_SW_DNI_MIN,All Sky Surface Shortwave Downward Direct Normal Irradiance Minimum
+ALLSKY_SFC_SW_DNI_MIN_RD,All Sky Surface Shortwave Downward Direct Normal Irradiance Minimum Relative Difference
+ALLSKY_SFC_SW_DNI_SD,All Sky Surface Shortwave Downward Direct Normal Irradiance Standard Deviation
+ALLSKY_SFC_SW_DWN,All Sky Surface Shortwave Downward Irradiance
+ALLSKY_SFC_SW_DWN_MAX,All Sky Surface Shortwave Downward Irradiance Maximum
+ALLSKY_SFC_SW_DWN_MAX_RD,All Sky Surface Shortwave Downward Irradiance Maximum Relative Difference
+ALLSKY_SFC_SW_DWN_MIN,All Sky Surface Shortwave Downward Irradiance Minimum
+ALLSKY_SFC_SW_DWN_MIN_RD,All Sky Surface Shortwave Downward Irradiance Minimum Relative Difference
+ALLSKY_SFC_SW_DWN_SD,All Sky Surface Shortwave Downward Irradiance Standard Deviation
+ALLSKY_SFC_SW_DWN_00,All Sky Surface Shortwave Downward Irradiance at 00 GMT
+ALLSKY_SFC_SW_DWN_01,All Sky Surface Shortwave Downward Irradiance at 01 GMT
+ALLSKY_SFC_SW_DWN_02,All Sky Surface Shortwave Downward Irradiance at 02 GMT
+ALLSKY_SFC_SW_DWN_03,All Sky Surface Shortwave Downward Irradiance at 03 GMT
+ALLSKY_SFC_SW_DWN_04,All Sky Surface Shortwave Downward Irradiance at 04 GMT
+ALLSKY_SFC_SW_DWN_05,All Sky Surface Shortwave Downward Irradiance at 05 GMT
+ALLSKY_SFC_SW_DWN_06,All Sky Surface Shortwave Downward Irradiance at 06 GMT
+ALLSKY_SFC_SW_DWN_07,All Sky Surface Shortwave Downward Irradiance at 07 GMT
+ALLSKY_SFC_SW_DWN_08,All Sky Surface Shortwave Downward Irradiance at 08 GMT
+ALLSKY_SFC_SW_DWN_09,All Sky Surface Shortwave Downward Irradiance at 09 GMT
+ALLSKY_SFC_SW_DWN_10,All Sky Surface Shortwave Downward Irradiance at 10 GMT
+ALLSKY_SFC_SW_DWN_11,All Sky Surface Shortwave Downward Irradiance at 11 GMT
+ALLSKY_SFC_SW_DWN_12,All Sky Surface Shortwave Downward Irradiance at 12 GMT
+ALLSKY_SFC_SW_DWN_13,All Sky Surface Shortwave Downward Irradiance at 13 GMT
+ALLSKY_SFC_SW_DWN_14,All Sky Surface Shortwave Downward Irradiance at 14 GMT
+ALLSKY_SFC_SW_DWN_15,All Sky Surface Shortwave Downward Irradiance at 15 GMT
+ALLSKY_SFC_SW_DWN_16,All Sky Surface Shortwave Downward Irradiance at 16 GMT
+ALLSKY_SFC_SW_DWN_17,All Sky Surface Shortwave Downward Irradiance at 17 GMT
+ALLSKY_SFC_SW_DWN_18,All Sky Surface Shortwave Downward Irradiance at 18 GMT
+ALLSKY_SFC_SW_DWN_19,All Sky Surface Shortwave Downward Irradiance at 19 GMT
+ALLSKY_SFC_SW_DWN_20,All Sky Surface Shortwave Downward Irradiance at 20 GMT
+ALLSKY_SFC_SW_DWN_21,All Sky Surface Shortwave Downward Irradiance at 21 GMT
+ALLSKY_SFC_SW_DWN_22,All Sky Surface Shortwave Downward Irradiance at 22 GMT
+ALLSKY_SFC_SW_DWN_23,All Sky Surface Shortwave Downward Irradiance at 23 GMT
+ALLSKY_SFC_SW_DWN_HR,All Sky Surface Shortwave Downward Irradiance at GMT Times
+ALLSKY_SFC_SW_UP,All Sky Surface Shortwave Upward Irradiance
+ALLSKY_SFC_SW_UP_MAX,All Sky Surface Shortwave Upward Irradiance Maximum
+ALLSKY_SFC_SW_UP_MIN,All Sky Surface Shortwave Upward Irradiance Minimum
+ALLSKY_SFC_SW_UP_SD,All Sky Surface Shortwave Upward Irradiance Standard Deviation
+ALLSKY_SFC_UV_INDEX,All Sky Surface UV Index
+ALLSKY_SFC_UV_INDEX_MAX,All Sky Surface UV Index Maximum
+ALLSKY_SFC_UV_INDEX_MIN,All Sky Surface UV Index Minimum
+ALLSKY_SFC_UV_INDEX_SD,All Sky Surface UV Index Standard Deviation
+ALLSKY_SFC_UVA,All Sky Surface UVA Irradiance
+ALLSKY_SFC_UVA_MAX,All Sky Surface UVA Irradiance Maximum
+ALLSKY_SFC_UVA_MIN,All Sky Surface UVA Irradiance Minimum
+ALLSKY_SFC_UVA_SD,All Sky Surface UVA Irradiance Standard Deviation
+ALLSKY_SFC_UVB,All Sky Surface UVB Irradiance
+ALLSKY_SFC_UVB_MAX,All Sky Surface UVB Irradiance Maximum
+ALLSKY_SFC_UVB_MIN,All Sky Surface UVB Irradiance Minimum
+ALLSKY_SFC_UVB_SD,All Sky Surface UVB Irradiance Standard Deviation
+SG_MID_COZ_ZEN_ANG,Average Cosine Solar Zenith Angle At Mid-Time Between Sunrise And Solar Noon for Climatological Month
+SG_DEC,Average Declination for Climatological Month
+SG_HRZ_HR,Average Hourly Solar Angles Relative To The Horizon for Climatological Month
+SG_HRZ_00,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 00 GMT
+SG_HRZ_01,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 01 GMT
+SG_HRZ_02,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 02 GMT
+SG_HRZ_03,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 03 GMT
+SG_HRZ_04,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 04 GMT
+SG_HRZ_05,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 05 GMT
+SG_HRZ_06,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 06 GMT
+SG_HRZ_07,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 07 GMT
+SG_HRZ_08,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 08 GMT
+SG_HRZ_09,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 09 GMT
+SG_HRZ_10,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 10 GMT
+SG_HRZ_11,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 11 GMT
+SG_HRZ_12,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 12 GMT
+SG_HRZ_13,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 13 GMT
+SG_HRZ_14,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 14 GMT
+SG_HRZ_15,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 15 GMT
+SG_HRZ_16,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 16 GMT
+SG_HRZ_17,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 17 GMT
+SG_HRZ_18,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 18 GMT
+SG_HRZ_19,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 19 GMT
+SG_HRZ_20,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 20 GMT
+SG_HRZ_21,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 21 GMT
+SG_HRZ_22,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 22 GMT
+SG_HRZ_23,Average Hourly Solar Angles Relative To The Horizon for Climatological Month at 23 GMT
+SG_SAA_HR,Average Solar Azimuth Angle for Climatological Month
+SG_SAA_00,Average Solar Azimuth Angle for Climatological Month at 00 GMT
+SG_SAA_01,Average Solar Azimuth Angle for Climatological Month at 01 GMT
+SG_SAA_02,Average Solar Azimuth Angle for Climatological Month at 02 GMT
+SG_SAA_03,Average Solar Azimuth Angle for Climatological Month at 03 GMT
+SG_SAA_04,Average Solar Azimuth Angle for Climatological Month at 04 GMT
+SG_SAA_05,Average Solar Azimuth Angle for Climatological Month at 05 GMT
+SG_SAA_06,Average Solar Azimuth Angle for Climatological Month at 06 GMT
+SG_SAA_07,Average Solar Azimuth Angle for Climatological Month at 07 GMT
+SG_SAA_08,Average Solar Azimuth Angle for Climatological Month at 08 GMT
+SG_SAA_09,Average Solar Azimuth Angle for Climatological Month at 09 GMT
+SG_SAA_10,Average Solar Azimuth Angle for Climatological Month at 10 GMT
+SG_SAA_11,Average Solar Azimuth Angle for Climatological Month at 11 GMT
+SG_SAA_12,Average Solar Azimuth Angle for Climatological Month at 12 GMT
+SG_SAA_13,Average Solar Azimuth Angle for Climatological Month at 13 GMT
+SG_SAA_14,Average Solar Azimuth Angle for Climatological Month at 14 GMT
+SG_SAA_15,Average Solar Azimuth Angle for Climatological Month at 15 GMT
+SG_SAA_16,Average Solar Azimuth Angle for Climatological Month at 16 GMT
+SG_SAA_17,Average Solar Azimuth Angle for Climatological Month at 17 GMT
+SG_SAA_18,Average Solar Azimuth Angle for Climatological Month at 18 GMT
+SG_SAA_19,Average Solar Azimuth Angle for Climatological Month at 19 GMT
+SG_SAA_20,Average Solar Azimuth Angle for Climatological Month at 20 GMT
+SG_SAA_21,Average Solar Azimuth Angle for Climatological Month at 21 GMT
+SG_SAA_22,Average Solar Azimuth Angle for Climatological Month at 22 GMT
+SG_SAA_23,Average Solar Azimuth Angle for Climatological Month at 23 GMT
+SG_HR_SET_ANG,Average Sunset Hour Angle for Climatological Month
+CLRSKY_DAYS,Clear Sky Day
+CLRSKY_KT,Clear Sky Insolation Clearness Index
+CLRSKY_KT_MAX,Clear Sky Insolation Clearness Index Maximum
+CLRSKY_KT_MIN,Clear Sky Insolation Clearness Index Minimum
+CLRSKY_KT_SD,Clear Sky Insolation Clearness Index Standard Deviation
+CLRSKY_NKT,Clear Sky Normalized Insolation Clearness Index
+CLRSKY_SRF_ALB,Clear Sky Surface Albedo
+CLRSKY_SFC_LW_DWN,Clear Sky Surface Longwave Downward Irradiance
+CLRSKY_SFC_LW_DWN_MAX,Clear Sky Surface Longwave Downward Irradiance Maximum
+CLRSKY_SFC_LW_DWN_MIN,Clear Sky Surface Longwave Downward Irradiance Minimum
+CLRSKY_SFC_LW_DWN_SD,Clear Sky Surface Longwave Downward Irradiance Standard Deviation
+CLRSKY_SFC_LW_UP,Clear Sky Surface Longwave Upward Irradiance
+CLRSKY_SFC_LW_UP_MAX,Clear Sky Surface Longwave Upward Irradiance Maximum
+CLRSKY_SFC_LW_UP_MIN,Clear Sky Surface Longwave Upward Irradiance Minimum
+CLRSKY_SFC_LW_UP_SD,Clear Sky Surface Longwave Upward Irradiance Standard Deviation
+CLRSKY_SFC_PAR_TOT,Clear Sky Surface PAR Total
+CLRSKY_SFC_PAR_TOT_MAX,Clear Sky Surface PAR Total Maximum
+CLRSKY_SFC_PAR_TOT_MIN,Clear Sky Surface PAR Total Minimum
+CLRSKY_SFC_PAR_TOT_SD,Clear Sky Surface PAR Total Standard Deviation
+CLRSKY_SFC_SW_DIRH,Clear Sky Surface Shortwave Direct Horizontal Irradiance
+CLRSKY_SFC_SW_DIRH_MAX,Clear Sky Surface Shortwave Direct Horizontal Irradiance Maximum
+CLRSKY_SFC_SW_DIRH_MIN,Clear Sky Surface Shortwave Direct Horizontal Irradiance Minimum
+CLRSKY_SFC_SW_DIRH_SD,Clear Sky Surface Shortwave Direct Horizontal Irradiance Standard Deviation
+CLRSKY_SFC_SW_DIFF,Clear Sky Surface Shortwave Downward Diffuse Horizontal Irradiance
+CLRSKY_SFC_SW_DIFF_MAX,Clear Sky Surface Shortwave Downward Diffuse Horizontal Irradiance Maximum
+CLRSKY_SFC_SW_DIFF_MIN,Clear Sky Surface Shortwave Downward Diffuse Horizontal Irradiance Minimum
+CLRSKY_SFC_SW_DIFF_SD,Clear Sky Surface Shortwave Downward Diffuse Horizontal Irradiance Standard Deviation
+CLRSKY_SFC_SW_DNI,Clear Sky Surface Shortwave Downward Direct Normal Irradiance
+CLRSKY_SFC_SW_DNI_SD,Clear Sky Surface Shortwave Downward Direct Normal Irradiance
+CLRSKY_SFC_SW_DNI_MAX,Clear Sky Surface Shortwave Downward Direct Normal Irradiance Maximum
+CLRSKY_SFC_SW_DNI_MIN,Clear Sky Surface Shortwave Downward Direct Normal Irradiance Minimum
+CLRSKY_SFC_SW_DWN,Clear Sky Surface Shortwave Downward Irradiance
+CLRSKY_SFC_SW_DWN_MAX,Clear Sky Surface Shortwave Downward Irradiance Maximum
+CLRSKY_SFC_SW_DWN_MIN,Clear Sky Surface Shortwave Downward Irradiance Minimum
+CLRSKY_SFC_SW_DWN_SD,Clear Sky Surface Shortwave Downward Irradiance Standard Deviation
+CLRSKY_SFC_SW_UP,Clear Sky Surface Shortwave Upward Irradiance
+CLRSKY_SFC_SW_UP_MAX,Clear Sky Surface Shortwave Upward Irradiance Maximum
+CLRSKY_SFC_SW_UP_MIN,Clear Sky Surface Shortwave Upward Irradiance Minimum
+CLRSKY_SFC_SW_UP_SD,Clear Sky Surface Shortwave Upward Irradiance Standard Deviation
+CLOUD_AMT,Cloud Amount
+CLOUD_AMT_00,Cloud Amount at 00 GMT
+CLOUD_AMT_01,Cloud Amount at 01 GMT
+CLOUD_AMT_02,Cloud Amount at 02 GMT
+CLOUD_AMT_03,Cloud Amount at 03 GMT
+CLOUD_AMT_04,Cloud Amount at 04 GMT
+CLOUD_AMT_05,Cloud Amount at 05 GMT
+CLOUD_AMT_06,Cloud Amount at 06 GMT
+CLOUD_AMT_07,Cloud Amount at 07 GMT
+CLOUD_AMT_08,Cloud Amount at 08 GMT
+CLOUD_AMT_09,Cloud Amount at 09 GMT
+CLOUD_AMT_10,Cloud Amount at 10 GMT
+CLOUD_AMT_11,Cloud Amount at 11 GMT
+CLOUD_AMT_12,Cloud Amount at 12 GMT
+CLOUD_AMT_13,Cloud Amount at 13 GMT
+CLOUD_AMT_14,Cloud Amount at 14 GMT
+CLOUD_AMT_15,Cloud Amount at 15 GMT
+CLOUD_AMT_16,Cloud Amount at 16 GMT
+CLOUD_AMT_17,Cloud Amount at 17 GMT
+CLOUD_AMT_18,Cloud Amount at 18 GMT
+CLOUD_AMT_19,Cloud Amount at 19 GMT
+CLOUD_AMT_20,Cloud Amount at 20 GMT
+CLOUD_AMT_21,Cloud Amount at 21 GMT
+CLOUD_AMT_22,Cloud Amount at 22 GMT
+CLOUD_AMT_23,Cloud Amount at 23 GMT
+CLOUD_AMT_DAY,Cloud Amount at Daytime
+CLOUD_AMT_HR,Cloud Amount at GMT Times
+CLOUD_AMT_NIGHT,Cloud Amount at Nighttime
+CLOUD_OD,Cloud Optical Visible Depth
+CLOUD_OD_00,Cloud Optical Visible Depth at 00 GMT
+CLOUD_OD_01,Cloud Optical Visible Depth at 01 GMT
+CLOUD_OD_02,Cloud Optical Visible Depth at 02 GMT
+CLOUD_OD_03,Cloud Optical Visible Depth at 03 GMT
+CLOUD_OD_04,Cloud Optical Visible Depth at 04 GMT
+CLOUD_OD_05,Cloud Optical Visible Depth at 05 GMT
+CLOUD_OD_06,Cloud Optical Visible Depth at 06 GMT
+CLOUD_OD_07,Cloud Optical Visible Depth at 07 GMT
+CLOUD_OD_08,Cloud Optical Visible Depth at 08 GMT
+CLOUD_OD_09,Cloud Optical Visible Depth at 09 GMT
+CLOUD_OD_10,Cloud Optical Visible Depth at 10 GMT
+CLOUD_OD_11,Cloud Optical Visible Depth at 11 GMT
+CLOUD_OD_12,Cloud Optical Visible Depth at 12 GMT
+CLOUD_OD_13,Cloud Optical Visible Depth at 13 GMT
+CLOUD_OD_14,Cloud Optical Visible Depth at 14 GMT
+CLOUD_OD_15,Cloud Optical Visible Depth at 15 GMT
+CLOUD_OD_16,Cloud Optical Visible Depth at 16 GMT
+CLOUD_OD_17,Cloud Optical Visible Depth at 17 GMT
+CLOUD_OD_18,Cloud Optical Visible Depth at 18 GMT
+CLOUD_OD_19,Cloud Optical Visible Depth at 19 GMT
+CLOUD_OD_20,Cloud Optical Visible Depth at 20 GMT
+CLOUD_OD_21,Cloud Optical Visible Depth at 21 GMT
+CLOUD_OD_22,Cloud Optical Visible Depth at 22 GMT
+CLOUD_OD_23,Cloud Optical Visible Depth at 23 GMT
+CLOUD_OD_HR,Cloud Optical Visible Depth at GMT Times
+CDD0,Cooling Degree Days Above 0 C
+CDD10,Cooling Degree Days Above 10 C
+CDD18_3,Cooling Degree Days Above 18.3 C
+PSC,Corrected Atmospheric Pressure (Adjusted For Site Elevation)
+WSC,Corrected Wind Speed (Adjusted For Elevation)
+SG_DAY_COZ_ZEN_AVG,Daylight Average Of Hourly Cosine Solar Zenith Angles for Climatological Month
+T2MDEW,Dew/Frost Point at 2 Meters
+DIFFUSE_ILLUMINANCE,Diffuse Illuminance
+DIRECT_ILLUMINANCE,Direct Illuminance
+TS,Earth Skin Temperature
+TS_ADJ,Earth Skin Temperature Adjusted
+TS_AMP,Earth Skin Temperature Amplitude
+TS_MAX,Earth Skin Temperature Maximum
+TS_MAX_AVG,Earth Skin Temperature Maximum Average
+TS_MIN,Earth Skin Temperature Minimum
+TS_MIN_AVG,Earth Skin Temperature Minimum Average
+TS_RANGE,Earth Skin Temperature Range
+TS_RANGE_AVG,Earth Skin Temperature Range Average
+U10M,Eastward Wind at 10 Meters
+U2M,Eastward Wind at 2 Meters
+U50M,Eastward Wind at 50 Meters
+NO_SUN_BLACKDAYS_MAX,Equivalent No-Sun Days
+EQUIV_NO_SUN_CONSEC_01,Equivalent No-Sun Days Over A Consecutive 1-day Period
+EQUIV_NO_SUN_CONSEC_14,Equivalent No-Sun Days Over A Consecutive 14-day Period
+EQUIV_NO_SUN_CONSEC_21,Equivalent No-Sun Days Over A Consecutive 21-day Period
+EQUIV_NO_SUN_CONSEC_03,Equivalent No-Sun Days Over A Consecutive 3-day Period
+EQUIV_NO_SUN_CONSEC_07,Equivalent No-Sun Days Over A Consecutive 7-day Period
+EQUIV_NO_SUN_CONSEC_MONTH,Equivalent No-Sun Days Over A Month Period
+EVLAND,Evaporation Land
+EVPTRNS,Evapotranspiration Energy Flux
+FROST_DAYS,Frost Days
+GLOBAL_ILLUMINANCE,Global Illuminance
+HDD0,Heating Degree Days Below 0 C
+HDD10,Heating Degree Days Below 10 C
+HDD18_3,Heating Degree Days Below 18.3 C
+FRSEAICE,Ice Covered Fraction
+FRSNO,Land Snowcover Fraction
+MAX_EQUIV_NO_SUN_DEFICIT,Maximum Equivalent No-Sun Days Deficit
+SG_HRZ_MAX,Maximum Solar Angle Relative To The Horizon for Climatological Month
+MIDDAY_INSOL,Midday Insolation Incident
+MIDDAY_INSOL_MAX,Midday Insolation Incident Maximum
+MIDDAY_INSOL_MIN,Midday Insolation Incident Minimum
+MIDDAY_INSOL_SD,Midday Insolation Incident Standard Deviation
+INSOL_CONSEC_01_MIN,Minimum Insolation Over A Consecutive 1-day Period
+INSOL_CONSEC_14_MIN,Minimum Insolation Over A Consecutive 14-day Period
+INSOL_CONSEC_21_MIN,Minimum Insolation Over A Consecutive 21-day Period
+INSOL_CONSEC_03_MIN,Minimum Insolation Over A Consecutive 3-day Period
+INSOL_CONSEC_07_MIN,Minimum Insolation Over A Consecutive 7-day Period
+INSOL_CONSEC_MONTH_MIN,Minimum Insolation Over A Month Period
+V10M,Northward Wind at 10 Meters
+V2M,Northward Wind at 2 Meters
+V50M,Northward Wind at 50 Meters
+PBLTOP,Planetary Boundary Layer Top Pressure
+PW,Precipitable Water
+PRECTOTCORR,Precipitation Corrected
+PRECTOTCORR_SUM,Precipitation Corrected Sum
+GWETPROF,Profile Soil Moisture
+RH2M,Relative Humidity at 2 Meters
+GWETROOT,Root Zone Soil Wetness
+SLP,Sea Level Pressure
+SNODP,Snow Depth
+PRECSNO,Snow Precipitation
+PRECSNOLAND,Snow Precipitation Land
+PRECSNOLAND_SUM,Snow Precipitation Land Sum
+SG_SAA,Solar Azimuth Angle
+SG_NOON,Solar Geometry Based Noon
+SG_DAY_HOURS,Solar Geometry Day Hours
+SOLAR_DEFICITS_BLW_CONSEC_01,Solar Irradiance Deficit Over A Consecutive 1-day Period
+SOLAR_DEFICITS_BLW_CONSEC_14,Solar Irradiance Deficit Over A Consecutive 14-day Period
+SOLAR_DEFICITS_BLW_CONSEC_21,Solar Irradiance Deficit Over A Consecutive 21-day Period
+SOLAR_DEFICITS_BLW_CONSEC_03,Solar Irradiance Deficit Over A Consecutive 3-day Period
+SOLAR_DEFICITS_BLW_CONSEC_07,Solar Irradiance Deficit Over A Consecutive 7-day Period
+SOLAR_DEFICITS_BLW_CONSEC_MONTH,Solar Irradiance Deficit Over A Month Period
+SI_EF_TILTED_SURFACE_OPTIMAL,Solar Irradiance Optimal
+SI_EF_TILTED_SURFACE_OPTIMAL_ANG,Solar Irradiance Optimal Angle
+SI_EF_TILTED_SURFACE_OPTIMAL_ANG_ORT,Solar Irradiance Tilted Surface Orientation
+SI_EF_TILTED_SURFACE_HORIZONTAL,Solar Irradiance for Equator Facing Horizontal Surface
+SI_EF_TILTED_SURFACE_LAT_MINUS15,Solar Irradiance for Equator Facing Latitude Minus 15 Tilt
+SI_EF_TILTED_SURFACE_LAT_PLUS15,Solar Irradiance for Equator Facing Latitude Plus 15 Tilt
+SI_EF_TILTED_SURFACE_LATITUDE,Solar Irradiance for Equator Facing Latitude Tilt
+SI_EF_TILTED_SURFACE,Solar Irradiance for Equator Facing Tilted Surfaces (Set of Surfaces)
+SI_EF_TILTED_SURFACE_VERTICAL,Solar Irradiance for Equator Facing Vertical Surface
+SZA,Solar Zenith Angle
+SG_SZA,Solar Zenith Angle
+QV10M,Specific Humidity at 10 Meters
+QV2M,Specific Humidity at 2 Meters
+RHOA,Surface Air Density
+SRF_ALB_ADJ,Surface Albedo Adjusted
+PS,Surface Pressure
+Z0M,Surface Roughness
+GWETTOP,Surface Soil Wetness
+INSOL_CONSEC_01,Surplus Insolation Over A Consecutive 1-day Period
+INSOL_CONSEC_14,Surplus Insolation Over A Consecutive 14-day Period
+INSOL_CONSEC_21,Surplus Insolation Over A Consecutive 21-day Period
+INSOL_CONSEC_03,Surplus Insolation Over A Consecutive 3-day Period
+INSOL_CONSEC_07,Surplus Insolation Over A Consecutive 7-day Period
+INSOL_CONSEC_MONTH,Surplus Insolation Over A Month Period
+T10M,Temperature at 10 Meters
+T10M_MAX,Temperature at 10 Meters Maximum
+T10M_MAX_AVG,Temperature at 10 Meters Maximum Average
+T10M_MIN,Temperature at 10 Meters Minimum
+T10M_MIN_AVG,Temperature at 10 Meters Minimum Average
+T10M_RANGE,Temperature at 10 Meters Range
+T10M_RANGE_AVG,Temperature at 10 Meters Range Average
+T2M,Temperature at 2 Meters
+T2M_MAX,Temperature at 2 Meters Maximum
+T2M_MAX_AVG,Temperature at 2 Meters Maximum Average
+T2M_MIN,Temperature at 2 Meters Minimum
+T2M_MIN_AVG,Temperature at 2 Meters Minimum Average
+T2M_RANGE,Temperature at 2 Meters Range
+T2M_RANGE_AVG,Temperature at 2 Meters Range Average
+TOA_SW_DNI,Top-Of-Atmosphere Shortwave Direct Normal Radiation
+TOA_SW_DNI_MAX,Top-Of-Atmosphere Shortwave Direct Normal Radiation Maximum
+TOA_SW_DNI_MIN,Top-Of-Atmosphere Shortwave Direct Normal Radiation Minimum
+TOA_SW_DNI_SD,Top-Of-Atmosphere Shortwave Direct Normal Radiation Standard Deviation
+TOA_SW_DWN,Top-Of-Atmosphere Shortwave Downward Irradiance
+TOA_SW_DWN_MAX,Top-Of-Atmosphere Shortwave Downward Irradiance Maximum
+TOA_SW_DWN_MIN,Top-Of-Atmosphere Shortwave Downward Irradiance Minimum
+TOA_SW_DWN_SD,Top-Of-Atmosphere Shortwave Downward Irradiance Standard Deviation
+TO3,Total Column Ozone
+TQV,Total Column Precipitable Water
+TROPPB,Tropopause Pressure based on blended estimate.
+TROPQ,Tropopause Specific Humidity using blended TROPP estimate.
+TROPT,Tropopause Temperature using blended TROPP estimate.
+T2MWET,Wet Bulb Temperature at 2 Meters
+WD10M,Wind Direction at 10 Meters
+WD2M,Wind Direction at 2 Meters
+WD50M,Wind Direction at 50 Meters
+WS10M,Wind Speed at 10 Meters
+WS10M_MAX,Wind Speed at 10 Meters Maximum
+WS10M_MAX_AVG,Wind Speed at 10 Meters Maximum Average
+WS10M_MIN,Wind Speed at 10 Meters Minimum
+WS10M_MIN_AVG,Wind Speed at 10 Meters Minimum Average
+WS10M_RANGE,Wind Speed at 10 Meters Range
+WS10M_RANGE_AVG,Wind Speed at 10 Meters Range Average
+WS2M,Wind Speed at 2 Meters
+WS2M_MAX,Wind Speed at 2 Meters Maximum
+WS2M_MAX_AVG,Wind Speed at 2 Meters Maximum Average
+WS2M_MIN,Wind Speed at 2 Meters Minimum
+WS2M_MIN_AVG,Wind Speed at 2 Meters Minimum Average
+WS2M_RANGE,Wind Speed at 2 Meters Range
+WS2M_RANGE_AVG,Wind Speed at 2 Meters Range Average
+WS50M,Wind Speed at 50 Meters
+WS50M_MAX,Wind Speed at 50 Meters Maximum
+WS50M_MAX_AVG,Wind Speed at 50 Meters Maximum Average
+WS50M_MIN,Wind Speed at 50 Meters Minimum
+WS50M_MIN_AVG,Wind Speed at 50 Meters Minimum Average
+WS50M_RANGE,Wind Speed at 50 Meters Range
+WS50M_RANGE_AVG,Wind Speed at 50 Meters Range Average
+ZENITH_LUMINANCE,Zenith luminance
+DISPH,Zero Plane Displacement Height
+PRECIPITATIONCAL,precipitation Calibrated
