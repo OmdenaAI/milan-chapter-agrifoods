@@ -1,0 +1,14 @@
+Param_Code,Param_Name
+GWETPROF,Profile Soil Moisture
+GWETTOP,Surface Soil Wetness
+GWETROOT,Root Zone Soil Wetness
+CLOUD_AMT,Cloud Amount
+TS,Earth Skin Temperature
+PS,Surface Pressure
+RH2M,Relative Humidity at 2 Meters
+QV2M,Specific Humidity at 2 Meters
+PRECTOTCORR,Precipitation Corrected
+T2M_MAX,Temperature at 2 Meters Maximum
+T2M_MIN,Temperature at 2 Meters Minimum
+T2M_RANGE,Temperature at 2 Meters Range
+WS2M,Wind Speed at 2 Meters
