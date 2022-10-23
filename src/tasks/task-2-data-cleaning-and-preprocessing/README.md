@@ -12,3 +12,17 @@ Using google earth engine data involves to know what parametters to tune for bet
 Clouds are identified from the S2 cloud probability dataset (s2cloudless) and shadows are defined by cloud projection intersection with low-reflectance near-infrared (NIR) pixels
 
 list of parameters that are used to filter the S2 image collection and determine cloud and cloud shadow identification.
+
+
+![Parameters](./image/param_cloud.png "Parameter for cloud masking")
+
+For ee.ImageCollection("COPERNICUS/S2") Filter cloud means exploiting QA60 band
+
+
+![Copernicus_S2 bands](./image/COPERNICUS_S2.png "Copernicus_S2 bands")
+
+# Display the cloud-free composite
+Understanding how Earth Engine handles scale is crucial to interpreting scientific results obtained from Earth Engine. Here, scale means pixel resolution. Unlike other GIS and image processing platforms, the scale of analysis is determined from the output, rather than the input. Specifically, when you make a request for results, an image to display or a statistic, for example, you specify the scale at which data is input to the analysis.
+<img src="/image/scale.png" alt="" title="Parameter for cloud masking" />
+
+![Scale](./image/scale.png "How scaling works")
