@@ -13,11 +13,10 @@ Clouds are identified from the S2 cloud probability dataset (s2cloudless) and sh
 
 list of parameters that are used to filter the S2 image collection and determine cloud and cloud shadow identification.
 
-<img src="./image/param_cloud.png" alt="" title="Parameter for cloud masking" />
 
 ![Parameters](./image/param_cloud.png "Parameter for cloud masking")
 
-For `ee.ImageCollection("COPERNICUS/S2") ` Filtercloud mean exploiting QA60 band
+For ee.ImageCollection("COPERNICUS/S2") Filter cloud means exploiting QA60 band
 
 
 ![Copernicus_S2 bands](./image/COPERNICUS_S2.png "Copernicus_S2 bands")
@@ -26,4 +25,4 @@ For `ee.ImageCollection("COPERNICUS/S2") ` Filtercloud mean exploiting QA60 band
 Understanding how Earth Engine handles scale is crucial to interpreting scientific results obtained from Earth Engine. Here, scale means pixel resolution. Unlike other GIS and image processing platforms, the scale of analysis is determined from the output, rather than the input. Specifically, when you make a request for results, an image to display or a statistic, for example, you specify the scale at which data is input to the analysis.
 <img src="/image/scale.png" alt="" title="Parameter for cloud masking" />
 
-![Scale](/image/scale.png "How scaling works")
+![Scale](./image/scale.png "How scaling works")
