@@ -22,7 +22,7 @@ def get_layers(url):
 
 
 with header:
-    st.title("AI for sustainable agriculture and foood systems:Use of Satellite Imagery!")
+    st.title("AI for sustainable agriculture and food systems:Use of Satellite Imagery!")
     st.text('''Over five weeks in October 2022, Omdena-Milan Local Chapter collaborators completed
 a local chapter challenge on applying Artificial Intelligence (AI) and Satellite imagery for
 sustainable agri-food systems.To this end, the Omdena-Milan Local Chapter collaborators explored
