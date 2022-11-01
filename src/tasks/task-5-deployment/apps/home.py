@@ -28,7 +28,7 @@ def app():
     url = "https://services.terrascope.be/wms/v2"
 
     m = leafmap.Map(center=(42.3, 14), zoom=6)
-
+    m.add_geojson("data/limits_IT_provinces.geojson")
     # if layers is not None:
     #     for layer in layers:
     #         m.add_wms_layer(
