@@ -1,2 +1,3 @@
 leafmap
 owslib
+streamlit-option-menu
