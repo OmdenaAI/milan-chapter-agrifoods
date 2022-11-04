@@ -1,0 +1,3374 @@
+,City,lat,lng
+0,Rome,41.8931,12.4828
+1,Milan,45.4669,9.19
+2,Naples,40.8333,14.25
+3,Turin,45.0667,7.7
+4,Palermo,38.1157,13.3613
+5,Genoa,44.4072,8.934
+6,Bologna,44.4939,11.3428
+7,Florence,43.7714,11.2542
+8,Bari,41.1253,16.8667
+9,Catania,37.5027,15.0873
+10,Venice,45.4397,12.3319
+11,Verona,45.4386,10.9928
+12,Messina,38.1936,15.5542
+13,Padova,45.4064,11.8778
+14,Trieste,45.6503,13.7703
+15,Taranto,40.4181,17.2408
+16,Brescia,45.5389,10.2203
+17,Parma,44.8015,10.328
+18,Prato,43.8808,11.0966
+19,Modena,44.6458,10.9257
+20,Reggio di Calabria,38.1144,15.65
+21,Reggio Emilia,44.7,10.6333
+22,Perugia,43.1121,12.3888
+23,Ravenna,44.4178,12.1994
+24,Livorno,43.55,10.3167
+25,Cagliari,39.2167,9.1167
+26,Foggia,41.4584,15.5519
+27,Rimini,44.0594,12.5683
+28,Salerno,40.6806,14.7597
+29,Ferrara,44.8353,11.6199
+30,Latina,41.4676,12.9037
+31,Giugliano in Campania,40.9319,14.1956
+32,Monza,45.5836,9.2736
+33,Siracusa,37.0692,15.2875
+34,Bergamo,45.695,9.67
+35,Pescara,42.4643,14.2142
+36,Trento,46.0667,11.1167
+37,Forlì,44.2225,12.0408
+38,Sassari,40.7267,8.5592
+39,Vicenza,45.55,11.55
+40,Terni,42.5667,12.65
+41,Bolzano,46.5,11.35
+42,Novara,45.45,8.6167
+43,Piacenza,45.05,9.7
+44,Ancona,43.6167,13.5167
+45,Andria,41.2317,16.3083
+46,Udine,46.0667,13.2333
+47,Arezzo,43.4631,11.8781
+48,Cesena,44.1333,12.2333
+49,Lecce,40.352,18.1691
+50,Pesaro,43.9102,12.9133
+51,Barletta,41.3167,16.2833
+52,Alessandria,44.9133,8.62
+53,La Spezia,44.108,9.8289
+54,Pistoia,43.9333,10.9167
+55,Pisa,43.7167,10.4
+56,Catanzaro,38.91,16.5875
+57,Mestre,45.4906,12.2381
+58,Lucca,43.85,10.5167
+59,Brindisi,40.6383,17.9458
+60,Torre del Greco,40.7853,14.3953
+61,Treviso,45.6722,12.2422
+62,Busto Arsizio,45.612,8.8518
+63,Como,45.8103,9.0861
+64,Marsala,37.7981,12.4342
+65,Grosseto,42.7722,11.1089
+66,Sesto San Giovanni,45.5333,9.2333
+67,Pozzuoli,40.8231,14.1222
+68,Varese,45.8167,8.8333
+69,Fiumicino,41.7667,12.2333
+70,Casoria,40.9,14.3
+71,Asti,44.9,8.2069
+72,Cinisello Balsamo,45.55,9.2167
+73,Caserta,41.0667,14.3333
+74,Gela,37.0667,14.25
+75,Ragusa,36.925,14.7306
+76,Pavia,45.1853,9.155
+77,Cremona,45.1333,10.0333
+78,Carpi,44.7833,10.885
+79,Quartu Sant’Elena,39.2291,9.2649
+80,Altamura,40.8167,16.55
+81,Imola,44.3531,11.7147
+82,L’Aquila,42.354,13.392
+83,Massa,44.0333,10.1333
+84,Trapani,38.0175,12.515
+85,Viterbo,42.4186,12.1042
+86,Cosenza,39.3,16.25
+87,Potenza,40.6333,15.8
+88,Castellammare di Stabia,40.7,14.4833
+89,Afragola,40.9167,14.3167
+90,Vittoria,36.95,14.5333
+91,Crotone,39.0833,17.1167
+92,Pomezia,41.6693,12.5021
+93,Vigevano,45.3167,8.8667
+94,Carrara,44.0833,10.1
+95,Caltanissetta,37.4915,14.0624
+96,Viareggio,43.8672,10.2506
+97,Benevento,41.1256,14.7811
+98,Fano,43.8435,13.0198
+99,Savona,44.308,8.481
+100,Matera,40.6667,16.6
+101,Olbia,40.9167,9.5
+102,Legnano,45.5781,8.9183
+103,Acerra,40.95,14.3667
+104,Marano di Napoli,40.9,14.1833
+105,Molfetta,41.2,16.6
+106,Agrigento,37.3111,13.5765
+107,Faenza,44.2856,11.8833
+108,Cerignola,41.2667,15.9
+109,Moncalieri,45,7.6833
+110,Foligno,42.9561,12.7033
+111,Manfredonia,41.6333,15.9167
+112,Tivoli,41.9667,12.8
+113,Cuneo,44.3833,7.55
+114,Trani,41.2667,16.4167
+115,Bisceglie,41.2409,16.5021
+116,Bitonto,41.1083,16.6917
+117,Bagheria,38.0833,13.5
+118,Portici,40.8197,14.3411
+119,Modica,36.8672,14.7614
+120,San Remo,43.8175,7.775
+121,Teramo,42.6589,13.7039
+122,Montesilvano,42.5119,14.1373
+123,Avellino,40.9153,14.7897
+124,Siena,43.3183,11.3314
+125,Gallarate,45.6649,8.7914
+126,Velletri,41.6667,12.7833
+127,Cava de’ Tirreni,40.7008,14.7056
+128,San Severo,41.6951,15.3793
+129,Aversa,40.973,14.2065
+130,Ercolano,40.8068,14.3526
+131,Anzio,41.4472,12.6283
+132,Acireale,37.6125,15.1656
+133,Civitavecchia,42.1,11.8
+134,Mazara del Vallo,37.6517,12.5875
+135,Rovigo,45.0809,11.794
+136,Pordenone,45.9626,12.6563
+137,Battipaglia,40.6167,14.9833
+138,Rho,45.5333,9.0333
+139,Chieti,42.3511,14.1674
+140,Scafati,40.7536,14.5253
+141,Scandicci,43.7544,11.1894
+142,Misterbianco,37.5183,15.0069
+143,Nettuno,41.4667,12.6667
+144,Ardea,41.6167,12.55
+145,Collegno,45.0833,7.5833
+146,Chioggia,45.2189,12.2785
+147,Mantova,45.1564,10.7911
+148,Campobasso,41.561,14.6684
+149,Casalnuovo di Napoli,40.9167,14.35
+150,Sesto Fiorentino,43.8333,11.2
+151,Monopoli,40.95,17.3
+152,Martina Franca,40.7,17.3333
+153,Ascoli Piceno,42.8547,13.5753
+154,Rivoli,45.0725,7.5272
+155,Empoli,43.7167,10.95
+156,Corato,41.15,16.4
+157,Lecco,45.85,9.4
+158,Paterno,37.5667,14.9
+159,Nichelino,45,7.65
+160,Cologno Monzese,45.5286,9.2783
+161,Rieti,42.4044,12.8567
+162,San Benedetto del Tronto,42.9438,13.8833
+163,Settimo Torinese,45.1333,7.7667
+164,Paderno Dugnano,45.5667,9.1667
+165,Campi Bisenzio,43.8256,11.1333
+166,Terracina,41.2833,13.25
+167,Vercelli,45.3167,8.4167
+168,Capannori,43.8756,10.5736
+169,Frosinone,41.6333,13.35
+170,Nocera Inferiore,40.75,14.6333
+171,Lissone,45.6167,9.25
+172,Alcamo,37.9667,12.9667
+173,Lodi,45.3167,9.5
+174,Cascina,43.68,10.5003
+175,Seregno,45.65,9.2
+176,San Giorgio a Cremano,40.8333,14.3333
+177,Senigallia,43.7131,13.2183
+178,Marino,41.7667,12.6667
+179,Biella,45.5664,8.0533
+180,Alghero,40.56,8.315
+181,Gravina in Puglia,40.8206,16.4233
+182,Bassano del Grappa,45.7686,11.7367
+183,Rozzano,45.3833,9.15
+184,Torre Annunziata,40.7569,14.4444
+185,Civitanova Marche,43.3068,13.7286
+186,Imperia,43.8865,8.0297
+187,Avezzano,42.031,13.4264
+188,Desio,45.6167,9.2167
+189,San Donà di Piave,45.6298,12.5641
+190,Macerata,43.3003,13.4533
+191,Ladispoli,41.9544,12.0742
+192,Barcellona-Pozzo di Gotto,38.15,15.2167
+193,Albano Laziale,41.7333,12.6667
+194,Monterotondo,42.05,12.6167
+195,Sassuolo,44.5517,10.7856
+196,Sciacca,37.5092,13.0889
+197,Merano,46.6689,11.1639
+198,Corigliano Calabro,39.6,16.5167
+199,Iesi,43.5228,13.2439
+200,Eboli,40.6169,15.0564
+201,Cantù,45.7333,9.1333
+202,Rovereto,45.8833,11.0342
+203,Pomigliano d’Arco,40.9167,14.4
+204,Marcianise,41.0333,14.3
+205,Fondi,41.35,13.4167
+206,Fasano,40.8333,17.3667
+207,Città di Castello,43.4574,12.2403
+208,Saronno,45.6255,9.037
+209,Voghera,44.9925,9.0092
+210,Schio,45.7111,11.3556
+211,Monreale,38.0817,13.2889
+212,Maddaloni,41.0333,14.3833
+213,Carini,38.1333,13.1833
+214,Ciampino,41.8,12.6
+215,Cesano Maderno,45.6272,9.1472
+216,Mira,45.4375,12.1329
+217,Modugno,41.0833,16.7833
+218,San Giuliano Milanese,45.4,9.2833
+219,Caltagirone,37.2333,14.5167
+220,Formia,41.2564,13.6069
+221,Cerveteri,42,12.1
+222,Spoleto,42.7333,12.7333
+223,Melito di Napoli,40.9167,14.2333
+224,Caivano,40.95,14.3
+225,Grugliasco,45.0689,7.5786
+226,Fermo,43.1604,13.7181
+227,Licata,37.1083,13.9469
+228,Cisterna di Latina,41.6,12.8333
+229,Chieri,45.0131,7.8228
+230,Pioltello,45.5,9.3333
+231,Rossano,39.5667,16.6333
+232,Nuoro,40.3201,9.3281
+233,Cassino,41.4917,13.8333
+234,Bollate,45.55,9.1167
+235,Casalecchio di Reno,44.4833,11.2833
+236,Francavilla Fontana,40.5314,17.5858
+237,Pinerolo,44.8833,7.3333
+238,Augusta,37.2303,15.2194
+239,Rende,39.3333,16.1833
+240,Canicattì,37.36,13.8511
+241,Belluno,46.1408,12.2156
+242,Adrano,37.6625,14.8356
+243,Cento,44.7333,11.2833
+244,Segrate,45.49,9.2953
+245,Limbiate,45.5972,9.13
+246,Conegliano,45.8872,12.2969
+247,Osimo,43.4861,13.4821
+248,Riccione Marina,44,12.65
+249,Lanciano,42.2312,14.3905
+250,Mugnano di Napoli,40.9094,14.2098
+251,Somma Vesuviana,40.8725,14.4369
+252,Brugherio,45.5508,9.3011
+253,Corsico,45.4333,9.1167
+254,Gorizia,45.9352,13.6193
+255,Formigine,44.5739,10.8478
+256,Cernusco sul Naviglio,45.5167,9.3333
+257,Crema,45.3667,9.6833
+258,Arzano,40.9153,14.2681
+259,Angri,40.7431,14.5694
+260,Aosta,45.7372,7.3206
+261,Casale Monferrato,45.1342,8.4583
+262,Sant’Antimo,40.9422,14.2348
+263,Piombino,42.9348,10.5221
+264,Vibo Valentia,38.6753,16.0959
+265,Termoli,42.0028,14.9947
+266,Venaria Reale,45.1167,7.6333
+267,Castelfranco Veneto,45.6667,11.9333
+268,Villafranca di Verona,45.35,10.85
+269,Lucera,41.5,15.3333
+270,Castelfranco Emilia,44.5967,11.0528
+271,Santa Maria Capua Vetere,41.0833,14.25
+272,Massafra,40.5833,17.1167
+273,Abbiategrasso,45.4009,8.9185
+274,San Donato Milanese,45.4167,9.2667
+275,San Lazzaro di Savena,44.4716,11.4049
+276,Camaiore,43.9333,10.3
+277,Favara,37.3186,13.6631
+278,Mascalucia,37.5667,15.05
+279,Grottaglie,40.5333,17.4333
+280,Frattamaggiore,40.9417,14.2722
+281,Partinico,38.05,13.1167
+282,Gubbio,43.3518,12.5773
+283,Oristano,39.9058,8.5916
+284,Sarno,40.8167,14.6167
+285,San Giuseppe Vesuviano,40.8333,14.5
+286,Castelvetrano,37.6786,12.7917
+287,Alba,44.6915,8.0256
+288,San Giuliano Terme,43.7625,10.4414
+289,Nardò,40.1797,18.0333
+290,Avola,36.9167,15.1333
+291,Montebelluna,45.7753,12.0389
+292,Milazzo,38.217,15.237
+293,Villaricca,40.9167,14.2
+294,Ostuni,40.7322,17.5778
+295,Manduria,40.4028,17.6342
+296,Rosignano Marittimo,43.4,10.4667
+297,Fabriano,43.3386,12.9085
+298,Verbania,45.9228,8.5519
+299,Marigliano,40.9333,14.45
+300,Canosa di Puglia,41.2167,16.0667
+301,Comiso,36.95,14.6
+302,Treviglio,45.5214,9.5928
+303,Rapallo,44.35,9.2333
+304,Bra,44.7,7.85
+305,Aci Catena,37.6,15.15
+306,Misilmeri,38.0333,13.45
+307,Pontedera,43.6625,10.6328
+308,Poggibonsi,43.4667,11.15
+309,Selargius,39.2537,9.1606
+310,Desenzano del Garda,45.4689,10.535
+311,Carmagnola,44.85,7.7167
+312,Gragnano,40.6957,14.5154
+313,Mondragone,41.1,13.8833
+314,Alatri,41.7264,13.3422
+315,Cervia,44.25,12.3667
+316,Vittorio Veneto,45.9833,12.3
+317,Assisi,43.07,12.6175
+318,Carbonia,39.1668,8.522
+319,Novi Ligure,44.7592,8.7856
+320,San Giovanni in Persiceto,44.6408,11.185
+321,Belpasso,37.5833,14.9833
+322,Cecina,43.3139,10.525
+323,San Miniato,43.6833,10.85
+324,Boscoreale,40.775,14.475
+325,Spinea,45.4931,12.1606
+326,Mogliano Veneto,45.5619,12.2364
+327,Parabiago,45.5583,8.9477
+328,Sant’Anastasia,40.8667,14.4
+329,Erice,38.0375,12.5875
+330,Gioia del Colle,40.8,16.9333
+331,Giarre,37.7297,15.1844
+332,Chiavari,44.3164,9.3237
+333,Tortona,44.8942,8.8656
+334,Enna,37.5667,14.2667
+335,Triggiano,41.0667,16.9167
+336,San Giovanni Rotondo,41.7,15.7333
+337,Mirano,45.5,12.1
+338,Garbagnate Milanese,45.5771,9.0814
+339,Terlizzi,41.1333,16.55
+340,Scicli,36.7914,14.7025
+341,Niscemi,37.15,14.3833
+342,Assèmini,39.2897,9.0048
+343,Fidenza,44.8667,10.0667
+344,Galatina,40.1667,18.1667
+345,Mesagne,40.5667,17.8
+346,Iglesias,39.3103,8.5372
+347,Chivasso,45.1833,7.8833
+348,Putignano,40.8492,17.1225
+349,Santeramo in Colle,40.8,16.7667
+350,Quarrata,43.8475,10.9833
+351,Bacoli,40.8,14.0833
+352,Porto Sant’Elpidio,43.2586,13.7585
+353,Noicattaro,41.0333,16.9833
+354,Bresso,45.5333,9.1833
+355,Pontecagnano,40.65,14.8833
+356,Iesolo,45.5331,12.6448
+357,Conversano,40.9667,17.1167
+358,Vimercate,45.6167,9.3667
+359,Albignasego,45.35,11.8667
+360,Falconara Marittima,43.6296,13.3968
+361,Termini Imerese,37.9833,13.7
+362,Valdagno,45.65,11.3
+363,Sora,41.7167,13.6167
+364,Cesenatico,44.2012,12.4007
+365,Giussano,45.7,9.2167
+366,Castel Volturno,41.05,13.9167
+367,Lainate,45.5667,9.0333
+368,Scandiano,44.5925,10.6878
+369,Qualiano,40.9167,14.15
+370,Montichiari,45.4161,10.3917
+371,Correggio,44.7717,10.7806
+372,Francavilla al Mare,42.4181,14.2919
+373,Arzignano,45.5203,11.3397
+374,Roseto degli Abruzzi,42.6833,14.0167
+375,Bagno a Ripoli,43.75,11.3167
+376,Mola di Bari,41.0667,17.0833
+377,Seriate,45.6847,9.7178
+378,San Giovanni Lupatoto,45.3833,11.0333
+379,Ruvo di Puglia,41.1173,16.4837
+380,Vignola,44.4808,11.0022
+381,Legnago,45.1929,11.3115
+382,Pompei,40.75,14.5
+383,Portogruaro,45.7833,12.8333
+384,Mariano Comense,45.7,9.1833
+385,Sezze,41.5,13.0667
+386,Montevarchi,43.5234,11.5679
+387,Fossano,44.55,7.7333
+388,Nocera Superiore,40.7417,14.6722
+389,Thiene,45.7072,11.4786
+390,Sulmona,42.048,13.9262
+391,Copertino,40.2667,18.05
+392,Ventimiglia,43.7903,7.6083
+393,Albenga,44.0491,8.213
+394,Noto,36.8833,15.0833
+395,Biancavilla,37.6453,14.8636
+396,Magenta,45.4603,8.8766
+397,Genzano di Roma,41.7022,12.6925
+398,Giulianova,42.7525,13.9567
+399,Ottaviano,40.85,14.4775
+400,Pietrasanta,43.9452,10.2183
+401,Mirandola,44.8873,11.066
+402,Capoterra,39.1752,8.9709
+403,Muggiò,45.6,9.2333
+404,Castiglione delle Stiviere,45.4,10.5
+405,Lentini,37.2833,15
+406,Dalmine,45.65,9.6
+407,Meda,45.6667,9.1667
+408,Seveso,45.6474,9.1387
+409,Ivrea,45.4622,7.8747
+410,San Giovanni la Punta,37.5833,15.1
+411,Ceccano,41.5667,13.3333
+412,Orbassano,45,7.5333
+413,Nova Milanese,45.5833,9.2
+414,Montecchio Maggiore,45.5037,11.412
+415,Fucecchio,43.7333,10.8
+416,Mentana,42.0337,12.6444
+417,Ortona,42.3557,14.4036
+418,Vigonza,45.45,11.9833
+419,Selvazzano Dentro,45.3833,11.7833
+420,Floridia,37.0833,15.15
+421,Palma di Montechiaro,37.1936,13.7658
+422,Cardito,40.9362,14.2993
+423,San Cataldo,37.4833,13.9833
+424,Frascati,41.8167,12.6833
+425,Ariano Irpino,41.1528,15.0889
+426,Mondovì,44.3833,7.8167
+427,Massarosa,43.8667,10.3333
+428,Ginosa,40.5,16.75
+429,Porto Torres,40.8369,8.4014
+430,Mercato San Severino,40.7833,14.7667
+431,Pachino,36.7167,15.1
+432,Comacchio,44.7,12.1833
+433,Sant’Arcangelo di Romagna,44.0633,12.4466
+434,Sarzana,44.1136,9.96
+435,Cortona,43.2756,11.9881
+436,Castrovillari,39.8167,16.2
+437,Bressanone,46.7167,11.65
+438,Poggiomarino,40.8,14.55
+439,Paese,45.6667,12.15
+440,Agropoli,40.3583,14.9833
+441,Palestrina,41.8333,12.9
+442,Piazza Armerina,37.3833,14.3667
+443,Borgomanero,45.7,8.4667
+444,Isernia,41.6028,14.2397
+445,Colle di Val d’Elsa,43.4225,11.1267
+446,Sondrio,46.1697,9.87
+447,Savigliano,44.65,7.6333
+448,Argenta,44.6131,11.8364
+449,Martellago,45.5467,12.1575
+450,Senago,45.5833,9.1333
+451,Palo del Colle,41.05,16.7
+452,Casal di Principe,41.0108,14.1319
+453,Corciano,43.129,12.2877
+454,Anagni,41.75,13.15
+455,San Bonifacio,45.4,11.2833
+456,Colleferro,41.7287,13.0031
+457,Pergine Valsugana,46.0667,11.2333
+458,Follonica,42.9189,10.7614
+459,Sessa Aurunca,41.2333,13.9333
+460,Rosolini,36.8167,14.95
+461,Recanati,43.3986,13.5525
+462,Suzzara,44.9927,10.7494
+463,Monsummano,43.8667,10.8167
+464,Ferentino,41.6833,13.25
+465,Sestu,39.2994,9.0918
+466,Trezzano sul Naviglio,45.4333,9.0667
+467,Vico Equense,40.6667,14.4333
+468,Castel San Pietro Terme,44.3978,11.5894
+469,Feltre,46.0167,11.9
+470,Pontassieve,43.775,11.4375
+471,Acquaviva delle Fonti,40.9,16.85
+472,Trecate,45.4333,8.7333
+473,Gallipoli,40.0556,17.9917
+474,Gaeta,41.2167,13.5667
+475,Montecatini Terme,43.8828,10.7711
+476,Sabaudia,41.2998,13.0248
+477,Cornaredo,45.5,9.0333
+478,Gorgonzola,45.5333,9.4
+479,Romano di Lombardia,45.5167,9.75
+480,Oderzo,45.7808,12.4928
+481,Grottaferrata,41.8,12.6667
+482,Acri,39.5,16.3833
+483,Veroli,41.6833,13.4167
+484,Giovinazzo,41.1833,16.6667
+485,Lastra a Signa,43.7667,11.1
+486,Orvieto,42.7167,12.1
+487,Montalto Uffugo,39.4,16.15
+488,Rivalta di Torino,45.0333,7.5333
+489,San Salvo,42.0455,14.7315
+490,Cittadella,45.6486,11.7836
+491,Bussolengo,45.4667,10.85
+492,Ischia,40.75,13.95
+493,Abano Terme,45.3619,11.7924
+494,Gioia Tauro,38.4333,15.9
+495,Casarano,40.0167,18.1667
+496,Villabate,38.0833,13.45
+497,Viadana,44.9267,10.52
+498,Pallazzolo sull’Oglio,45.6,9.8833
+499,Cormano,45.55,9.1667
+500,Novate Milanese,45.5333,9.1333
+501,Sacile,45.9541,12.5027
+502,Piove di Sacco,45.2977,12.0368
+503,Trentola,40.9762,14.1773
+504,Ceglie Messapico,40.65,17.5167
+505,Minturno,41.2667,13.75
+506,Casamassima,40.95,16.9167
+507,Monserrato,39.2568,9.1387
+508,Salsomaggiore Terme,44.8167,9.9833
+509,Sant’Antonio Abate,40.7333,14.55
+510,Acqui Terme,44.6761,8.4686
+511,Pescia,43.9017,10.6898
+512,Castellana Grotte,40.8838,17.1679
+513,Pozzallo,36.7303,14.8467
+514,Adria,45.05,12.05
+515,Anguillara Sabazia,42.0883,12.2775
+516,Tolentino,43.2086,13.2841
+517,Spoltore,42.455,14.1399
+518,Arese,45.5531,9.0775
+519,Narni,42.5167,12.5167
+520,Casalgrande,44.5898,10.7394
+521,Rovato,45.5642,9.9997
+522,Bracciano,42.1,12.1833
+523,Noci,40.8,17.1333
+524,San Vito dei Normanni,40.6556,17.7036
+525,Cassano d’Adda,45.5333,9.5167
+526,San Mauro Torinese,45.1039,7.7536
+527,Bronte,37.8,14.8333
+528,Chiari,45.5197,9.8833
+529,Zola Predosa,44.4883,11.2181
+530,Santa Marinella,42.0333,11.85
+531,Signa,43.7833,11.1
+532,Tradate,45.7,8.9167
+533,Ariccia,41.7167,12.6667
+534,Scorzè,45.5719,12.1089
+535,Ribera,37.4994,13.265
+536,Valenza,45.014,8.6458
+537,Cusano Milanino,45.55,9.1833
+538,Montemurlo,43.9278,11.04
+539,Ghedi,45.402,10.2803
+540,Marsciano,42.9167,12.3333
+541,Ciriè,45.2333,7.6
+542,Palmi,38.3667,15.85
+543,Castelfidardo,43.4642,13.5461
+544,Rutigliano,40.9333,16.9
+545,Terzigno,40.8,14.5
+546,Aci Castello,37.55,15.15
+547,Melzo,45.5,9.4167
+548,Budrio,44.5374,11.5344
+549,Borgo San Lorenzo,43.9555,11.3856
+550,Castel Maggiore,44.5778,11.3617
+551,Sestri Levante,44.2733,9.3932
+552,Piossasco,44.9833,7.4667
+553,Corbetta,45.4667,8.9167
+554,Capua,41.1056,14.2139
+555,Cassano al Ionio,39.7839,16.3189
+556,Domodossola,46.1161,8.2911
+557,Siderno Marina,38.2667,16.3
+558,Palma Campania,40.8667,14.55
+559,Cordenons,45.9833,12.7
+560,Melegnano,45.3667,9.3167
+561,Aci Sant’Antonio,37.6059,15.126
+562,Valguarnera Caropepe,37.5,14.3833
+563,Polignano a Mare,40.9961,17.2203
+564,Cercola,40.8667,14.35
+565,Laives,46.4276,11.3405
+566,Carate Brianza,45.6833,9.2333
+567,Valenzano,41.05,16.8833
+568,Grumo Nevano,40.9333,14.2667
+569,Zagarolo,41.8333,12.8333
+570,Somma Lombardo,45.6833,8.7
+571,Arcore,45.6333,9.3167
+572,Calenzano,43.8567,11.1636
+573,Albino,45.7606,9.7969
+574,Villorba,45.7333,12.2333
+575,Melfi,40.9964,15.6558
+576,Beinasco,45.0228,7.5878
+577,Forio,40.7333,13.85
+578,Isola Capo Rizzuto,38.9667,17.1
+579,Agliana,43.9,11
+580,Santa Maria di Sala,45.5089,12.0363
+581,Savignano sul Rubicone,44.0881,12.3933
+582,Carlentini,37.2833,15.0167
+583,Arco,45.9167,10.8833
+584,Sona,45.4333,10.8333
+585,Policoro,40.2,16.6667
+586,Orta Nova,41.3308,15.7114
+587,Pisticci,40.3833,16.55
+588,Maranello,44.5256,10.8664
+589,Monselice,45.2333,11.75
+590,Sìnnai,39.3026,9.2031
+591,Tricase,39.9333,18.3667
+592,Pianoro,44.3833,11.3333
+593,Marcon,45.5543,12.2994
+594,Pavullo nel Frignano,44.3327,10.8331
+595,Bareggio,45.4667,8.9833
+596,Castelfiorentino,43.6108,10.97
+597,Pescantina,45.4833,10.8667
+598,Rocca di Papa,41.7667,12.7167
+599,Cattolica,43.9584,12.7386
+600,Nerviano,45.55,8.9833
+601,San Casciano in Val di Pesa,43.6569,11.1858
+602,Campagna,40.6666,15.1064
+603,Sant’Elpidio a Mare,43.2295,13.6861
+604,Carovigno,40.7072,17.6594
+605,Fiorano Modenese,44.5392,10.8117
+606,Negrar,45.5333,10.9333
+607,Torre Maggiore,41.6833,15.2833
+608,Castellaneta,40.6333,16.9333
+609,San Giovanni in Fiore,39.2642,16.7003
+610,Baronissi,40.75,14.78
+611,Vimodrone,45.5139,9.2844
+612,Adelfia,41,16.8667
+613,Saluzzo,44.6453,7.4906
+614,Preganziol,45.6,12.2333
+615,Bovisio Masciago,45.6167,9.15
+616,Scordia,37.3,14.85
+617,San Giovanni Valdarno,43.5644,11.5328
+618,Alpignano,45.1,7.5167
+619,Malnate,45.8,8.8833
+620,Vedelago,45.6833,12.0167
+621,Bagnacavallo,44.4169,11.9761
+622,Medicina,44.4833,11.6333
+623,Giaveno,45.0333,7.35
+624,Porto Empedocle,37.2944,13.5272
+625,Colle Salvetti,43.6,10.4833
+626,Gussago,45.6,10.15
+627,Palagonia,37.3333,14.75
+628,Monesiglio,44.4667,8.1167
+629,Todi,42.7833,12.4167
+630,Brunico,46.7994,11.9343
+631,Reggello,43.6833,11.5333
+632,Umbertide,43.3056,12.3366
+633,Cerea,45.1894,11.2166
+634,Lonigo,45.3833,11.3833
+635,Rubano,45.4333,11.7833
+636,Sorrento,40.6278,14.3736
+637,Leinì,45.1836,7.7153
+638,Brusciano,40.9224,14.4239
+639,Este,45.2333,11.6667
+640,Ispica,36.7853,14.9069
+641,Copparo,44.9,11.8333
+642,Tarquinia,42.2492,11.7561
+643,Civita Castellana,42.2961,12.41
+644,Caravaggio,45.4978,9.6431
+645,Saviano,40.9167,14.5167
+646,Cadoneghe,45.45,11.9333
+647,Grottammare,42.9891,13.8681
+648,Codroipo,45.9614,12.9774
+649,Frattaminore,40.9556,14.2708
+650,Palagiano,40.5833,17.05
+651,Bovolone,45.25,11.1333
+652,Sava,40.4003,17.5667
+653,Valmontone,41.7833,12.9167
+654,Porto San Giorgio,43.1848,13.7955
+655,Certaldo,43.5478,11.0411
+656,Samarate,45.6167,8.7833
+657,Noale,45.5501,12.0709
+658,Martinsicuro,42.8851,13.916
+659,Nonantola,44.6777,11.043
+660,Codogno,45.16,9.705
+661,Lentate sul Seveso,45.6833,9.1167
+662,Sansepolcro,43.5756,12.1439
+663,Mottola,40.6333,17.0333
+664,Potenza Picena,43.3663,13.6203
+665,Azzano Decimo,45.8833,12.7167
+666,Paola,39.3667,16.0333
+667,Silvi Paese,42.55,14.1167
+668,Fiano Romano,42.1667,12.6
+669,Galliate,45.4833,8.7
+670,Capurso,41.05,16.9167
+671,Concorezzo,45.5897,9.3359
+672,Molinella,44.6167,11.6667
+673,Finale Emilia,44.8319,11.2957
+674,Besana in Brianza,45.7,9.2833
+675,Altopascio,43.8167,10.6747
+676,San Cesareo,41.8167,12.8
+677,Galatone,40.15,18.0667
+678,Agrate Brianza,45.5783,9.3522
+679,Ponsacco,43.6167,10.6333
+680,Taurianova,38.35,16.0167
+681,Carugate,45.55,9.3333
+682,San Martino Buon Albergo,45.4167,11.1
+683,Castiglione del Lago,43.1271,12.0452
+684,Volpiano,45.2,7.7833
+685,Casalmaggiore,44.9858,10.4147
+686,Valeggio sul Mincio,45.35,10.7333
+687,Castenaso,44.5097,11.4706
+688,Mortara,45.25,8.75
+689,Corridonia,43.2482,13.5075
+690,Castellarano,44.5139,10.7339
+691,Pianezza,45.1042,7.55
+692,Soliera,44.7381,10.9245
+693,Omegna,45.8781,8.4069
+694,Casalpusterlengo,45.1778,9.65
+695,Fiorenzuola d’Arda,44.9333,9.9
+696,Sannicandro Garganico,41.8333,15.5667
+697,Cerro Maggiore,45.6,8.95
+698,Castellammare del Golfo,38.0192,12.8858
+699,Laterza,40.6333,16.8
+700,Surbo,40.4,18.1333
+701,San Giorgio Ionico,40.45,17.3667
+702,San Vito al Tagliamento,45.9153,12.8556
+703,Zevio,45.3728,11.1303
+704,Castelnuovo Rangone,44.5519,10.9358
+705,Città Sant’Angelo,42.5167,14.05
+706,Guastalla,44.9214,10.6542
+707,Dolo,45.4249,12.0758
+708,Gualdo Tadino,43.2333,12.7833
+709,Pineto,42.6167,14.0667
+710,Pontinia,41.4083,13.0443
+711,Sasso Marconi,44.4,11.25
+712,Merate,45.7,9.4333
+713,Malo,45.6582,11.4047
+714,Rubiera,44.65,10.7833
+715,Sorso,40.7983,8.5772
+716,Magione,43.15,12.2
+717,Sommacampagna,45.4,10.85
+718,Cirò Marina,39.3667,17.1167
+719,Rosarno,38.485,15.9797
+720,Cassano delle Murge,40.8833,16.7667
+721,Orbetello,42.4394,11.2125
+722,Chiaravalle,43.5997,13.3257
+723,Ospitaletto,45.5553,10.0733
+724,Campodarsego,45.5,11.9167
+725,Carmignano,43.8103,11.0149
+726,Vinci,43.7833,10.9167
+727,Trinitapoli,41.35,16.1
+728,Collecchio,44.7527,10.2157
+729,Cossato,45.5667,8.1667
+730,Santa Croce sull’ Arno,43.7202,10.7727
+731,Riposto,37.7333,15.2
+732,Impruneta,43.6854,11.2544
+733,Pedara,37.6167,15.0667
+734,Sant’Arpino,40.9575,14.2492
+735,Roncade,45.6246,12.3766
+736,Urbino,43.7252,12.6372
+737,Trepuzzi,40.4,18.0667
+738,Rosà,45.7167,11.7667
+739,Luino,46,8.75
+740,Latiano,40.5333,17.7167
+741,Priverno,41.4667,13.1833
+742,Castellanza,45.6167,8.9
+743,Leno,45.3703,10.2167
+744,Mascali,37.7578,15.1958
+745,Cefalù,38.0395,14.0221
+746,Taglio,45.0167,12.2167
+747,Massalubrense,40.6167,14.35
+748,Mondolfo,43.7517,13.0956
+749,Montelupo Fiorentino,43.7333,11.0167
+750,Bondeno,44.8894,11.4154
+751,Maglie,40.1167,18.3
+752,Locorotondo,40.75,17.3167
+753,Rescaldina,45.6167,8.95
+754,Solaro,45.615,9.0839
+755,Fiesole,43.8,11.3
+756,Leverano,40.2833,18.0833
+757,Oleggio,45.6,8.6333
+758,Casandrino,40.9333,14.25
+759,Artena,41.7333,12.9167
+760,Tempio Pausania,40.9015,9.1044
+761,Marostica,45.7456,11.6553
+762,Squinzano,40.4333,18.05
+763,Vetralla,42.3106,12.0792
+764,Villacidro,39.4578,8.7424
+765,Santa Maria a Vico,41.0333,14.4833
+766,Taggia,43.8439,7.8509
+767,Montepulciano,43.1,11.7833
+768,Amantea,39.1333,16.0667
+769,Villasanta,45.6053,9.3033
+770,Fisciano,40.7667,14.8
+771,Arona,45.7569,8.56
+772,Caselle Torinese,45.1833,7.65
+773,Veglie,40.3333,17.9667
+774,Vieste,41.8833,16.1667
+775,Travagliato,45.524,10.0797
+776,Monteroni di Lecce,40.3333,18.1
+777,Fara in Sabina,42.2167,12.7333
+778,Cervignano del Friuli,45.8231,13.335
+779,Calolziocorte,45.8,9.4333
+780,Opera,45.3833,9.2167
+781,Busto Garolfo,45.5478,8.8867
+782,Cassina de’ Pecchi,45.5167,9.3667
+783,San Ferdinando di Puglia,41.3,16.0667
+784,Statte,40.5667,17.2
+785,Dueville,45.6333,11.55
+786,Cavarzere,45.137,12.0817
+787,Castel San Giorgio,40.7833,14.7
+788,Castel San Giovanni,45.0591,9.4342
+789,Arzachena,41.0801,9.388
+790,Novellara,44.85,10.7333
+791,Crispiano,40.6,17.2333
+792,Villa San Giovanni,38.2167,15.6333
+793,Alzano Lombardo,45.7317,9.7283
+794,Nicosia,37.75,14.4
+795,San Marco in Lamis,41.7117,15.635
+796,Lanuvio,41.6833,12.7
+797,Rezzato,45.515,10.3175
+798,San Pietro Vernotico,40.4833,18.05
+799,Melilli,37.1833,15.1167
+800,Montesarchio,41.0667,14.6333
+801,Crevalcore,44.7167,11.15
+802,Montefiascone,42.5333,12.0333
+803,Montespertoli,43.65,11.0833
+804,Latisana,45.7833,13
+805,Lariano,41.7333,12.8333
+806,Varedo,45.6,9.1667
+807,Lavello,41.05,15.8
+808,Misano Adriatico,43.9667,12.7
+809,Castelfranco di Sotto,43.7,10.75
+810,Sarezzo,45.65,10.2
+811,Capo d’Orlando,38.15,14.7333
+812,Forlimpopoli,44.1833,12.1333
+813,Grammichele,37.2167,14.6333
+814,Patti,38.1333,14.9667
+815,Rionero in Vulture,40.9167,15.6667
+816,Quartucciu,39.2529,9.1762
+817,Castiglion Fiorentino,43.3439,11.9189
+818,Calderara di Reno,44.5639,11.2719
+819,Quattro Castella,44.6333,10.4667
+820,Sant’Angelo Lodigiano,45.2389,9.4097
+821,Palombara Sabina,42.0667,12.7667
+822,Apricena,41.7846,15.4436
+823,Cairo Montenotte,44.3979,8.2778
+824,Castelnuovo di Verona,45.4333,10.7667
+825,Pontecorvo,41.4626,13.6676
+826,Camponogara,45.3833,12.0667
+827,Varazze,44.36,8.5766
+828,Stezzano,45.6508,9.6528
+829,Múggia,45.6,13.7667
+830,Manerbio,45.3667,10.1333
+831,Leonforte,37.65,14.4
+832,San Martino di Lupari,45.6557,11.8594
+833,Ficarazzi,38.0923,13.4639
+834,Formello,42.0833,12.4
+835,Santa Maria a Monte,43.7,10.6833
+836,Casatenovo,45.6983,9.3117
+837,Casale sul Sile,45.5988,12.3243
+838,Campiglia Marittima,43.0667,10.6167
+839,Vigodarzere,45.45,11.8833
+840,Piano di Sorrento,40.6333,14.4111
+841,San Biagio di Callalta,45.6867,12.3815
+842,Seravezza,44,10.2333
+843,Barrafranca,37.3667,14.2
+844,Carpenedolo,45.3654,10.4323
+845,Noceto,44.8167,10.1833
+846,Trebaseleghe,45.5833,12.05
+847,Salzano,45.5333,12.1167
+848,Cicciano,40.9667,14.5333
+849,Calcinato,45.4581,10.4146
+850,Chiampo,45.55,11.2833
+851,Montegranaro,43.2332,13.6322
+852,Santo Stino di Livenza,45.7333,12.6833
+853,Lipari,38.4673,14.9554
+854,Tezze sul Brenta,45.6862,11.7042
+855,Cavallino,40.3102,18.2022
+856,Loreto,43.4403,13.6074
+857,Spilamberto,44.5333,11.0167
+858,Monte di Procida,40.8,14.05
+859,Grumo Appula,41.0167,16.7
+860,Monte San Giovanni Campano,41.6333,13.5167
+861,Lauria Inferiore,40.0472,15.8358
+862,Montecorvino Rovella,40.7,14.9833
+863,Monteprandone,42.9203,13.8355
+864,Bagnolo Mella,45.43,10.1854
+865,Borgosesia,45.7169,8.2764
+866,Francofonte,37.2333,14.8833
+867,Raffadali,37.4047,13.5339
+868,Figline Valdarno,43.6167,11.4667
+869,Sala Consilina,40.4,15.6
+870,Castel Goffredo,45.2981,10.475
+871,Lavagna,44.3122,9.3417
+872,Porto Recanati,43.4299,13.6649
+873,Avigliana,45.0794,7.3961
+874,Calcinaia,43.6835,10.6165
+875,Canegrate,45.5667,8.9333
+876,Sinalunga,43.2167,11.7333
+877,Rivarolo Canavese,45.3333,7.7167
+878,Terrasini Favarotta,38.15,13.0833
+879,Fontanafredda,45.9667,12.5667
+880,Fagnano Olona,45.6667,8.8667
+881,Borgo San Dalmazzo,44.3333,7.4833
+882,Menfi,37.6078,12.9686
+883,Solofra,40.8333,14.85
+884,San Severino Marche,43.2289,13.1771
+885,Bernalda,40.4167,16.6833
+886,Olgiate Olona,45.6333,8.8833
+887,Orzinuovi,45.4,9.9333
+888,San Pietro in Casale,44.7,11.4
+889,Ugento,39.9333,18.1667
+890,Morbegno,46.1333,9.5667
+891,Sant’Agata di Militello,38.0667,14.6333
+892,Mercogliano,40.9231,14.7428
+893,Locri,38.2333,16.2667
+894,Pianiga,45.4583,12.008
+895,Monte Sant’Angelo,41.7,15.9667
+896,San Prisco,41.0833,14.2833
+897,Anzola dell’Emilia,44.5472,11.1956
+898,Russi,44.3764,12.0334
+899,Teano,41.25,14.0667
+900,Gricignano d’Aversa,40.9833,14.2333
+901,Terranuova Bracciolini,43.5531,11.5894
+902,Lana,46.6167,11.1667
+903,Eraclea,45.5833,12.6833
+904,Cinisi,38.1667,13.1
+905,Sedriano,45.4833,8.9667
+906,Rottofreno,45.0579,9.5489
+907,Gavardo,45.5875,10.4389
+908,Motta Sant’Anastasia,37.5,14.9667
+909,Villa Literno,41.0096,14.0741
+910,Calvizzano,40.9,14.1833
+911,Bibbiena,43.6975,11.8144
+912,Biassono,45.6306,9.2744
+913,Spilimbergo,46.1114,12.9017
+914,Spresiano,45.7833,12.25
+915,Monte Compatri,41.8081,12.7372
+916,Trezzo sull’Adda,45.6,9.5167
+917,Vecchiano,43.7833,10.3833
+918,Carmiano,40.3461,18.0461
+919,Rocca Priora,41.7833,12.7667
+920,Pieve di Soligo,45.8833,12.1667
+921,Camposampiero,45.5667,11.9333
+922,Granarolo del l’Emilia,44.5542,11.4439
+923,Altavilla Vicentina,45.5164,11.4597
+924,Bitetto,41.0333,16.75
+925,Baranzate,45.5167,9.1
+926,Arluno,45.5,8.9333
+927,Occhiobello,44.9216,11.5812
+928,Cornedo Vicentino,45.6167,11.35
+929,Taviano,39.9833,18.0833
+930,Ronchi dei Legionari,45.8333,13.5
+931,Portoferraio,42.8167,10.3167
+932,Alfonsine,44.5061,12.0411
+933,Lizzanello,40.3047,18.2228
+934,Monteforte Irpino,40.8928,14.7194
+935,Borgaro Torinese,45.15,7.65
+936,San Mauro Pascoli,44.1,12.4167
+937,San Gennaro Vesuviano,40.8667,14.5333
+938,Giffoni Valle Piana,40.7167,14.9333
+939,Priolo Gargallo,37.1667,15.1833
+940,San Gregorio di Catania,37.5667,15.1167
+941,Mazzarino,37.3,14.2
+942,Susegana,45.85,12.25
+943,Amelia,42.5535,12.4168
+944,San Michele al Tagliamento,45.7636,12.9953
+945,Sant’Ambrogio di Valpolicella,45.5209,10.8362
+946,Lonate Pozzolo,45.6,8.75
+947,Margherita di Savoia,41.3667,16.15
+948,Taurisano,39.95,18.1667
+949,Campobello di Mazara,37.6333,12.75
+950,Tortoreto,42.8,13.9167
+951,Maniago,46.1667,12.7167
+952,Codigoro,44.8333,12.1167
+953,Venosa,40.9667,15.8167
+954,Fiume Veneto,45.9333,12.7333
+955,Guspini,39.54,8.6267
+956,Lendinara,45.085,11.6006
+957,Serravalle Pistoiese,43.9,10.8333
+958,Torri di Quartesolo,45.5167,11.6167
+959,Casteldaccia,38.05,13.5333
+960,Stradella,45.0833,9.3
+961,Olgiate Comasco,45.7833,8.9667
+962,Portomaggiore,44.7,11.8
+963,Finale Ligure,44.1691,8.3435
+964,Caorle,45.6003,12.8876
+965,Valmadrera,45.8463,9.3582
+966,Campagnano di Roma,42.1333,12.3833
+967,Cisternino,40.75,17.4167
+968,Capaci,38.1667,13.2333
+969,Isola della Scala,45.2667,11.1333
+970,Gardone Val Trompia,45.6833,10.1833
+971,Siniscola,40.5743,9.6963
+972,Nembro,45.7439,9.7594
+973,Pulsano,40.3842,17.3547
+974,Ponte San Pietro,45.6978,9.5881
+975,Mestrino,45.45,11.7667
+976,Isola del Liri,41.6833,13.5667
+977,Castenedolo,45.4704,10.2967
+978,Arenzano,44.4035,8.6827
+979,Ravanusa,37.2678,13.9697
+980,Musile di Piave,45.6178,12.565
+981,Montegrotto Terme,45.3333,11.7833
+982,Matino,40.0333,18.1333
+983,Paullo,45.4167,9.4
+984,Casièr,45.6436,12.2953
+985,Riesi,37.2833,14.0833
+986,Cave,41.8167,12.9333
+987,Creazzo,45.5333,11.4833
+988,Ovada,44.6392,8.6464
+989,Avigliano,40.7333,15.7167
+990,Zero Branco,45.6,12.1667
+991,Acate,37.0253,14.4925
+992,Paceco,37.9833,12.55
+993,Castelvetro di Modena,44.5067,10.9472
+994,Bitritto,41.05,16.8333
+995,Caldogno,45.6118,11.5076
+996,Sant’Ilario d’Enza,44.7667,10.45
+997,Camisano Vicentino,45.5167,11.7167
+998,Melito di Porto Salvo,37.9167,15.7833
+999,Belmonte Mezzagno,38.05,13.3833
+1000,La Maddalena,41.2142,9.4083
+1001,Castano Primo,45.55,8.7667
+1002,Loano,44.129,8.2598
+1003,San Giustino,43.55,12.1833
+1004,Santa Flavia,38.0833,13.5333
+1005,Venafro,41.4833,14.05
+1006,Piazzola sul Brenta,45.5333,11.7667
+1007,Carbonera,45.6833,12.2833
+1008,Cologno al Serio,45.5833,9.7
+1009,Cividale del Friuli,46.0905,13.435
+1010,Sant’Antìoco,39.0654,8.454
+1011,Sant’Agata de’ Goti,41.0893,14.4974
+1012,Montopoli in Val d’Arno,43.6744,10.7503
+1013,Sesto Calende,45.7333,8.6333
+1014,Cerese,45.1167,10.7833
+1015,Corleone,37.8167,13.3
+1016,Pellezzano,40.7333,14.7667
+1017,Aulla,44.2167,9.9667
+1018,Tortolì,39.9333,9.65
+1019,Trecastagni,37.6167,15.0833
+1020,Scalea,39.8167,15.8
+1021,Cepagatti,42.3658,14.0767
+1022,Racale,39.9667,18.1
+1023,Castel Mella,45.5,10.15
+1024,Cerreto Guidi,43.7617,10.8771
+1025,Montechiarugolo,44.6934,10.4224
+1026,Atripalda,40.9167,14.8256
+1027,Monte San Pietro,44.4578,11.199
+1028,Santa Croce Camerina,36.8272,14.5239
+1029,Inzago,45.5333,9.4833
+1030,Bertinoro,44.15,12.1333
+1031,San Valentino Torio,40.7911,14.6033
+1032,Cazzago San Martino,45.5817,10.0258
+1033,Barberino di Mugello,44,11.2333
+1034,Cameri,45.5,8.65
+1035,Trofarello,44.9833,7.7333
+1036,Cori,41.65,12.9167
+1037,Celano,42.0843,13.5478
+1038,Taormina,37.85,15.3
+1039,Gemona del Friuli,46.2833,13.1333
+1040,Ramacca,37.3833,14.7
+1041,Botticino Sera,45.5339,10.3078
+1042,Medesano,44.7568,10.1403
+1043,Grezzana,45.5167,11.0167
+1044,San Felice sul Panaro,44.8393,11.1413
+1045,Motta di Livenza,45.7797,12.6086
+1046,Capena,42.1403,12.5403
+1047,Alassio,44.0079,8.173
+1048,Montale,43.9333,11.0167
+1049,Randazzo,37.8833,14.95
+1050,Itri,41.2833,13.5333
+1051,Trevignano,45.7335,12.094
+1052,Alberobello,40.7841,17.2375
+1053,Cornate d’Adda,45.65,9.4667
+1054,Gambettola,44.1167,12.3333
+1055,Cadelbosco di Sopra,44.7667,10.6
+1056,Campolongo Maggiore,45.3305,12.0483
+1057,Salemi,37.8167,12.8
+1058,Massa Lombarda,44.45,11.8167
+1059,Salò,45.6,10.5333
+1060,Peschiera del Garda,45.4386,10.6886
+1061,Atessa,42.0667,14.45
+1062,Montecchio Emilia,44.6986,10.4486
+1063,Poirino,44.9167,7.85
+1064,Ozieri,40.5849,9.0033
+1065,Martinengo,45.5704,9.7674
+1066,Mussomeli,37.5833,13.75
+1067,Coriano,43.9691,12.6006
+1068,Fiuggi,41.8,13.2167
+1069,Torre Santa Susanna,40.4667,17.7333
+1070,Macerata Campania,41.0667,14.2667
+1071,San Marzano sul Sarno,40.7697,14.5947
+1072,Castelnovo ne’ Monti,44.4333,10.4
+1073,Procida,40.7667,14.0333
+1074,Cutro,39.0342,16.9819
+1075,Castelli Calepio,45.6333,9.9
+1076,Canelli,44.7208,8.2928
+1077,Trabia,38,13.65
+1078,Partanna,37.7289,12.8894
+1079,Bordighera,43.7789,7.6721
+1080,Cislago,45.65,8.9667
+1081,Polistena,38.4,16.0667
+1082,Concordia Sagittaria,45.7667,12.85
+1083,Valdobbiadene,45.9,11.9167
+1084,Badia Polesine,45.094,11.4934
+1085,Langhirano,44.6167,10.2667
+1086,Rignano Flaminio,42.2,12.4833
+1087,Campi Salentina,40.4,18.0167
+1088,Nizza Monferrato,44.7747,8.355
+1089,Mandello del Lario,45.9167,9.3167
+1090,San Maurizio Canavese,45.2171,7.6305
+1091,Montignoso,44.0167,10.1667
+1092,Usmate Velate,45.65,9.35
+1093,Volterra,43.4,10.8667
+1094,Cittanova,38.35,16.0833
+1095,Induno Olona,45.85,8.8333
+1096,Boscotrecase,40.7833,14.4667
+1097,Isola Vicentina,45.6333,11.45
+1098,Bibbiano,44.6629,10.4739
+1099,Conselve,45.2333,11.8667
+1100,Goito,45.25,10.6667
+1101,Altofonte,38.05,13.3
+1102,Locate di Triulzi,45.35,9.2167
+1103,Volpago del Montello,45.7833,12.1167
+1104,Terralba,39.7197,8.6363
+1105,Bomporto,44.7333,11.0333
+1106,Silea,45.6547,12.2967
+1107,Vigasio,45.3167,10.9333
+1108,Capodrise,41.05,14.3
+1109,Lerici,44.0763,9.9111
+1110,Bisignano,39.5073,16.2811
+1111,Bagnara Calabra,38.2833,15.8167
+1112,Sedico,46.1167,12.1
+1113,Cingoli,43.3742,13.2164
+1114,Busca,44.5167,7.4667
+1115,Novi di Modena,44.8934,10.901
+1116,Bucine,43.4775,11.6158
+1117,Sermoneta,41.55,12.9833
+1118,Asola,45.2167,10.4167
+1119,Vaiano,43.9667,11.1167
+1120,San Giorgio del Sannio,41.0667,14.85
+1121,Sovicille,43.2833,11.2333
+1122,Morrovalle,43.3146,13.5806
+1123,San Felice Circeo,41.2353,13.0956
+1124,Tolmezzo,46.4,13.0167
+1125,Poggio a Caiano,43.8167,11.0667
+1126,Cetraro,39.5,15.95
+1127,Bonate di Sopra,45.6819,9.5586
+1128,Macomer,40.2644,8.7751
+1129,Oppeano,45.3,11.1833
+1130,Verucchio,43.9833,12.4215
+1131,Barano d’Ischia,40.7167,13.9167
+1132,Melendugno,40.2667,18.3333
+1133,Vigonovo,45.3852,12.0074
+1134,Lizzano,40.3919,17.4483
+1135,Meldola,44.1333,12.0667
+1136,Castelletto sopra Ticino,45.7167,8.6333
+1137,San Vendemiano,45.8914,12.3389
+1138,Racconigi,44.7667,7.6833
+1139,Castellamonte,45.3819,7.7106
+1140,Monteriggioni,43.4,11.2167
+1141,Lomazzo,45.7,9.0333
+1142,Cavriago,44.6956,10.5274
+1143,Gambolò,45.2586,8.8647
+1144,Quinto di Treviso,45.65,12.1667
+1145,Urgnano,45.5972,9.695
+1146,Sannicandro di Bari,41,16.8
+1147,Barga,44.075,10.4817
+1148,Casaluce,41.002,14.1983
+1149,Siano,40.8025,14.6944
+1150,San Pancrazio Salentino,40.4167,17.8333
+1151,Montescaglioso,40.55,16.6667
+1152,Montemarciano,43.6399,13.3104
+1153,Fino Mornasco,45.75,9.0333
+1154,Argelato,44.6425,11.3486
+1155,Crosia,39.5667,16.7667
+1156,Campobello di Licata,37.2594,13.9192
+1157,Lurate Caccivio,45.7667,9
+1158,Mori,45.8513,10.9817
+1159,Trescore Balneario,45.7,9.85
+1160,Castrolibero,39.3167,16.2
+1161,Garlasco,45.2,8.9167
+1162,Poggio Renatico,44.765,11.4833
+1163,Boves,44.3333,7.55
+1164,Conselice,44.5167,11.8333
+1165,Sant’Egidio alla Vibrata,42.8333,13.7167
+1166,Ruffano,39.9833,18.25
+1167,Cuorgnè,45.3833,7.65
+1168,Deruta,42.9833,12.4167
+1169,Dolianova,39.3785,9.1784
+1170,Recco,44.3621,9.1435
+1171,Matelica,43.2566,13.0096
+1172,Porto Tolle,44.95,12.3167
+1173,Bellinzago Novarese,45.5833,8.6333
+1174,Castel Bolognese,44.3167,11.8
+1175,Santo Stefano di Magra,44.1625,9.9151
+1176,Mareno di Piave,45.8409,12.352
+1177,Zafferana Etnea,37.6833,15.1
+1178,Sorbolo,44.8463,10.4486
+1179,Gassino Torinese,45.1333,7.8167
+1180,Nepi,42.2436,12.3464
+1181,Elmas,39.2679,9.05
+1182,Cavriglia,43.5216,11.4864
+1183,Piombino Dese,45.6,11.9333
+1184,Marano Vicentino,45.7,11.4333
+1185,Resana,45.6333,11.95
+1186,Fiumefreddo di Sicilia,37.7915,15.2092
+1187,Mendicino,39.2628,16.1945
+1188,Traversetolo,44.6399,10.3818
+1189,Castelleone,45.2958,9.7609
+1190,Foiano della Chiana,43.2567,11.8164
+1191,Capriolo,45.6373,9.9336
+1192,San Giovanni in Marignano,43.9393,12.7137
+1193,Fossombrone,43.689,12.8061
+1194,Broni,45.0619,9.2611
+1195,Aragona,37.4074,13.6189
+1196,Santa Teresa di Riva,37.94,15.3625
+1197,Aradeo,40.1333,18.1333
+1198,Gavirate,45.85,8.7167
+1199,Maserada sul Piave,45.75,12.3167
+1200,Pasian di Prato,46.05,13.2
+1201,Loria,45.7333,11.8667
+1202,Giardini,37.8333,15.2667
+1203,Filottrano,43.4344,13.3503
+1204,Pizzo,38.7333,16.1667
+1205,Mosciano Sant’Angelo,42.75,13.8833
+1206,Treia,43.3114,13.3131
+1207,Brugnera,45.9,12.5333
+1208,Carignano,44.9058,7.6725
+1209,Borgosatollo,45.4761,10.24
+1210,Vignate,45.5,9.3667
+1211,Villa Castelli,40.5833,17.4833
+1212,Belvedere Marittimo,39.6167,15.8667
+1213,Castellabate,40.2792,14.9517
+1214,San Marzano di San Giuseppe,40.45,17.5
+1215,Vanzago,45.5333,9
+1216,Cherasco,44.65,7.8667
+1217,Luzzi,39.45,16.2833
+1218,Troina,37.7833,14.6
+1219,Istrana,45.6833,12.1
+1220,Segni,41.6833,13.0167
+1221,Cermenate,45.7,9.0833
+1222,Folignano,42.821,13.6329
+1223,Iseo,45.6586,10.0536
+1224,Magnago,45.5792,8.8025
+1225,Santa Lucia di Piave,45.85,12.2833
+1226,Vittuone,45.4833,8.95
+1227,Costa Volpino,45.8306,10.0992
+1228,Inverigo,45.7333,9.2167
+1229,Gaggiano,45.4048,9.0349
+1230,Podenzano,44.95,9.6833
+1231,Savignano sul Panaro,44.4833,11.0333
+1232,Maserà di Padova,45.3167,11.8667
+1233,Sant’Agnello,40.6294,14.3996
+1234,Santa Margherita Ligure,44.3349,9.2101
+1235,Cogoleto,44.3896,8.6462
+1236,Vaprio d’Adda,45.5667,9.5333
+1237,Reggiolo,44.9167,10.8167
+1238,Serramanna,39.4228,8.9217
+1239,Gonzaga,44.95,10.8167
+1240,Soverato Marina,38.6833,16.55
+1241,Trebisacce,39.8667,16.5333
+1242,Asolo,45.8,11.9167
+1243,Castagneto Carducci,43.1667,10.6
+1244,Martano,40.2,18.3
+1245,Malalbergo,44.7194,11.5331
+1246,Castelnuovo Berardenga,43.3472,11.5042
+1247,Aviano,46.0667,12.5833
+1248,Oggiono,45.7833,9.35
+1249,Roccastrada,43.0097,11.1683
+1250,Petilia Policastro,39.1167,16.7833
+1251,Monteroni d’Arbia,43.2333,11.4167
+1252,San Sebastiano al Vesuvio,40.8333,14.3667
+1253,Colorno,44.93,10.3758
+1254,Tirano,46.2164,10.1689
+1255,Parabita,40.05,18.1333
+1256,Sorisole,45.7375,9.6564
+1257,Cesa,40.9667,14.2333
+1258,Pandino,45.4,9.55
+1259,Civitella in Val di Chiana,43.4053,11.7706
+1260,Monticello Conte Otto,45.6,11.5833
+1261,Montagnana,45.2333,11.4658
+1262,Noventa Vicentina,45.2833,11.5333
+1263,Teolo,45.35,11.6667
+1264,Besozzo,45.85,8.6667
+1265,Gatteo,44.1,12.3833
+1266,Montalto di Castro,42.3514,11.6078
+1267,Roccapiemonte,40.7617,14.6933
+1268,Mozzate,45.6833,8.95
+1269,Lavis,46.139,11.1123
+1270,Guardiagrele,42.1892,14.2216
+1271,Tarcento,46.2167,13.2167
+1272,Luzzara,44.9667,10.6833
+1273,Lacchiarella,45.325,9.14
+1274,Cutrofiano,40.1333,18.2
+1275,Legnaro,45.35,11.9667
+1276,Zogno,45.7939,9.6656
+1277,Castel Gandolfo,41.7469,12.6519
+1278,Ponte Buggianese,43.8408,10.7475
+1279,Monteforte d’Alpone,45.4167,11.2833
+1280,Subiaco,41.9333,13.1
+1281,Soresina,45.2865,9.857
+1282,Porcari,43.8415,10.6163
+1283,Bovalino Marina,38.15,16.1667
+1284,Ala,45.75,11
+1285,Flero,45.4835,10.1745
+1286,Felino,44.6953,10.2416
+1287,Minervino Murge,41.1,16.0833
+1288,La Loggia,44.9667,7.6667
+1289,Albinea,44.6167,10.6
+1290,Ceprano,41.55,13.5167
+1291,Brandizzo,45.1833,7.8333
+1292,Gessate,45.55,9.4333
+1293,Campogalliano,44.6904,10.8389
+1294,Farra di Soligo,45.8833,12.1167
+1295,Vestignè,45.3833,7.95
+1296,Orte,42.4603,12.3861
+1297,Borgoricco,45.5336,11.9659
+1298,Triuggio,45.6667,9.2667
+1299,Minerbio,44.6175,11.4717
+1300,Torre Boldone,45.7167,9.7
+1301,San Giorgio di Piano,44.65,11.3833
+1302,Zanica,45.6394,9.6842
+1303,Monte Porzio Catone,41.8167,12.7167
+1304,Rignano sull’Arno,43.7237,11.4507
+1305,Vergiate,45.7167,8.7
+1306,Trissino,45.5667,11.3667
+1307,Missaglia,45.7,9.3333
+1308,Morlupo,42.1435,12.5047
+1309,Lequile,40.3,18.1333
+1310,Castelbuono,37.9306,14.0883
+1311,Laveno-Mombello,45.9089,8.6204
+1312,Casorate Primo,45.3167,9.0167
+1313,Viagrande,37.6167,15.1
+1314,Monte San Savino,43.3303,11.7308
+1315,Erchie,40.4333,17.7333
+1316,Palazzolo Acreide,37.0617,14.9028
+1317,Coccaglio,45.5633,9.9783
+1318,Pianella,42.4,14.05
+1319,Vicopisano,43.6991,10.5831
+1320,Volvera,44.95,7.5
+1321,San Giuseppe Iato,37.9667,13.1833
+1322,Roverbella,45.2667,10.7667
+1323,Clusone,45.8833,9.95
+1324,Inveruno,45.5167,8.85
+1325,Bruino,45.0167,7.4667
+1326,Casapulla,41.0667,14.2833
+1327,Dorgali,40.2916,9.5876
+1328,San Gavino Monreale,39.5499,8.7916
+1329,Ferrandina,40.5,16.45
+1330,Breganze,45.7,11.5667
+1331,Gavorrano,42.925,10.9083
+1332,Spello,42.9833,12.6667
+1333,Castelnuovo di Porto,42.1278,12.5
+1334,Sortino,37.1667,15.0333
+1335,Chiusi,43.0167,11.95
+1336,Santa Venerina,37.6833,15.1333
+1337,Brembate,45.6,9.55
+1338,Cagli,43.547,12.6473
+1339,Galbiate,45.8,9.3833
+1340,Calvisano,45.3489,10.3458
+1341,Ittiri,40.5908,8.5695
+1342,Ronciglione,42.2894,12.2147
+1343,Boville Ernica,41.6425,13.474
+1344,Striano,40.8167,14.5667
+1345,Santhià,45.3667,8.1667
+1346,Zoppola,45.9667,12.7667
+1347,Fermignano,43.6766,12.645
+1348,Pietra Ligure,44.1487,8.2828
+1349,Villafranca Tirrena,38.2333,15.4333
+1350,Cologna Veneta,45.3167,11.3833
+1351,Sanluri,39.5611,8.9
+1352,Castelnovo di Sotto,44.8167,10.5667
+1353,Sandrigo,45.6667,11.6
+1354,Nogara,45.1833,11.0667
+1355,Castegnato,45.5631,10.115
+1356,Concordia sulla Secchia,44.9124,10.9826
+1357,Prata di Pordenone,45.8944,12.5886
+1358,Pogliano Milanese,45.5333,9
+1359,Casarsa della Delizia,45.95,12.85
+1360,Caprino Veronese,45.6,10.8
+1361,Tombolo,45.6469,11.8281
+1362,Airola,41.0587,14.5592
+1363,Calusco d’Adda,45.6833,9.4833
+1364,Bientina,43.7072,10.6206
+1365,Sala Bolognese,44.6303,11.2761
+1366,Vado Ligure,44.2692,8.4361
+1367,Tuscania,42.4214,11.8719
+1368,Pino Troinese,45.0435,7.7726
+1369,Trevi,42.8933,12.7617
+1370,Vallo della Lucania,40.2333,15.2667
+1371,Ponte di Piave,45.7167,12.4667
+1372,Toritto,41,16.6833
+1373,San Damiano d’Asti,44.8344,8.0647
+1374,Castelnuovo di Magra,44.0994,10.0178
+1375,Piovene Rocchette,45.7667,11.4333
+1376,Fiesso d’Artico,45.4167,12.0333
+1377,Altavilla Milicia,38.0422,13.5503
+1378,San Sperate,39.3575,9.0083
+1379,Serramazzoni,44.4167,10.8
+1380,Cuggiono,45.5,8.8167
+1381,Soriano nel Cimino,42.4194,12.2342
+1382,Massa Marittima,43.05,10.8936
+1383,Taglio di Po,45,12.2167
+1384,Fabrica di Roma,42.3347,12.3003
+1385,Salice Salentino,40.3833,17.9667
+1386,Ponte nell’Alpi,46.183,12.2791
+1387,Albano Sant’Alessandro,45.6858,9.7678
+1388,Sirmione,45.4694,10.6061
+1389,Decimomannu,39.3112,8.9703
+1390,Agira,37.65,14.5167
+1391,Monte Urano,43.206,13.6721
+1392,Vicchio,43.9333,11.4667
+1393,Petrosino,37.7127,12.4996
+1394,Boiano,41.4833,14.4667
+1395,Verolanuova,45.3258,10.0758
+1396,Capriate San Gervasio,45.6089,9.5281
+1397,San Cesario di Lecce,40.3,18.1667
+1398,Fusignano,44.4667,11.95
+1399,Paliano,41.8,13.05
+1400,Cariati,39.4963,16.955
+1401,Racalmuto,37.4083,13.7347
+1402,Rivolta d’Adda,45.4667,9.5167
+1403,Caccamo,37.9333,13.6667
+1404,Rossano Veneto,45.7067,11.8069
+1405,Solarino,37.1,15.1167
+1406,Chiaramonte Gulfi,37.0333,14.7
+1407,Vobarno,45.641,10.5045
+1408,Fuscaldo,39.4167,16.0333
+1409,Quarto d’Altino,45.5786,12.3727
+1410,Cervaro,41.4828,13.9022
+1411,Leporano,40.3822,17.3343
+1412,Verdello,45.605,9.6297
+1413,Campomarino,41.9567,15.0344
+1414,Fontaniva,45.6376,11.7522
+1415,Villa Guardia,45.7833,9.0167
+1416,Novoli,40.3833,18.05
+1417,Fara Gera d’Adda,45.55,9.5333
+1418,None,44.9333,7.5333
+1419,Montorio al Vomano,42.5833,13.6333
+1420,Grottaminarda,41.0708,15.0597
+1421,Caerano di San Marco,45.7853,12.0042
+1422,Levico Terme,46.0167,11.3
+1423,Gattinara,45.6167,8.3667
+1424,San Daniele del Friuli,46.15,13.0167
+1425,Monte San Giusto,43.2379,13.5946
+1426,Pisogne,45.8108,10.1081
+1427,Motta Visconti,45.2833,9
+1428,Maracalagonis,39.2862,9.2289
+1429,Casteltermini,37.5417,13.6453
+1430,Tavullia,43.898,12.7532
+1431,Borgonovo Val Tidone,45.0167,9.45
+1432,San Giovanni Gemini,37.6292,13.6417
+1433,Meta,40.6417,14.4167
+1434,Cellole,41.2,13.85
+1435,Cartoceto,43.7643,12.8832
+1436,Bosa,40.299,8.4978
+1437,Limena,45.4667,11.85
+1438,Mariglianella,40.9167,14.4333
+1439,Portico di Caserta,41.05,14.2833
+1440,Marnate,45.6333,8.9
+1441,Campoformido,46.0167,13.1667
+1442,Gravellona Toce,45.9333,8.4333
+1443,Cumiana,44.9833,7.3667
+1444,Colico,46.1333,9.3667
+1445,Arcugnano,45.5004,11.5353
+1446,Bolano,44.1891,9.8954
+1447,Toscolano,45.6398,10.6076
+1448,Breda di Piave,45.7245,12.331
+1449,Palagianello,40.6167,16.9667
+1450,Origgio,45.5969,9.0183
+1451,Serra Riccò,44.5078,8.936
+1452,Crescentino,45.1833,8.1
+1453,Avella,40.96,14.6014
+1454,Sacrofano,42.1,12.45
+1455,Rovellasca,45.6667,9.05
+1456,Teggiano,40.3833,15.5333
+1457,Marmirolo,45.2193,10.7561
+1458,Rizziconi,38.4122,15.9589
+1459,Torrile,44.9209,10.3264
+1460,San Gimignano,43.4677,11.0432
+1461,Pantelleria,36.7875,11.9925
+1462,Tavernelle in Val di Pesa,43.5614,11.1729
+1463,Pelago,43.7739,11.5047
+1464,Appiano Gentile,45.7383,8.9797
+1465,Vigliano Biellese,45.5617,8.1117
+1466,Manziana,42.1333,12.1333
+1467,Pasiano,45.8686,12.6444
+1468,Carpaneto Piacentino,44.9167,9.7833
+1469,Fivizzano,44.2333,10.1167
+1470,Vietri sul Mare,40.6722,14.7278
+1471,Cairate,45.6833,8.8667
+1472,Recale,41.05,14.3
+1473,Loreggia,45.6,11.95
+1474,Barge,44.7333,7.3167
+1475,Agerola,40.6333,14.55
+1476,Santa Maria di Licodia,37.6167,14.9
+1477,Tricesimo,46.15,13.2167
+1478,Città della Pieve,42.9539,12.0078
+1479,Vico del Gargano,41.85,15.9564
+1480,Castiglione Olona,45.7531,8.8744
+1481,Vergato,44.2833,11.1167
+1482,Costabissara,45.5833,11.4833
+1483,Mozzecane,45.3,10.8167
+1484,Soncino,45.4,9.8667
+1485,Stra,45.4167,12.25
+1486,Vigarano Mainarda,44.85,11.5
+1487,Naro,37.2925,13.7934
+1488,Brisighella,44.2167,11.7667
+1489,Castellalto,42.6771,13.8178
+1490,Carmignano di Brenta,45.6333,11.7
+1491,Curno,45.6911,9.6125
+1492,Mirabella Eclano,41.0458,14.9997
+1493,Lodi Vecchio,45.3033,9.4186
+1494,Sonnino,41.4145,13.2414
+1495,Candelo,45.5478,8.1069
+1496,Cologne,45.5849,9.9434
+1497,Pratola Peligna,42.0992,13.8747
+1498,Nicolosi,37.6167,15.0167
+1499,Campofelice di Roccella,37.9833,13.8833
+1500,Caluso,45.3,7.8833
+1501,Lamporecchio,43.8167,10.9
+1502,Roccasecca,41.55,13.6667
+1503,Cotignola,44.3833,11.9333
+1504,San Giórgio di Nogaro,45.8333,13.2
+1505,Vitulazio,41.1667,14.2167
+1506,San Zenone,45.7833,11.8333
+1507,Bovezzo,45.5833,10.25
+1508,Grumello del Monte,45.6333,9.8667
+1509,Vedano Olona,45.7769,8.8869
+1510,Torregrotta,38.2,15.35
+1511,San Colombano al Lambro,45.1833,9.4833
+1512,San Marco Argentano,39.55,16.1167
+1513,Sparanise,41.1833,14.1
+1514,Borgetto,38.05,13.15
+1515,Zelo Buon Persico,45.4133,9.4336
+1516,Loreto Aprutino,42.4347,13.9836
+1517,Tito,40.5833,15.6833
+1518,Pederobba,45.8739,11.9475
+1519,Cavenago di Brianza,45.5847,9.4158
+1520,Cormòns,45.95,13.4667
+1521,Sant’Agata Bolognese,44.6667,11.1333
+1522,Volta Mantovana,45.3194,10.6594
+1523,Forte dei Marmi,43.95,10.1833
+1524,Castel Madama,41.9747,12.8672
+1525,Carnate,45.6506,9.3785
+1526,Marcellina,42.0236,12.8069
+1527,Vezzano Ligure,44.1412,9.8849
+1528,Curtarolo,45.5167,11.8333
+1529,Chiavenna,46.3167,9.4
+1530,Manciano,42.5875,11.515
+1531,Staranzano,45.8,13.5
+1532,Luserna San Giovanni,44.8167,7.25
+1533,Venegono Superiore,45.75,8.9
+1534,Castiglione della Pescaia,42.7656,10.8808
+1535,Poviglio,44.8333,10.55
+1536,Torrita di Siena,43.1667,11.7667
+1537,Santa Giustina in Colle,45.5667,11.9
+1538,Rufina,43.8167,11.4833
+1539,Militello in Val di Catania,37.2742,14.7933
+1540,Binasco,45.3333,9.1
+1541,Isola delle Femmine,38.2,13.25
+1542,Carinola,41.1833,13.9833
+1543,Turbigo,45.5333,8.7333
+1544,Povegliano Veronese,45.3473,10.8806
+1545,Campagna Lupia,45.35,12.1
+1546,Camerano,43.5277,13.5526
+1547,Montalbano Ionico,40.2833,16.5667
+1548,Montecosaro,43.3169,13.6354
+1549,Roggiano Gravina,39.6167,16.15
+1550,Corte Franca,45.6333,9.9833
+1551,Cagnano Varano,41.8333,15.7667
+1552,Pontremoli,44.3761,9.8799
+1553,Castello di Godego,45.7,11.8833
+1554,Longiano,44.0833,12.3333
+1555,Sennori,40.7899,8.5952
+1556,Regalbuto,37.65,14.6333
+1557,Sant’Angelo di Piove di Sacco,45.3456,12.0072
+1558,Adro,45.6179,9.9625
+1559,Cimitile,40.9333,14.5333
+1560,Capri,40.5556,14.2403
+1561,Mezzolombardo,46.2097,11.0978
+1562,Arpino,41.6471,13.6115
+1563,Bardolino,45.5517,10.7214
+1564,Varallo,45.8138,8.2581
+1565,Quiliano,44.2931,8.4103
+1566,Galliera Veneta,45.6667,11.8333
+1567,Spinetoli,42.8887,13.7731
+1568,Melissano,39.9667,18.1333
+1569,Novafeltria,43.8954,12.2904
+1570,Pontevico,45.2722,10.0917
+1571,Brugine,45.3,11.9925
+1572,Roccadaspide,40.4333,15.2
+1573,Campli,42.7261,13.6861
+1574,Caulonia,38.3833,16.4167
+1575,Soave,45.4196,11.2459
+1576,Camerota,40.033,15.3699
+1577,Sassoferrato,43.4275,12.8565
+1578,Trino,45.1953,8.2961
+1579,Altavilla Silentina,40.5333,15.1333
+1580,Montecassiano,43.3637,13.4359
+1581,Urbania,43.6678,12.5221
+1582,Asciano,43.2342,11.5608
+1583,Pieve di Cento,44.7131,11.3083
+1584,Rivergaro,44.9,9.6
+1585,Buttapietra,45.35,10.9333
+1586,Vernole,40.2833,18.3
+1587,Gioiosa Ionica,38.3333,16.3
+1588,Dronero,44.4667,7.3667
+1589,Passirano,45.6,10.0667
+1590,Chianciano Terme,43.0667,11.8333
+1591,Orosei,40.3797,9.6942
+1592,Pegognaga,45,10.85
+1593,Fossò,45.3833,12.05
+1594,Grazzanise,41.0833,14.1
+1595,San Benedetto Po,45.0333,10.9167
+1596,Fontanellato,44.8825,10.1558
+1597,Canicattini Bagni,37.0333,15.0667
+1598,Cavezzo,44.837,11.0307
+1599,Baricella,44.6475,11.5353
+1600,Carosino,40.4667,17.4
+1601,Solesino,45.1667,11.75
+1602,Olginate,45.8,9.4167
+1603,Cordignano,45.95,12.4167
+1604,Morciano di Romagna,43.9167,12.65
+1605,Oliena,40.271,9.4028
+1606,Barlassina,45.65,9.1333
+1607,Calimera,40.25,18.2833
+1608,Cles,46.3667,11.0333
+1609,San Filippo della Mela,38.1667,15.2667
+1610,Centallo,44.5,7.5833
+1611,Bellante,42.75,13.8
+1612,Senise,40.1333,16.2833
+1613,Borgo a Mozzano,43.9797,10.5467
+1614,Roncoferraro,45.1342,10.9524
+1615,Spezzano Albanese,39.6667,16.3167
+1616,Cassolnovo,45.3667,8.8
+1617,Scorrano,40.0902,18.2999
+1618,Vallecrosia,43.7931,7.6439
+1619,Vazzola,45.8333,12.3833
+1620,Santi Cosma e Damiano,41.3,13.8167
+1621,Serino,40.85,14.875
+1622,Saltara,43.7534,12.8976
+1623,Noventa di Piave,45.6667,12.5333
+1624,Anacapri,40.5514,14.2167
+1625,San Fior di Sopra,45.9222,12.3614
+1626,Lazise,45.5053,10.7325
+1627,Vipiteno,46.8931,11.4296
+1628,Camerino,43.1333,13.0667
+1629,Cambiago,45.5667,9.4167
+1630,Borgo,46.0512,11.4576
+1631,Lignano Sabbiadoro,45.655,13.0931
+1632,Gioiosa Marea,38.1667,14.9
+1633,Roccarainola,40.9667,14.5667
+1634,Busseto,44.9794,10.0433
+1635,Villasor,39.3809,8.9413
+1636,Pozzuolo del Friuli,45.9681,13.1969
+1637,Manoppello,42.2578,14.0597
+1638,Montelabbate,43.8489,12.7909
+1639,Pignola,40.5667,15.7833
+1640,Borgo Val di Taro,44.4833,9.7667
+1641,Nole,45.25,7.5833
+1642,Sommatino,37.3369,13.9975
+1643,Spino d’Adda,45.4,9.5
+1644,Zibido San Giacomo,45.3667,9.1167
+1645,Marzabotto,44.3333,11.2
+1646,Ferno,45.6203,8.7636
+1647,Campomorone,44.5069,8.8918
+1648,Sant’Agostino,44.792,11.3869
+1649,Mapello,45.7089,9.5478
+1650,Mercato Saraceno,43.95,12.2
+1651,San Vincenzo,43.1007,10.5388
+1652,Pietraperzia,37.4,14.1333
+1653,Cerano,45.4,8.7833
+1654,Martignacco,46.1,13.1333
+1655,Nova Siri,40.15,16.5333
+1656,Monte San Vito,43.6005,13.2711
+1657,Caraglio,44.4167,7.4333
+1658,Santa Giustina,46.0839,12.0432
+1659,Mesola,44.9206,12.23
+1660,Villa di Serio,45.7217,9.735
+1661,Cava Manara,45.1333,9.1
+1662,Lercara Friddi,37.75,13.6
+1663,Settimo San Pietro,39.291,9.1853
+1664,Tagliacozzo,42.0694,13.2547
+1665,Olevano sul Tusciano,40.65,15.0167
+1666,Mileto,38.6078,16.0675
+1667,Ostiglia,45.0704,11.1364
+1668,Robecco sul Naviglio,45.4333,8.8833
+1669,Montegiorgio,43.1307,13.5371
+1670,Carnago,45.7167,8.8333
+1671,Curinga,38.8267,16.3139
+1672,Cittaducale,42.3833,12.95
+1673,Cernobbio,45.8381,9.0758
+1674,Praia a Mare,39.9167,15.7667
+1675,Sapri,40.0667,15.6333
+1676,Casteggio,45.0167,9.1333
+1677,Castel di Sangro,41.7842,14.1085
+1678,Alliste,39.95,18.0833
+1679,Notaresco,42.65,13.9
+1680,Carapelle,41.3667,15.7
+1681,Sarnico,45.6667,9.95
+1682,Salgareda,45.7061,12.4913
+1683,Larino,41.8,14.9167
+1684,Nervesa della Battaglia,45.8333,12.2167
+1685,Villa d’Almè,45.75,9.6167
+1686,Olevano Romano,41.8606,13.0319
+1687,Torgiano,43.0256,12.4342
+1688,Zanè,45.7167,11.4667
+1689,Arconate,45.5333,8.85
+1690,Sutri,42.2478,12.2158
+1691,Brendola,45.4667,11.45
+1692,Poggio Rusco,44.9775,11.1192
+1693,Villadossola,46.0736,8.2669
+1694,Montenero di Bisaccia,41.95,14.7833
+1695,Fabbrico,44.8667,10.8
+1696,Serra San Bruno,38.5833,16.3333
+1697,Avetrana,40.3539,17.7358
+1698,Marina di Gioiosa Ionica,38.3,16.3333
+1699,Marcaria,45.1167,10.5333
+1700,Dozza,44.359,11.6277
+1701,Castello d’Argile,44.6811,11.2967
+1702,San Marco Evangelista,41.0333,14.3333
+1703,Mede,45.1,8.7333
+1704,San Cipriano Picentino,40.7167,14.8667
+1705,San Donaci,40.45,17.9167
+1706,Gorle,45.7039,9.7192
+1707,Livigno,46.5333,10.1333
+1708,Pollenza,43.2678,13.3481
+1709,Montesano sulla Marcellana,40.2833,15.7
+1710,Montebello Vicentino,45.45,11.3833
+1711,Marineo,37.95,13.4167
+1712,Calatafimi,37.9,12.85
+1713,Cellino San Marco,40.4667,17.9667
+1714,Gonnosfanàdiga,39.4933,8.6629
+1715,Ceriano Laghetto,45.6333,9.0833
+1716,Strongoli,39.2667,17.0667
+1717,Vairano Patenora,41.3333,14.1333
+1718,Spinazzola,40.9667,16.0833
+1719,Pontenure,45,9.7833
+1720,Buia,46.2122,13.1169
+1721,Bolzano Vicentino,45.6,11.6167
+1722,Verzuolo,44.6,7.4833
+1723,Cinquefrondi,38.4167,16.1
+1724,Gualtieri,44.9,10.6333
+1725,Labico,41.7833,12.8833
+1726,Piedimonte San Germano,41.5,13.7333
+1727,Pizzighettone,45.1833,9.7833
+1728,Codevigo,45.2672,12.1014
+1729,Canova,45.7333,9.4
+1730,San Cesario sul Panaro,44.5667,11.0333
+1731,Rosolina,45.0667,12.2333
+1732,Sammichele di Bari,40.8833,16.95
+1733,Gradisca d’Isonzo,45.8833,13.5
+1734,Roccella Ionica,38.3167,16.4
+1735,Sant’Arcangelo,40.2485,16.2705
+1736,Balestrate,38.0513,13.0072
+1737,Asiago,45.8667,11.5167
+1738,Capranica,42.2585,12.1728
+1739,Almese,45.1167,7.4
+1740,Vidigulfo,45.3,9.2333
+1741,Dairago,45.57,8.8664
+1742,Calci,43.7244,10.5192
+1743,Arquata Scrivia,44.6925,8.8817
+1744,Albanella,40.4833,15.1167
+1745,Poggio Mirteto,42.2672,12.6886
+1746,Cisano Bergamasco,45.7431,9.4708
+1747,Landriano,45.3167,9.2667
+1748,Monzuno,44.2833,11.2667
+1749,Subbiano,43.58,11.8722
+1750,Alessano,39.8833,18.3333
+1751,San Marcello Pistoiese,44.0556,10.7908
+1752,Sesto al Reghena,45.85,12.8167
+1753,Capannoli,43.59,10.6697
+1754,Fossacesia,42.25,14.4833
+1755,Mesoraca,39.0833,16.7833
+1756,Albiate,45.6667,9.25
+1757,Buttigliera Alta,45.0667,7.4167
+1758,Lesina,41.8667,15.35
+1759,San Giorgio in Bosco,45.5833,11.8
+1760,Meolo,45.6203,12.4559
+1761,Gallicano nel Lazio,41.8667,12.8167
+1762,Susa,45.1333,7.05
+1763,Caneva,45.9667,12.45
+1764,Santa Margherita di Belice,37.6928,13.0211
+1765,Robbiate,45.6833,9.4333
+1766,Abbadia San Salvatore,42.8831,11.6706
+1767,Sommariva del Bosco,44.7667,7.7833
+1768,Monte San Biagio,41.35,13.35
+1769,Tropea,38.6781,15.8969
+1770,Recoaro Terme,45.7,11.2333
+1771,Fagagna,46.1167,13.0833
+1772,San Martino Siccomario,45.15,9.1333
+1773,Porto Cesareo,40.2667,17.9
+1774,Quinzano d’Oglio,45.3167,9.9833
+1775,Cornuda,45.8322,12.0081
+1776,Mattinata,41.7167,16.05
+1777,Tortorici,38.0308,14.8242
+1778,San Michele Salentino,40.6333,17.6333
+1779,Medolla,44.8488,11.0714
+1780,Marcallo con Casone,45.4982,8.8764
+1781,Almenno San Bartolomeo,45.7489,9.5797
+1782,Arcole,45.35,11.2833
+1783,San Canzian d’lsonzo,45.8,13.4667
+1784,Belgioioso,45.1667,9.3167
+1785,Trasacco,41.9578,13.5353
+1786,Cammarata,37.6311,13.6322
+1787,Fossalta di Portogruaro,45.7833,12.9167
+1788,Castelgomberto,45.5833,11.4
+1789,Maiolati Spontini,43.4772,13.1192
+1790,Silandro,46.6283,10.7681
+1791,Montebello Ionico,37.9833,15.7667
+1792,Sernaglia della Battaglia,45.8833,12.1333
+1793,Carloforte,39.145,8.3054
+1794,Villa Cortese,45.5667,8.8833
+1795,Ghisalba,45.6,9.75
+1796,Strambino,45.3833,7.8833
+1797,Ascoli Satriano,41.2156,15.5578
+1798,Tortora,39.9413,15.8052
+1799,Piana degli Albanesi,38,13.2833
+1800,San Polo d’Enza in Caviano,44.6333,10.4333
+1801,Nicotera,38.55,15.9333
+1802,Lioni,40.8775,15.1886
+1803,Poppi,43.7358,11.7617
+1804,Sumirago,45.7393,8.7808
+1805,Domusnovas,39.3211,8.6531
+1806,Montelepre,38.1,13.1667
+1807,Villaverla,45.65,11.5
+1808,San Giovanni al Natisone,45.9833,13.4
+1809,Rio Saliceto,44.8167,10.8
+1810,Ravarino,44.7167,11.1
+1811,Venegono Inferiore,45.7333,8.9
+1812,Ceggia,45.6833,12.6333
+1813,Rovello Porro,45.65,9.0333
+1814,Torreglia,45.3333,11.7333
+1815,Monterenzio,44.3333,11.4
+1816,Bellona,41.1667,14.2333
+1817,Crocetta del Montello,45.8333,12.0333
+1818,Remanzacco,46.0833,13.3167
+1819,Casalbordino,42.15,14.5833
+1820,Sermide,45.0035,11.2929
+1821,Motta San Giovanni,38,15.7
+1822,Cadeo,44.9667,9.8333
+1823,Siziano,45.3167,9.2
+1824,Vizzini,37.1667,14.75
+1825,Gaiarine,45.8833,12.4833
+1826,Luco dei Marsi,41.9613,13.4685
+1827,San Lucido,39.3167,16.05
+1828,Collecorvino,42.4667,14.0167
+1829,Pantigliate,45.4353,9.3522
+1830,Sant’Elia Fiumerapido,41.55,13.8667
+1831,Vernio,44.05,11.15
+1832,San Benigno Canavese,45.25,7.7833
+1833,Godega di Sant’Urbano,45.9286,12.3969
+1834,Offanengo,45.3833,9.7333
+1835,Ostellato,44.75,11.9333
+1836,San Giovanni Suèrgiu,39.1109,8.5225
+1837,Guidizzolo,45.3167,10.5833
+1838,Brignano Gera d’Adda,45.5333,9.6333
+1839,Cambiano,44.9711,7.7744
+1840,Fornovo di Taro,44.6833,10.1
+1841,Pimonte,40.6736,14.5125
+1842,Ronco all’Adige,45.3365,11.2466
+1843,Bagni di Lucca,44.0094,10.5794
+1844,Serravalle Scrivia,44.7225,8.8603
+1845,Poggiardo,40.05,18.3833
+1846,Castelsardo,40.9144,8.7128
+1847,Calcinate,45.6212,9.8003
+1848,Collepasso,40.0667,18.1667
+1849,Bagnolo Piemonte,44.7667,7.3167
+1850,Mel,46.0622,12.0798
+1851,Gualdo Cattaneo,42.9167,12.55
+1852,Pignataro Maggiore,41.2,14.1667
+1853,Serradifalco,37.4538,13.8805
+1854,Borso del Grappa,45.8167,11.8
+1855,Genazzano,41.8333,12.9667
+1856,Roveredo in Piano,46.0167,12.6167
+1857,Bagnolo San Vito,45.0833,10.8833
+1858,Castelnuovo di Garfagnana,44.1219,10.4056
+1859,Maiano,46.1833,13.0667
+1860,Cavaion Veronese,45.5401,10.7705
+1861,Montalcino,43.0592,11.4892
+1862,Truccazzano,45.4833,9.4667
+1863,Villa Bartolomea,45.1583,11.3531
+1864,Bagno di Romagna,43.8333,11.9667
+1865,Picerno,40.6333,15.6333
+1866,Diano Marina,43.9099,8.082
+1867,Sannicola,40.1,18.0667
+1868,Loro Ciuffenna,43.5867,11.6286
+1869,Ascea,40.15,15.1833
+1870,Torrebelvicino,45.7167,11.3167
+1871,Cortina d’Ampezzo,46.5381,12.1372
+1872,Cavaria,45.7,8.8
+1873,Sambuca di Sicilia,37.6478,13.1111
+1874,Robbio,45.2914,8.5922
+1875,Villanuova sul clisi,45.6,10.45
+1876,Girifalco,38.8167,16.4333
+1877,Bussoleno,45.1411,7.1475
+1878,Costigliole d’Asti,44.785,8.1819
+1879,Quinto Vicentino,45.5667,11.6167
+1880,Palosco,45.5833,9.8333
+1881,Naturno,46.6502,11.0084
+1882,Stornara,41.2833,15.7667
+1883,Otranto,40.15,18.4833
+1884,Villanova Mondovì,44.35,7.7667
+1885,Cellamare,41.0203,16.9292
+1886,Rosate,45.3333,9.0167
+1887,Rudiano,45.4833,9.8833
+1888,Ceva,44.3833,8.0333
+1889,Corigliano d’Otranto,40.1667,18.25
+1890,Brolo,38.1562,14.828
+1891,Rogliano,39.1833,16.3167
+1892,San Dorligo della Valle,45.6225,13.8578
+1893,Campo San Martino,45.55,11.8167
+1894,Fontanelle,45.8333,12.4667
+1895,Gattatico,44.8,10.4667
+1896,San Paolo di Civitate,41.7333,15.2667
+1897,Alezio,40.0667,18.05
+1898,Cogorno,44.3331,9.3725
+1899,Spirano,45.5828,9.6692
+1900,Uzzano,43.8833,10.7167
+1901,Cancello,41.0734,14.0254
+1902,Gabicce,43.9668,12.7563
+1903,Passignano sul Trasimeno,43.1833,12.1333
+1904,Santorso,45.7333,11.3833
+1905,Nocera Umbra,43.1167,12.7833
+1906,Trevignano Romano,42.15,12.25
+1907,Pomarance,43.2997,10.8736
+1908,Ciserano,45.5833,9.6
+1909,Genzano di Lucania,40.85,16.0333
+1910,Casorate Sempione,45.6667,8.7333
+1911,Villanova d’Asti,44.9428,7.9383
+1912,Castelverde,45.1875,9.9969
+1913,San Secondo Parmense,44.9167,10.2333
+1914,Longare,45.4833,11.6167
+1915,Guagnano,40.4,17.95
+1916,Riolo Terme,44.2833,11.7333
+1917,Rocca di Neto,39.1883,17.0042
+1918,Almenno San Salvatore,45.75,9.5875
+1919,San Giorgio Piacentino,44.95,9.7333
+1920,Arce,41.5833,13.5833
+1921,Acque Dolci,38.05,14.5833
+1922,Romentino,45.4667,8.7167
+1923,San Donato di Lecce,40.2667,18.1833
+1924,Gossolengo,45,9.6167
+1925,Ospedaletto Euganeo,45.2231,11.6111
+1926,Casaleone,45.1667,11.2
+1927,Candiolo,44.9667,7.6
+1928,Buti,43.7297,10.5867
+1929,Campagnola Emilia,44.8361,10.7547
+1930,Canale,44.8,8
+1931,Gozzano,45.75,8.4333
+1932,Sala Baganza,44.7167,10.2333
+1933,Fontevivo,44.8565,10.1762
+1934,Panicale,43.0333,12.1
+1935,Almè,45.7369,9.6153
+1936,Dello,45.4194,10.075
+1937,Brescello,44.9,10.5167
+1938,Grotte,37.4058,13.7011
+1939,Casoli,42.1151,14.2906
+1940,Trivero,45.6667,8.1667
+1941,Monteiasi,40.5,17.3833
+1942,Apice,41.1167,14.9333
+1943,Montefalco,42.8908,12.6483
+1944,Misinto,45.6667,9.0833
+1945,Pavia di Udine,46,13.3
+1946,Ceriale,44.0966,8.2321
+1947,Custonaci,38.0788,12.6751
+1948,Maiori,40.6486,14.6389
+1949,Peveragno,44.3333,7.6167
+1950,Camporosso,43.8151,7.6284
+1951,Besnate,45.7,8.7667
+1952,Quistello,45.0066,10.9805
+1953,Cilavegna,45.3167,8.75
+1954,Angera,45.7667,8.5833
+1955,Busalla,44.571,8.9453
+1956,Chiaravalle Centrale,38.6833,16.4
+1957,Anghiari,43.5417,12.055
+1958,Carcare,44.3579,8.2906
+1959,Davoli,38.65,16.4833
+1960,Marsico Vetere,40.3744,15.8261
+1961,San Tammaro,41.0759,14.231
+1962,Bracigliano,40.8167,14.7
+1963,Villa del Conte,45.5833,11.8667
+1964,Dicomano,43.9,11.5333
+1965,Castiglione dei Pepoli,44.15,11.15
+1966,Bentivoglio,44.6353,11.4189
+1967,Cavour,44.7833,7.3833
+1968,Caiazzo,41.1833,14.3667
+1969,Moglia,44.9333,10.9167
+1970,Mezzocorona,46.2167,11.1167
+1971,Solbiate Olona,45.65,8.8833
+1972,Cotronei,39.1667,16.7833
+1973,Borgo San Giacomo,45.348,9.9682
+1974,Cavallermaggiore,44.7167,7.6833
+1975,Casorezzo,45.5167,8.9
+1976,Galliera,44.75,11.4
+1977,Lagonegro,40.1333,15.7667
+1978,Acquapendente,42.7447,11.865
+1979,Certosa di Pavia,45.2544,9.1279
+1980,Corsano,39.8891,18.3675
+1981,Povoletto,46.1167,13.2833
+1982,Sannazzaro de’ Burgondi,45.1,8.9
+1983,Soleto,40.1877,18.2074
+1984,Palmanova,45.9,13.3167
+1985,Torchiarolo,40.4833,18.05
+1986,Caprarola,42.3275,12.2367
+1987,Montepaone,38.7167,16.5
+1988,Gandino,45.8117,9.9031
+1989,Santa Teresa Gallura,41.2392,9.1888
+1990,Vanzaghello,45.5833,8.7833
+1991,Albisola Marina,44.3273,8.5031
+1992,Lanusei,39.8787,9.5415
+1993,Lurago d’Erba,45.75,9.2167
+1994,Padula,40.339,15.6563
+1995,Arienzo,41.0273,14.4977
+1996,Centuripe,37.6233,14.7395
+1997,Villapiana,39.85,16.45
+1998,Casalserugo,45.3167,11.9167
+1999,Cupra Marittima,43.0249,13.8589
+2000,Forino,40.8636,14.7369
+2001,San Cipirello,37.9667,13.1833
+2002,Gazzo Veronese,45.15,11.0833
+2003,Boretto,44.9,10.55
+2004,Basiliano,46.0167,13.1
+2005,Stornarella,41.25,15.7333
+2006,Muro Lucano,40.75,15.4833
+2007,Nereto,42.82,13.8169
+2008,Codognè,45.8667,12.4333
+2009,Linguaglossa,37.8428,15.1419
+2010,Limana,46.1,12.1833
+2011,Castelvetro Piacentino,45.1,9.9833
+2012,Rivanazzano,44.9308,9.0142
+2013,Monte Libretti,42.1333,12.7333
+2014,Casal Velino,40.1833,15.1167
+2015,Camposano,40.95,14.5333
+2016,Sovere,45.8167,10.0333
+2017,Aquino,41.5,13.7
+2018,Viggiù,45.8667,8.9
+2019,Sant’Omero,42.7833,13.8
+2020,Carsoli,42.0988,13.0886
+2021,Rapolano Terme,43.2833,11.6
+2022,Camogli,44.3484,9.1558
+2023,Albizzate,45.7167,8.8
+2024,Gizzeria,38.9833,16.2
+2025,Diamante,39.6833,15.8167
+2026,Oppido Mamertina,38.3,15.9833
+2027,Montemiletto,41.0167,14.9
+2028,Monticelli d’Ongina,45.0833,9.9333
+2029,Presicce,39.9,18.2667
+2030,Canino,42.465,11.7519
+2031,Sarroch,39.0658,9.0102
+2032,Ispra,45.8167,8.6167
+2033,Sarcedo,45.7,11.5333
+2034,Botricello,38.9333,16.85
+2035,Calatabiano,37.8228,15.2278
+2036,Polla,40.5167,15.5
+2037,Muravera,39.4196,9.5763
+2038,Rodigo,45.2,10.6333
+2039,Mugnano del Cardinale,40.9333,14.6333
+2040,San Vito Chietino,42.3,14.45
+2041,Malles Venosta,46.6879,10.5465
+2042,Montanaro,45.2327,7.8549
+2043,Longarone,46.2667,12.3
+2044,Castronno,45.7333,8.8
+2045,Santa Caterina Villarmosa,37.6,14.0333
+2046,Esine,45.9264,10.2517
+2047,Ripi,41.6167,13.4333
+2048,Guglionesi,41.9167,14.9167
+2049,Povegliano,45.7667,12.2
+2050,Illasi,45.4667,11.1833
+2051,Maruggio,40.3228,17.5736
+2052,Vitorchiano,42.4664,12.1733
+2053,Castellucchio,45.15,10.65
+2054,Chiusa,46.64,11.5657
+2055,San Pietro di Feletto,45.9333,12.25
+2056,Fragagnano,40.4333,17.4667
+2057,Poncarale,45.4619,10.1778
+2058,Neviano,40.1,18.1167
+2059,Lovere,45.8125,10.07
+2060,Coreglia Antelminelli,44.0644,10.5264
+2061,Laces,46.6167,10.8667
+2062,Tuglie,40.0735,18.0987
+2063,Tricarico,40.6167,16.15
+2064,Giavera del Montello,45.8,12.1667
+2065,Correzzola,45.2333,12.0667
+2066,Castrignano del Capo,39.8333,18.35
+2067,Castelnuovo Scrivia,44.9814,8.8822
+2068,Albaredo d’Adige,45.3167,11.2667
+2069,Cannobio,46.0667,8.7
+2070,Favria,45.3333,7.6833
+2071,Giussago,45.2848,9.1407
+2072,Cividate al Piano,45.55,9.8167
+2073,Gottolengo,45.2928,10.2734
+2074,Celle Ligure,44.3421,8.5456
+2075,Trezzano Rosa,45.5833,9.4833
+2076,Chions,45.85,12.7167
+2077,Cerda,37.9,13.8167
+2078,Marano sul Panaro,44.4572,10.9719
+2079,Vigone,44.85,7.5
+2080,Capistrello,41.9736,13.4
+2081,Centola,40.0667,15.3167
+2082,Bottanuco,45.6397,9.5064
+2083,Vaglia,43.9107,11.28
+2084,Bucchianico,42.3044,14.1806
+2085,Campegine,44.7844,10.5328
+2086,Veronella,45.3231,11.3244
+2087,Ardore,38.1833,16.1667
+2088,Samassi,39.4815,8.9053
+2089,Portoscuso,39.2049,8.3805
+2090,Amalfi,40.6333,14.6028
+2091,Barzanò,45.7333,9.3167
+2092,Gagliano del Capo,39.85,18.3667
+2093,Maser,45.8167,11.9833
+2094,Colle Umberto,45.95,12.35
+2095,Assoro,37.6333,14.4167
+2096,Borgo Ticino,45.6833,8.6
+2097,Maratea,39.9928,15.7167
+2098,Mineo,37.2664,14.6911
+2099,San Giovanni Ilarione,45.5167,11.2333
+2100,Canzo,45.85,9.2667
+2101,Laureana di Borrello,38.4919,16.0811
+2102,Grassano,40.6333,16.2833
+2103,Ornago,45.6,9.4167
+2104,Baselga di Pinè,46.1298,11.2446
+2105,Mansuè,45.8232,12.5356
+2106,Pagnacco,46.1167,13.1833
+2107,Gazzaniga,45.8,9.8333
+2108,Melicucco,38.4333,16.05
+2109,Corropoli,42.8333,13.8333
+2110,Condofuri,38,15.8667
+2111,Lagundo,46.6833,11.1333
+2112,Telgate,45.6333,9.85
+2113,Montecastrilli,42.65,12.4833
+2114,Arosio,45.7167,9.2167
+2115,Villadose,45.0667,11.9
+2116,Bella,40.7667,15.5333
+2117,Bevagna,42.9333,12.6167
+2118,Lonate Ceppino,45.7,8.8667
+2119,Lanzo Torinese,45.2667,7.4833
+2120,Castelbellino,43.4878,13.1458
+2121,Agnone,41.8104,14.3785
+2122,Tolfa,42.15,11.9333
+2123,Lesignano de’ Bagni,44.643,10.2994
+2124,Lomagna,45.6667,9.3667
+2125,Terranova di Sibari,39.65,16.3333
+2126,Sant’Angelo Romano,42.0333,12.7167
+2127,San Gemini,42.6131,12.547
+2128,Gorla Maggiore,45.6662,8.9044
+2129,Spadafora,38.2333,15.3833
+2130,Santo Stefano Ticino,45.4833,8.9167
+2131,Tursi,40.25,16.4667
+2132,San Ferdinando,38.4867,15.9197
+2133,Mornago,45.75,8.75
+2134,Porlezza,46.0333,9.1333
+2135,Mortegliano,45.95,13.1667
+2136,Nove,45.7333,11.6833
+2137,Gonnesa,39.2665,8.4717
+2138,Offida,42.9353,13.692
+2139,Santa Ninfa,37.7667,12.8833
+2140,Rovolon,45.35,11.6667
+2141,Serravalle Sesia,45.6833,8.3167
+2142,Saccolongo,45.4,11.75
+2143,San Polo di Piave,45.7906,12.3947
+2144,Ricadi,38.6261,15.8656
+2145,Sassano,40.3403,15.5655
+2146,Muro Leccese,40.1,18.3333
+2147,San Francesco al Campo,45.2253,7.6556
+2148,Varallo Pombia,45.6667,8.6333
+2149,Guardia Sanframondi,41.25,14.6
+2150,Tregnago,45.5167,11.1667
+2151,Licciana Nardi,44.2667,10.0333
+2152,Civitella del Tronto,42.7719,13.6667
+2153,Stresa,45.8836,8.5394
+2154,Irsina,40.75,16.2333
+2155,Reana del Roiale,46.15,13.2333
+2156,Arsago Seprio,45.6833,8.7333
+2157,Morcone,41.3427,14.6689
+2158,Zimella,45.3436,11.3523
+2159,San Martino Valle Caudina,41.0266,14.6654
+2160,Corinaldo,43.6489,13.0479
+2161,Buccino,40.6333,15.3833
+2162,Gradara,43.9389,12.7713
+2163,Norcia,42.7933,13.0939
+2164,Scilla,38.25,15.7167
+2165,Baveno,45.9,8.5
+2166,Bagnolo Cremasco,45.35,9.6167
+2167,Monzambano,45.3833,10.7
+2168,Arcene,45.5761,9.6142
+2169,Cisliano,45.45,8.9833
+2170,Robecchetto con Induno,45.5333,8.7667
+2171,Popoli,42.1708,13.8317
+2172,Francolise,41.1833,14.05
+2173,Gambassi,43.5333,10.95
+2174,Senorbì,39.534,9.131
+2175,Bassano Romano,42.2253,12.19
+2176,Casale di Scodosia,45.1833,11.4667
+2177,Gaggio Montano,44.2,10.9333
+2178,Lagosanto,44.7667,12.1333
+2179,Torrice,41.6333,13.4
+2180,Verolengo,45.1833,7.9667
+2181,Soragna,44.927,10.1222
+2182,Arzergrande,45.2731,12.0467
+2183,Cupello,42.0667,14.6667
+2184,San Pellegrino Terme,45.8333,9.6667
+2185,Villarosa,37.5833,14.1667
+2186,Supino,41.6167,13.2333
+2187,Palazzo San Gervasio,40.9322,15.9814
+2188,Cropani,38.9667,16.7833
+2189,Breno,45.9586,10.3056
+2190,Trichiana,46.0744,12.1344
+2191,Marrùbiu,39.751,8.6383
+2192,Stroncone,42.5,12.6667
+2193,Castel del Piano,42.8908,11.5394
+2194,Serrenti,39.4925,8.9765
+2195,Santa Giusta,39.8807,8.6092
+2196,Lacco Ameno,40.75,13.8833
+2197,Aidone,37.4167,14.45
+2198,Borghetto Santo Spirito,44.1091,8.2414
+2199,Agugliano,43.5434,13.386
+2200,San Giovanni Bianco,45.8667,9.65
+2201,Fosdinovo,44.1333,10.0167
+2202,Nocera Terinese,39.0333,16.15
+2203,Osnago,45.6833,9.3833
+2204,Paratico,45.6611,9.9533
+2205,Roccafranca,45.4667,9.9167
+2206,San Costanzo,43.7672,13.0731
+2207,Torre di Mosto,45.6833,12.7167
+2208,Veggiano,45.45,11.7167
+2209,Mirabella Imbaccari,37.3333,14.45
+2210,Catenanuova,37.5667,14.6833
+2211,Cocquio Trevisago,45.85,8.6833
+2212,Miglianico,42.3594,14.2925
+2213,San Martino in Pensilis,41.8667,15.0167
+2214,Buscate,45.55,8.8167
+2215,Andrano,39.9833,18.3833
+2216,Specchia,39.9381,18.2984
+2217,Gambara,45.2562,10.2945
+2218,San Bartolomeo in Galdo,41.4167,15.0167
+2219,Baiano,40.9536,14.6175
+2220,Alvignano,41.25,14.3333
+2221,Castro dei Volsci,41.5167,13.4
+2222,Caorso,45.05,9.8667
+2223,Dogliani,44.5333,7.95
+2224,Villafranca in Lunigiana,44.2956,9.95
+2225,Peccioli,43.55,10.7167
+2226,Sant’Ambrogio di Torino,45.1,7.3667
+2227,Gonàrs,45.9,13.2333
+2228,Villaputzu,39.4392,9.5761
+2229,Prizzi,37.7215,13.4312
+2230,Azzate,45.7803,8.7938
+2231,Montà,44.8147,7.9548
+2232,Berra,44.9833,11.9667
+2233,San Vito lo Capo,38.1667,12.75
+2234,Riva presso Chieri,44.9833,7.8667
+2235,Sarteano,42.9833,11.8667
+2236,Alseno,44.9,9.9667
+2237,Cappella Maggiore,45.9667,12.3667
+2238,Mordano,44.4,11.8167
+2239,Pietramelara,41.2667,14.1833
+2240,Ponte dell’Olio,44.8667,9.6333
+2241,Pozzolo Formigaro,44.7961,8.7858
+2242,Isola del Gran Sasso d’Italia,42.5075,13.6578
+2243,Pian Camuno,45.8447,10.1519
+2244,Cortemaggiore,45,9.9333
+2245,Acquasparta,42.6907,12.5463
+2246,Piancogno,45.9197,10.2253
+2247,Dorno,45.15,8.95
+2248,Santo Stefano di Camastra,38.0167,14.35
+2249,Trivento,41.7667,14.55
+2250,Carvico,45.7,9.4833
+2251,Castel d’Ario,45.1889,10.9756
+2252,Châtillon,45.75,7.6167
+2253,Acquarica del Capo,39.9167,18.25
+2254,Castiglione d’Adda,45.2197,9.6953
+2255,Pramaggiore,45.8167,12.7333
+2256,Vertova,45.8167,9.85
+2257,Mistretta,37.9333,14.3667
+2258,San Giorgio della Richinvelda,46.05,12.8667
+2259,Rodano,45.4833,9.35
+2260,Padenghe sul Garda,45.5083,10.5164
+2261,Castell’Arquato,44.85,9.8667
+2262,Brivio,45.75,9.45
+2263,Butera,37.1833,14.1833
+2264,Cupramontana,43.446,13.1174
+2265,Villafranca Piemonte,44.7833,7.5
+2266,Condove,45.1174,7.3095
+2267,Barbarano Vicentino,45.4099,11.5397
+2268,Pizzoli,42.436,13.2989
+2269,Zocca,44.3473,10.9904
+2270,Torano Castello,39.5,16.15
+2271,Piglio,41.8281,13.1417
+2272,Bricherasio,44.8244,7.3064
+2273,Gragnano Trebbiense,45.0167,9.5667
+2274,Crevola d’Ossola,46.1475,8.2961
+2275,Firenzuola,44.1197,11.3819
+2276,Storo,45.8489,10.5803
+2277,Grantorto,45.6,11.7333
+2278,Saint-Vincent,45.75,7.65
+2279,Santa Lucia del Mela,38.15,15.2833
+2280,Calitri,40.9031,15.4314
+2281,Mogliano,43.1859,13.4808
+2282,Minerbe,45.25,11.35
+2283,Villastellone,44.9167,7.75
+2284,Spezzano Grande,39.3,16.35
+2285,Polverigi,43.5253,13.3941
+2286,Edolo,46.1789,10.33
+2287,Chiesina Uzzanese,43.8333,10.7167
+2288,Monterosi,42.197,12.3084
+2289,Sersale,39.0167,16.7333
+2290,Mozzanica,45.4761,9.6893
+2291,Arcade,45.7667,12.2167
+2292,Torre Pellice,44.8203,7.2233
+2293,Monsampolo del Tronto,42.8979,13.794
+2294,Varna,46.7404,11.6346
+2295,Vailate,45.4667,9.6
+2296,Palaia,43.6058,10.7728
+2297,Realmonte,37.3103,13.4628
+2298,Predazzo,46.3167,11.6
+2299,Teglio,46.1667,10.0667
+2300,Carimate,45.7,9.1167
+2301,Guardavalle,38.5,16.5
+2302,Rombiolo,38.5919,16.0017
+2303,Vignanello,42.3847,12.2775
+2304,Druento,45.1333,7.5833
+2305,Terricciola,43.5256,10.6808
+2306,Castellazzo Bormida,44.8461,8.5783
+2307,Ploaghe,40.6644,8.7453
+2308,San Paolo,45.3717,10.0236
+2309,Castel di Iudica,37.5,14.65
+2310,Santo Stefano Quisquina,37.6242,13.4914
+2311,Crespano del Grappa,45.8289,11.8373
+2312,Castelraimondo,43.2091,13.0546
+2313,Grignasco,45.6833,8.3333
+2314,Castel Guelfo di Bologna,44.4333,11.6833
+2315,Sotto il Monte,45.7072,9.4992
+2316,Gropello Cairoli,45.1833,9
+2317,Peschici,41.95,16.0167
+2318,Cigliano,45.3084,8.021
+2319,Casina,44.5111,10.5025
+2320,Ormelle,45.7803,12.4197
+2321,Borgorose,42.2,13.2333
+2322,Morgano,45.6332,12.0867
+2323,Modigliana,44.1667,11.8
+2324,Bisacquino,37.705,13.26
+2325,San Zenone al Lambro,45.3257,9.355
+2326,Siculiana,37.3356,13.4225
+2327,Bogliasco,44.3782,9.0698
+2328,Solarolo,44.3667,11.85
+2329,Ghilarza,40.12,8.835
+2330,Torrenova,38.0925,14.6792
+2331,Pedavena,46.0333,11.8833
+2332,Capri Leone,38.0833,14.7333
+2333,San Pietro in Gù,45.6102,11.6779
+2334,Toano,44.3833,10.5667
+2335,Grosio,46.3,10.2833
+2336,Carrù,44.4833,7.8833
+2337,Briatico,38.7333,16.0333
+2338,Carpineto Romano,41.6,13.0833
+2339,Latronico,40.0833,16.0167
+2340,Morano Calabro,39.85,16.1333
+2341,Acqualagna,43.6167,12.6712
+2342,Ischitella,41.9,15.9
+2343,Calascibetta,37.5833,14.2667
+2344,Supersano,40.0167,18.25
+2345,Visciano,40.9238,14.5824
+2346,Terlano,46.5293,11.2487
+2347,Comun Nuovo,45.6228,9.6636
+2348,Canneto sull’Oglio,45.15,10.3833
+2349,Tresigallo,44.816,11.8947
+2350,Uggiano la Chiesa,40.1,18.45
+2351,Castelfrentano,42.2,14.35
+2352,Altomonte,39.7,16.1333
+2353,Scansano,42.6897,11.3347
+2354,Tribano,45.2167,11.8333
+2355,Ameglia,44.0673,9.9575
+2356,Ronco Scrivia,44.6082,8.9552
+2357,Montereale Valcellina,46.1667,12.6667
+2358,Usini,40.6633,8.5408
+2359,Barberino di Val d’Elsa,43.5423,11.1715
+2360,Bettona,43.0167,12.4833
+2361,Decimoputzu,39.3354,8.9149
+2362,Rapolla,40.9833,15.6667
+2363,Monastier di Treviso,45.65,12.4333
+2364,Capocasale,39.2333,16.25
+2365,Favignana,37.9333,12.3333
+2366,Poiana Maggiore,45.2904,11.5025
+2367,Tarzo,45.9725,12.2339
+2368,Livorno Ferraris,45.2833,8.0833
+2369,Santa Croce di Magliano,41.7167,14.9833
+2370,Cannara,43,12.5833
+2371,San Quirino,46.0341,12.6785
+2372,Montecchia di Crosara,45.4833,11.25
+2373,Anguillara Veneta,45.15,11.8833
+2374,Arcevia,43.4833,12.9396
+2375,Galzignano,45.308,11.7313
+2376,Arcidosso,42.8722,11.5375
+2377,Amaseno,41.4667,13.3333
+2378,Locate Varesino,45.6906,8.9308
+2379,Paglieta,42.1667,14.5
+2380,Ponte Lambro,45.8333,9.2333
+2381,Borghetto Lodigiano,45.2158,9.5003
+2382,Sossano,45.3667,11.5167
+2383,Vestone,45.7,10.4
+2384,Gazzo,45.5822,11.7064
+2385,Vigolzone,44.9167,9.6667
+2386,Grisignano di Zocco,45.4833,11.7
+2387,Loiano,44.2667,11.3167
+2388,Roana,45.8764,11.4628
+2389,Ossona,45.5,8.9
+2390,Bianco,38.0917,16.1516
+2391,Malgrate,45.8489,9.3763
+2392,Cene,45.7794,9.8258
+2393,Torretta,38.1304,13.2355
+2394,Vezzano sul Crostolo,44.6,10.55
+2395,Revello,44.65,7.3833
+2396,Sant’Antonio di Susa,45.1071,7.2723
+2397,San Salvatore Monferrato,44.995,8.5669
+2398,Marcheno,45.7,10.2167
+2399,Ariano nel Polesine,44.9461,12.1249
+2400,Calvenzano,45.495,9.5994
+2401,Bastiglia,44.727,10.9986
+2402,Ripatransone,43.0002,13.7625
+2403,Palau,41.1833,9.3833
+2404,Tarvisio,46.5,13.5667
+2405,Castelforte,41.3,13.8333
+2406,San Gregorio Magno,40.65,15.4
+2407,Bova Marina,37.9333,15.9167
+2408,Sant’Angelo de’ Lombardi,40.9333,15.1833
+2409,Torrevecchia Teatina,42.3833,14.2
+2410,Sissa,44.9618,10.2582
+2411,San Benedetto Val di Sambro,44.2167,11.2333
+2412,Appignano,43.3641,13.3464
+2413,Bormio,46.4667,10.3667
+2414,Torricella,40.35,17.5
+2415,Piancastagnaio,42.85,11.6833
+2416,San Calogero,38.5667,16.0167
+2417,Carpiano,45.3333,9.2667
+2418,Orgosolo,40.2047,9.3526
+2419,Ussana,39.3938,9.0747
+2420,Olmedo,40.6511,8.3797
+2421,Rovetta,45.8833,9.9833
+2422,Canale Monterano,42.1333,12.1
+2423,Fossalta di Piave,45.6475,12.5123
+2424,Vertemate,45.7333,9.0667
+2425,Bolognetta,37.9646,13.456
+2426,Sabbioneta,44.9992,10.4897
+2427,Altavilla Irpina,41.0081,14.7822
+2428,Francavilla in Sinni,40.0833,16.2
+2429,Stanghella,45.1333,11.75
+2430,Solbiate Arno,45.7167,8.8167
+2431,Nusco,40.8869,15.0839
+2432,Berbenno di Valtellina,46.1667,9.75
+2433,Santa Maria Nuova,43.496,13.3107
+2434,Gorgo al Monticano,45.7333,12.5833
+2435,Pofi,41.5667,13.4167
+2436,Boffalora sopra Ticino,45.4667,8.8333
+2437,Fumane,45.5432,10.8818
+2438,Mazzè,45.3,7.9333
+2439,Montopoli in Sabina,42.25,12.6833
+2440,Cursi,40.15,18.3167
+2441,Travedona,45.8039,8.6725
+2442,Casirate d’Adda,45.5,9.5667
+2443,Santa Sofia,43.95,11.9
+2444,Mògoro,39.685,8.777
+2445,Garda,45.5725,10.6717
+2446,Sondalo,46.3333,10.3333
+2447,Lallio,45.6661,9.6314
+2448,Sori,44.3727,9.1042
+2449,Stigliano,40.4,16.2333
+2450,Brembilla,45.8167,9.6
+2451,Roccalumera,37.9706,15.39
+2452,San Pietro a Maida,38.85,16.35
+2453,Offlaga,45.3833,10.1167
+2454,Moretta,44.7614,7.5363
+2455,Castelmassa,45.0167,11.3167
+2456,Carpino,41.75,15.8417
+2457,Moiano,41.0833,14.55
+2458,Limatola,41.15,14.4
+2459,Tollo,42.3454,14.3236
+2460,Avio,45.7333,10.95
+2461,Liscate,45.4833,9.4167
+2462,Agordo,46.2822,12.0344
+2463,Covo,45.5,9.7667
+2464,Pomarico,40.5167,16.55
+2465,Casirile,45.3167,9.1
+2466,Calangianus,40.9222,9.1947
+2467,Sale,44.9817,8.8103
+2468,Sant’Eufemia d’Aspromonte,38.2667,15.8667
+2469,Sirolo,43.526,13.616
+2470,Capalbio,42.4542,11.4225
+2471,Isorella,45.3092,10.3233
+2472,San Salvatore Telesino,41.2333,14.5
+2473,Cavalese,46.2906,11.4593
+2474,Sant’Angelo in Vado,43.6647,12.413
+2475,Premariacco,46.0667,13.4
+2476,Pietragalla,40.75,15.8833
+2477,Quarona,45.7579,8.2657
+2478,Rolo,44.8833,10.85
+2479,Allumiere,42.1569,11.9047
+2480,Sogliano Cavour,40.15,18.2
+2481,Medole,45.3333,10.5167
+2482,Pescina,42.0264,13.6589
+2483,Arnesano,40.3333,18.1
+2484,Ballabio,45.9,9.4167
+2485,Ripa Teatina,42.35,14.2333
+2486,Norma,41.5833,12.9667
+2487,Talmassons,45.9333,13.1167
+2488,Villar Perosa,44.9167,7.25
+2489,Vasanello,42.4144,12.3475
+2490,Capoliveri,42.75,10.3833
+2491,Sardara,39.6139,8.8215
+2492,Saluggia,45.2333,8.0167
+2493,Cusano Mutri,41.3389,14.5086
+2494,Lasa,46.6167,10.7
+2495,Civezzano,46.0833,11.1667
+2496,Collesano,37.9167,13.9333
+2497,Cappelle sul Tavo,42.4667,14.1
+2498,Gibellina,37.8167,12.8667
+2499,Marsico Nuovo,40.4167,15.7333
+2500,Sanguinetto,45.1829,11.1515
+2501,Buttrio,46.0167,13.3333
+2502,Carpineti,44.4567,10.5206
+2503,Aiello del Sabato,40.89,14.8217
+2504,Casazza,45.7486,9.9063
+2505,Bari Sardo,39.8414,9.6472
+2506,Cesiomaggiore,46.0833,11.9833
+2507,Venetico,38.2199,15.3667
+2508,Fiesso Umbertiano,44.9667,11.6
+2509,Castrocielo,41.5333,13.7
+2510,Lugagnano Val d’Arda,44.8167,9.8167
+2511,Vicovaro,42.0178,12.8969
+2512,Piedimonte Etneo,37.8067,15.1792
+2513,Occhieppo Inferiore,45.5167,8
+2514,Brentonico,45.8167,10.95
+2515,Lattarico,39.4667,16.1333
+2516,Nuvolento,45.5444,10.385
+2517,Rosciano,42.3223,14.0456
+2518,Bolsena,42.6447,11.9858
+2519,Sant’Omobono Imagna,45.8093,9.5373
+2520,Vescovato,45.1667,10.1667
+2521,Annone Veneto,45.8,12.6833
+2522,Vermezzo,45.4,8.9667
+2523,Palomonte,40.6667,15.3
+2524,Falerna,39,16.1667
+2525,Tertenìa,39.6964,9.5789
+2526,Caltavuturo,37.8167,13.8833
+2527,Saponara Villafranca,38.2,15.4333
+2528,Castrignano de’ Greci,40.2,18.3
+2529,Piraino,38.1617,14.8611
+2530,Moliterno,40.24,15.86
+2531,Positano,40.6278,14.4819
+2532,Santo Stefano Belbo,44.7,8.2333
+2533,Guiglia,44.425,10.9631
+2534,San Genesio ed Uniti,45.2667,9.2167
+2535,San Benedetto de’ Marsi,42.0076,13.6238
+2536,Polesella,44.9667,11.75
+2537,Arborea,39.7728,8.5813
+2538,Sabbio Chiese,45.65,10.4333
+2539,Mathi,45.2667,7.5333
+2540,Giano dell’Umbria,42.8333,12.5833
+2541,Casalbuttano,45.25,9.9667
+2542,Fonni,40.1188,9.2536
+2543,Romagnano Sesia,45.6333,8.3833
+2544,San Lorenzo di Sebato,46.7835,11.9031
+2545,Contigliano,42.4167,12.7667
+2546,Scarlino,42.9081,10.8508
+2547,Paduli,41.1667,14.8833
+2548,San Martino di Venezze,45.1333,11.8667
+2549,Orsago,45.9333,12.4167
+2550,Serracapriola,41.8,15.1667
+2551,Cittiglio,45.8964,8.6649
+2552,Tiriolo,38.95,16.5
+2553,Pratola Serra,40.9833,14.85
+2554,Agnadello,45.45,9.5667
+2555,Pavone Canavese,45.45,7.85
+2556,Trana,45.0333,7.4167
+2557,Paderno d’Adda,45.6833,9.45
+2558,Cessalto,45.7167,12.6167
+2559,Francavilla di Sicilia,37.9015,15.1359
+2560,Pernumia,45.2667,11.7833
+2561,Cerreto Sannita,41.2853,14.5597
+2562,Casole d’Elsa,43.3411,11.0485
+2563,Bagolino,45.8231,10.464
+2564,Buddusò,40.5782,9.2582
+2565,Casola di Napoli,40.6944,14.5278
+2566,Dovera,45.3667,9.5333
+2567,Platì,38.2167,16.05
+2568,Montemesola,40.5667,17.3333
+2569,Fagnano Castello,39.5667,16.05
+2570,Battaglia Terme,45.2894,11.7796
+2571,Roncà,45.4833,11.2833
+2572,Cavriana,45.35,10.6
+2573,Villa Lagarina,45.9167,11.0333
+2574,Orsogna,42.2167,14.2833
+2575,Oriolo Romano,42.1578,12.1378
+2576,Maletto,37.8333,14.8667
+2577,Lograto,45.4833,10.05
+2578,Bisaccia,41.0131,15.3756
+2579,Follina,45.95,12.1167
+2580,Petacciato,42.0167,14.8667
+2581,Manta,44.6167,7.4833
+2582,Scoppito,42.3739,13.2558
+2583,Salizzole,45.25,11.0833
+2584,Esperia,41.3833,13.6833
+2585,Mongrando,45.5167,8
+2586,Aquaviva Picena,42.9447,13.8135
+2587,Tromello,45.2167,8.8667
+2588,Corchiano,42.3458,12.3564
+2589,Bienno,45.9367,10.2942
+2590,Pieve di Cadore,46.4333,12.3667
+2591,Piobesi Torinese,44.9329,7.6101
+2592,Sangano,45.0333,7.45
+2593,Fara Vicentino,45.7333,11.55
+2594,Solopaca,41.1833,14.55
+2595,Pompiano,45.4333,9.9833
+2596,Gaglianico,45.55,8.1167
+2597,Lestizza,45.95,13.1333
+2598,Castagnole Lanze,44.7522,8.1514
+2599,Serra de’ Conti,43.5422,13.0377
+2600,Tuoro sul Trasimeno,43.2068,12.0746
+2601,Castiòns di Strada,45.9,13.1833
+2602,Sedegliano,46.0139,12.9747
+2603,Prignano sulla Secchia,44.4369,10.6908
+2604,Numana,43.5136,13.6216
+2605,San Giovanni a Piro,40.05,15.4333
+2606,Oppido Lucano,40.7667,15.9833
+2607,Canossa,44.5736,10.4553
+2608,Verolavecchia,45.3333,10.05
+2609,Civitella di Romagna,44,11.9333
+2610,Pitigliano,42.6344,11.6683
+2611,Carpignano Salentino,40.197,18.3384
+2612,Castagnaro,45.1208,11.4108
+2613,Grumolo delle Abbadesse,45.5167,11.6667
+2614,Bellagio,45.9875,9.2619
+2615,Colonnella,42.8723,13.8699
+2616,Saracena,39.7667,16.15
+2617,Goro,44.8518,12.2959
+2618,Massa Martana,42.7833,12.5167
+2619,Pontelongo,45.25,12.0167
+2620,Porto Azzurro,42.7667,10.4
+2621,Oliveto Citra,40.6894,15.2311
+2622,Carasco,44.3517,9.3441
+2623,Caldonazzo,46,11.2667
+2624,Gallicano,44.0667,10.4333
+2625,Taino,45.7667,8.6167
+2626,Mondavio,43.6741,12.9683
+2627,Parcines,46.6842,11.0733
+2628,Deliceto,41.2167,15.3833
+2629,Chiarano,45.73,12.5813
+2630,Cercemaggiore,41.4667,14.7167
+2631,Villasimìus,39.1422,9.5206
+2632,Romàns d’Isonzo,45.8833,13.4333
+2633,Dubino,46.15,9.45
+2634,San Luca,38.15,16.0667
+2635,Vaiano Cremasco,45.3731,9.5883
+2636,Miradolo Terme,45.1724,9.4487
+2637,Spotorno,44.2271,8.4192
+2638,Cerreto d’Esi,43.3197,12.9848
+2639,Ciminna,37.9,13.5667
+2640,Colli del Tronto,42.8781,13.7482
+2641,Masone,44.5036,8.712
+2642,Voghenza,44.7667,11.75
+2643,Magliano Sabina,42.3667,12.4833
+2644,Monghidoro,44.2167,11.3167
+2645,Vidor,45.8667,12.0333
+2646,Malcesine,45.7667,10.8167
+2647,Tufino,40.95,14.5667
+2648,Spongano,40.0167,18.3667
+2649,Riccò del Golfo di Spezia,44.1531,9.7639
+2650,Fauglia,43.5667,10.5167
+2651,Nizza di Sicilia,37.9947,15.4128
+2652,Cattolica Eraclea,37.4419,13.3928
+2653,Frigento,41.0122,15.1006
+2654,Paderno Franciacorta,45.5889,10.0775
+2655,Baldissero Torinese,45.0667,7.8167
+2656,Villa Minozzo,44.3667,10.45
+2657,Scafa,42.2657,13.9967
+2658,Rodi Garganico,41.8961,15.8653
+2659,Rotondi,41.0325,14.5958
+2660,Cavaglià,45.4,8.0833
+2661,Chiusa di Pesio,44.3167,7.6833
+2662,Squillace,38.7833,16.5167
+2663,Sant’Oreste,42.2333,12.5167
+2664,San Pietro in Guarano,39.3333,16.3167
+2665,Bene Vagienna,44.5453,7.8331
+2666,Nogarole Rocca,45.2833,10.8833
+2667,Montaione,43.5533,10.9117
+2668,Faicchio,41.2833,14.4833
+2669,Tione di Trento,46.0333,10.7333
+2670,Artogne,45.8506,10.1619
+2671,San Vito,39.4419,9.5404
+2672,Magliano de’ Marsi,42.0925,13.3647
+2673,Migliarino,44.7667,11.9333
+2674,Falciano Selice,41.1667,13.95
+2675,Lascari,38,13.9333
+2676,Pradamano,46.0333,13.3
+2677,Bagnoli di Sopra,45.1833,11.8833
+2678,Molteno,45.7833,9.3
+2679,Bagnoregio,42.63,12.0892
+2680,Mignanego,44.5278,8.9152
+2681,Neviano degli Arduini,44.5833,10.3167
+2682,Limbadi,38.5667,15.9667
+2683,Pontecurone,44.9611,8.935
+2684,Minervino di Lecce,40.1,18.4333
+2685,Baunei,40.0309,9.6643
+2686,Airasca,44.9167,7.4833
+2687,Borgofranco d’Ivrea,45.5167,7.8667
+2688,Bivona,37.6183,13.4405
+2689,Morro d’Oro,42.6667,13.9167
+2690,Pont-Saint-Martin,45.6,7.8
+2691,Diano d’Alba,44.65,8.0333
+2692,San Fratello,38.0128,14.5974
+2693,Montecalvo Irpino,41.1967,15.0342
+2694,Colliano,40.7333,15.2833
+2695,Bobbio,44.7715,9.3864
+2696,Asso,45.8667,9.2667
+2697,Montelupone,43.3443,13.5676
+2698,Piegaro,42.9667,12.0833
+2699,Ghemme,45.6,8.4167
+2700,Pozzonovo,45.2,11.7833
+2701,Amandola,42.9801,13.3575
+2702,Bosco Chiesanuova,45.6167,11.0333
+2703,Albuzzano,45.1833,9.2667
+2704,Caltabellotta,37.5757,13.2186
+2705,Massa Fiscaglia,44.8094,12.0145
+2706,Pozzolengo,45.4069,10.6339
+2707,Sergnano,45.4333,9.7
+2708,Lucignano,43.2745,11.746
+2709,Gioia Sannitica,41.3,14.45
+2710,Ceregnano,45.0333,11.8667
+2711,San Leonardo in Passiria,46.8128,11.2458
+2712,Brancaleone Superiore,37.9639,16.1011
+2713,Villamassargia,39.2757,8.6406
+2714,Portovenere,44.05,9.8333
+2715,Ruoti,40.7167,15.6833
+2716,San Vito di Leguzzano,45.6833,11.3833
+2717,Magliano in Toscana,42.5989,11.2931
+2718,San Pietro in Lama,40.3,18.1167
+2719,Gagliano Castelferrato,37.7167,14.5333
+2720,Aci Bonaccorsi,37.5955,15.1095
+2721,Miggiano,39.9667,18.3167
+2722,Alia,37.7833,13.7167
+2723,Castelplanio,43.4945,13.0809
+2724,Monasterace,38.4536,16.5531
+2725,Pravisdomini,45.8167,12.6833
+2726,Valledolmo,37.75,13.8333
+2727,Faggiano,40.4162,17.3886
+2728,Marano Marchesato,39.3167,16.1667
+2729,Badia,46.6111,11.8944
+2730,Narzole,44.6,7.8667
+2731,Tribiano,45.4167,9.3833
+2732,Laterina,43.5092,11.7192
+2733,Ardesio,45.9381,9.93
+2734,Bagnário Arsa,45.8833,13.2833
+2735,Tronzano Vercellese,45.35,8.1667
+2736,Bressana Bottarone,45.0781,9.1312
+2737,Satriano,38.6667,16.4667
+2738,Bovolenta,45.2667,11.9333
+2739,Mairano,45.45,10.0833
+2740,San Paolo Bel Sito,40.9167,14.55
+2741,Alanno,42.3,13.9667
+2742,Zapponeta,41.45,15.9667
+2743,Citerna,43.5,12.1167
+2744,Neive,44.7167,8.1167
+2745,Beinette,44.3667,7.65
+2746,Endine Gaiano,45.7833,9.9667
+2747,Casal Fiumanese,44.3,11.6333
+2748,Casale Corte Cerro,45.9167,8.4167
+2749,Loreo,45.0667,12.2
+2750,Montefano,43.4116,13.4387
+2751,Pescaglia,43.9667,10.4167
+2752,Piadena,45.1333,10.3667
+2753,Balsorano Nuovo,41.8098,13.5598
+2754,Cengio,44.3877,8.2085
+2755,Altidona,43.1068,13.794
+2756,Collazzone,42.9,12.4333
+2757,Gesualdo,41.0078,15.0733
+2758,Lauro,40.8792,14.6331
+2759,San Demetrio Corone,39.5667,16.3667
+2760,Sassocorvaro,43.7799,12.4972
+2761,Fornovo San Giovanni,45.4968,9.6773
+2762,Ornavasso,45.9667,8.4
+2763,Montalto Dora,45.4833,7.8667
+2764,Caposele,40.8153,15.2242
+2765,Lusia,45.1,11.6667
+2766,Bosisio Parini,45.8,9.2833
+2767,Cimadolmo,45.7833,12.3667
+2768,Castione della Presolana,45.9,10.0333
+2769,Castel di Casio,44.1667,11.0333
+2770,Dosolo,44.95,10.6333
+2771,Sarsina,43.9167,12.15
+2772,Castelliri,41.6833,13.55
+2773,Sicignano degli Alburni,40.5597,15.307
+2774,Torrecuso,41.1833,14.6833
+2775,Valfabbrica,43.1667,12.6
+2776,Cianciana,37.5214,13.4344
+2777,Roccamonfina,41.3,13.9833
+2778,San Felice del Benaco,45.5833,10.55
+2779,Ripalta Cremasca,45.3333,9.7
+2780,Roncofreddo,44.0423,12.3187
+2781,Bonorva,40.4167,8.7667
+2782,Santadi,39.0937,8.7149
+2783,Remedello Sopra,45.2792,10.3728
+2784,Vallelunga Pratameno,37.6833,13.8167
+2785,Forno Canavese,45.35,7.5833
+2786,Dongo,46.13,9.2817
+2787,Gressan,45.7167,7.2833
+2788,San Ginesio,43.1078,13.3167
+2789,Monsano,43.5636,13.2502
+2790,Carolei,39.25,16.2167
+2791,Costa di Mezzate,45.6667,9.8
+2792,Roccabernarda,39.1333,16.8667
+2793,San Lorenzo del Vallo,39.6667,16.3
+2794,Sale Marasino,45.7167,10.1167
+2795,Ceppaloni,41.05,14.7667
+2796,Oulx,45.0333,6.8333
+2797,Pontida,45.734,9.5064
+2798,Bedonia,44.5,9.6333
+2799,San Candido,46.7324,12.2785
+2800,San Giusto Canavese,45.3167,7.8167
+2801,Viggiano,40.3333,15.9
+2802,Dobbiaco,46.7344,12.2229
+2803,Costigliole Saluzzo,44.5667,7.4833
+2804,Vernate,45.3167,9.0667
+2805,Viano,44.5437,10.6216
+2806,Polverara,45.3094,11.956
+2807,Grottazzolina,43.111,13.6009
+2808,Contursi,40.6333,15.2333
+2809,Falerone,43.1077,13.4733
+2810,Marene,44.6667,7.7333
+2811,Vellezzo Bellini,45.2667,9.1
+2812,Maslianico,45.8428,9.0472
+2813,Paterno,40.3833,15.7333
+2814,Millesimo,44.3644,8.2059
+2815,Biandronno,45.8167,8.7167
+2816,Rocca Imperiale,40.1064,16.5949
+2817,Montese,44.2694,10.9458
+2818,Delianuova,38.2333,15.9167
+2819,Furci Siculo,37.9614,15.3819
+2820,Sorano,42.6819,11.7142
+2821,Vibonati,40.1,15.5833
+2822,Vinchiaturo,41.5,14.5833
+2823,Sperlonga,41.2667,13.4333
+2824,Ferrazzano,41.5333,14.6667
+2825,San Vito Romano,41.8833,12.9833
+2826,Villafrati,37.9,13.4833
+2827,Pont Canavese,45.4167,7.6
+2828,Aquiléia,45.7667,13.3667
+2829,Auronzo di Cadore,46.55,12.4333
+2830,San Marco dei Cavoti,41.3108,14.8806
+2831,Ospedaletti,43.8006,7.7177
+2832,Gimigliano,38.9667,16.5333
+2833,San Giovanni Incarico,41.5,13.55
+2834,Narcao,39.1667,8.6833
+2835,Foglianise,41.1601,14.6718
+2836,Blera,42.2733,12.0325
+2837,Castellana Sicula,37.7833,14.05
+2838,Montefalcione,40.9625,14.8847
+2839,Miane,45.95,12.1
+2840,Scalenghe,44.8927,7.4936
+2841,Gais,46.8333,11.95
+2842,Caronia,38.0167,14.4333
+2843,Casamarciano,40.9319,14.5532
+2844,Agna,45.1667,11.9667
+2845,Ardenno,46.1667,9.65
+2846,Baiso,44.5019,10.6047
+2847,Oschiri,40.719,9.1015
+2848,Godiasco,44.9,9.05
+2849,Bovino,41.25,15.35
+2850,Delebio,46.1333,9.4667
+2851,Cogollo del Cengio,45.7856,11.4269
+2852,San Lorenzo in Campo,43.6049,12.9462
+2853,Morolo,41.6333,13.2
+2854,Corio,45.3167,7.5333
+2855,Morciano di Leuca,39.85,18.3167
+2856,Montemaggiore Belsito,37.85,13.7667
+2857,Castel Ritaldi,42.8233,12.6722
+2858,Petralia Soprana,37.8,14.1
+2859,Polizzi Generosa,37.8119,13.9992
+2860,Borgo Tossignano,44.2833,11.5833
+2861,Brebbia,45.8333,8.65
+2862,Cinto Caomaggiore,45.8333,12.7833
+2863,Camporeale,37.9,13.1
+2864,Santa Marina,40.1,15.55
+2865,Cessaniti,38.6667,16.0333
+2866,Valle Mosso,45.6167,8.15
+2867,Sogliano al Rubicone,44,12.3
+2868,Scerni,42.1167,14.5667
+2869,Bibbona,43.2694,10.5944
+2870,Casnigo,45.8164,9.8667
+2871,Stienta,44.9333,11.55
+2872,Sarnano,43.0356,13.3007
+2873,Andorno Micca,45.6,8.05
+2874,Mezzani,44.9167,10.4333
+2875,Abbadia Lariana,45.9,9.3333
+2876,Gaggi,37.8601,15.2215
+2877,Saint-Pierre,45.71,7.226
+2878,San Biagio Platani,37.51,13.5264
+2879,Ro,44.9472,11.7611
+2880,Perosa Argentina,44.95,7.2
+2881,Volturara Irpina,40.8833,14.9167
+2882,Antegnate,45.4853,9.7889
+2883,Bellano,46.0432,9.3061
+2884,Coazze,45.0518,7.3006
+2885,San Michele di Ganzaria,37.2833,14.4333
+2886,Manocalzati,40.9425,14.8506
+2887,Castelnuovo Don Bosco,45.0417,7.9642
+2888,Sesto ed Uniti,45.1833,9.9167
+2889,Varzi,44.8167,9.2
+2890,Camposanto,44.7833,11.1333
+2891,Casalmaiocco,45.3547,9.3753
+2892,Tolve,40.7,16.0167
+2893,Fonzaso,46.0167,11.8
+2894,Villagrande Strisaili,39.9585,9.508
+2895,Malonno,46.1167,10.3167
+2896,Civitella Marittima,42.995,11.2817
+2897,Ostra Vetere,43.6037,13.0573
+2898,Rocca d’Evandro,41.3833,13.8833
+2899,Marone,45.7333,10.1
+2900,Marano Principato,39.3,16.1833
+2901,Jerzu,39.7924,9.5177
+2902,Marliana,43.9333,10.7667
+2903,Frosolone,41.6,14.45
+2904,Montecalvoli,43.6875,10.6628
+2905,Corno di Rosazzo,45.9833,13.45
+2906,Valli del Pasubio,45.75,11.2667
+2907,Moscufo,42.4333,14.05
+2908,Forano,42.3,12.6
+2909,San Gillio,45.15,7.5333
+2910,Rovito,39.3167,16.3167
+2911,Zinasco,45.1333,9.05
+2912,Civitella Roveto,41.9169,13.4278
+2913,Bressanvido,45.65,11.6333
+2914,Decollatura,39.05,16.35
+2915,Carlazzo,46.05,9.15
+2916,Patrica,41.5833,13.25
+2917,Folgaria,45.9167,11.1833
+2918,Mignano Monte Lungo,41.4,13.9833
+2919,Bardonecchia,45.0783,6.7039
+2920,Belfiore,45.3796,11.209
+2921,San Michele all’Adige,46.1938,11.1346
+2922,Polcenigo,46.0333,12.5
+2923,Arsiero,45.8,11.35
+2924,Marano di Valpolicella,45.55,10.9167
+2925,Viguzzolo,44.9053,8.9236
+2926,Cantagallo,44.0167,11.0833
+2927,Serrara Fontana,40.7167,13.9
+2928,Scandriglia,42.1667,12.85
+2929,Bagnoli Irpino,40.8342,15.0733
+2930,Buonconvento,43.1333,11.4833
+2931,Casella,44.5348,8.9989
+2932,Balangero,45.2667,7.5167
+2933,Aldeno,45.9833,11.0833
+2934,Maleo,45.1683,9.7625
+2935,Garessio,44.2,8.0167
+2936,Castiglione di Sicilia,37.8828,15.1225
+2937,Cerisano,39.2833,16.1833
+2938,Pergine Valdarno,43.4714,11.6867
+2939,San Giorgio a Liri,41.4,13.7667
+2940,Mazzano Romano,42.2056,12.3975
+2941,Maenza,41.5167,13.1833
+2942,Pieve Santo Stefano,43.6725,12.0422
+2943,Sospirolo,46.1333,12.0833
+2944,Romanengo,45.3833,9.7833
+2945,Fontanarosa,41.0192,15.0214
+2946,Cascia,42.7167,13.0167
+2947,Montorso Vicentino,45.4833,11.3667
+2948,Bosconero,45.2667,7.7667
+2949,Menaggio,46.0167,9.2333
+2950,Serrastretta,39.0167,16.4
+2951,Grotteria,38.3539,16.2725
+2952,Ripalimosani,41.6167,14.6667
+2953,Suvereto,43.0833,10.6833
+2954,Raddusa,37.4667,14.5333
+2955,Scandale,39.1167,16.9667
+2956,Capizzi,37.85,14.4833
+2957,Rio di Pusteria,46.7966,11.6675
+2958,San Leucio del Sannio,41.0833,14.7667
+2959,Lozzo Atestino,45.2833,11.6333
+2960,Pietrelcina,41.2,14.85
+2961,Castel Focognano,43.6534,11.788
+2962,Pastrengo,45.5,10.8
+2963,Nanto,45.4333,11.5833
+2964,Robassomero,45.2,7.5667
+2965,Monte Roberto,43.4813,13.138
+2966,Sant’Onofrio,38.7,16.15
+2967,Licodia Eubea,37.15,14.7
+2968,Comunanza,42.9572,13.4146
+2969,Baone,45.25,11.6833
+2970,Caprino Bergamasco,45.7453,9.4817
+2971,San Maurizio d’Opaglio,45.7667,8.3833
+2972,Villanterio,45.2167,9.3667
+2973,Contrada,40.8669,14.7797
+2974,Saludecio,43.8728,12.6686
+2975,Marradi,44.0833,11.6167
+2976,Sarmede,45.9775,12.3853
+2977,Sospiro,45.1,10.15
+2978,Bernate Ticino,45.4833,8.8167
+2979,Castell’Umberto,38.0833,14.8
+2980,Torino di Sangro,42.1833,14.5333
+2981,Fogliano Redipúglia,45.8667,13.4833
+2982,Volano,45.9172,11.0635
+2983,Serrone,41.8421,13.0952
+2984,Pattada,40.5822,9.11
+2985,Villafranca d’Asti,44.9128,8.0328
+2986,Casalincontrada,42.3,14.1333
+2987,San Giorgio Morgeto,38.3833,16.1
+2988,Torre de’ Passeri,42.2333,13.9333
+2989,San Genesio Atesino,46.5346,11.3297
+2990,Pinzolo,46.1599,10.766
+2991,Orgiano,45.35,11.4667
+2992,Prata di Principato Ultra,40.9833,14.8333
+2993,Torri del Benaco,45.6167,10.6833
+2994,Sturno,41.0167,15.1
+2995,Soveria Mannelli,39.0833,16.3667
+2996,Crucoli,39.4236,17.0033
+2997,Tramutola,40.3167,15.7833
+2998,San Pietro Viminario,45.25,11.8167
+2999,Caselette,45.106,7.4833
+3000,Fluminimaggiore,39.4386,8.4986
+3001,Canepina,42.3831,12.2328
+3002,Sanfrè,44.75,7.8
+3003,Castronuovo di Sicilia,37.6667,13.6
+3004,Samughèo,39.9476,8.9408
+3005,Santa Cesarea Terme,40.0361,18.4554
+3006,Serle,45.5722,10.3667
+3007,Africo,38.0507,16.1332
+3008,Longobucco,39.45,16.6167
+3009,Osilo,40.7436,8.6711
+3010,Campofranco,37.5167,13.7
+3011,Caselle Lurani,45.2814,9.3606
+3012,Stia,43.8039,11.7094
+3013,Nissoria,37.65,14.45
+3014,Sant’Angelo di Brolo,38.1167,14.8833
+3015,Villa di Tirano,46.2,10.1333
+3016,Posada,40.6313,9.7198
+3017,Badolato,38.5667,16.5333
+3018,Gazoldo degli Ippoliti,45.2,10.5833
+3019,Roccabianca,45.0086,10.2198
+3020,Fregona,46.0002,12.339
+3021,Moncalvo,45.0511,8.2664
+3022,Pietravairano,41.3333,14.1667
+3023,Diso,40.0167,18.4
+3024,Giarratana,37.05,14.8
+3025,Castiglione Cosentino,39.35,16.2833
+3026,Lentiai,46.0448,12.0216
+3027,Misano di Gera d’Adda,45.4694,9.6208
+3028,Mormanno,39.8833,15.9833
+3029,Cassine,44.7508,8.5289
+3030,Monterosso Almo,37.1,14.7667
+3031,San Giorgio la Molara,41.2667,14.9167
+3032,Prata Camportaccio,46.3167,9.4
+3033,Montevago,37.7033,12.9867
+3034,Pollina,38,14.15
+3035,Verbicaro,39.75,15.9167
+3036,Fanano,44.2124,10.7966
+3037,Fiumefreddo Bruzio,39.2333,16.0667
+3038,Flumeri,41.0789,15.1486
+3039,Porto Ceresio,45.9,8.9
+3040,Tesero,46.2893,11.5113
+3041,Viggianello,39.9667,16.0833
+3042,Pralboino,45.2683,10.2183
+3043,Spigno Saturnia,41.3,13.7333
+3044,Thiesi,40.525,8.7164
+3045,Rovagnate,45.7333,9.3667
+3046,Dugenta,41.1333,14.45
+3047,Ostiano,45.2167,10.25
+3048,San Fele,40.8165,15.5404
+3049,Vitulano,41.1833,14.65
+3050,San Polo dei Cavalieri,42.0167,12.8333
+3051,Sant’Agata sul Santerno,44.4333,11.8667
+3052,Meduna di Livenza,45.8,12.6167
+3053,Castrofilippo,37.35,13.7511
+3054,Villafalletto,44.55,7.5333
+3055,Cassacco,46.1667,13.1833
+3056,Velturno,46.6671,11.5971
+3057,Fontana Liri,41.6167,13.55
+3058,Roncegno,46.0508,11.41
+3059,Comerio,45.8399,8.7468
+3060,Castri di Lecce,40.2667,18.2667
+3061,Amendolara,39.95,16.5833
+3062,Ruda,45.8333,13.4
+3063,Acquanegra sul Chiese,45.1667,10.4333
+3064,Cerrione,45.4667,8.0667
+3065,Palazzolo dello Stella,45.8,13.0833
+3066,Filiano,40.8167,15.7
+3067,Lettomanoppello,42.2333,14.0333
+3068,Campo Ligure,44.5381,8.6978
+3069,San Leo,43.8964,12.3433
+3070,Valentano,42.5653,11.8269
+3071,Gemonio,45.8833,8.6833
+3072,Riva Ligure,43.8375,7.8819
+3073,Mezzojuso,37.8667,13.4667
+3074,Castel Viscardo,42.7553,12.0017
+3075,Montemaggiore al Metauro,43.7374,12.9458
+3076,Artegna,46.2333,13.15
+3077,Faedis,46.15,13.35
+3078,Trescore Cremasco,45.4,9.6333
+3079,Francavilla Marittima,39.8169,16.3956
+3080,Alessandria della Rocca,37.5696,13.4535
+3081,Briga Novarese,45.7333,8.45
+3082,Osoppo,46.25,13.0833
+3083,Gargnano,45.6833,10.6667
+3084,Sirignano,40.95,14.6333
+3085,Ragogna,46.1735,12.9824
+3086,Borghi,44.0322,12.3562
+3087,Grandate,45.7833,9.0667
+3088,Castellina in Chianti,43.4692,11.2886
+3089,Airuno,45.75,9.4167
+3090,Madignano,45.35,9.7167
+3091,Sarmato,45.0667,9.4833
+3092,Torpè,40.6277,9.6782
+3093,Terzo d’Aquiléia,45.8,13.3333
+3094,Ordona,41.3167,15.6333
+3095,Crecchio,42.2967,14.3261
+3096,Bellegra,41.8833,13.0333
+3097,Tiggiano,39.9,18.3667
+3098,Monte di Malo,45.6667,11.3667
+3099,Chienes,46.8081,11.8387
+3100,Iolanda di Savoia,44.8833,11.9833
+3101,Turriaco,45.8167,13.45
+3102,Santa Vittoria d’Alba,44.7,7.9333
+3103,Letoianni,37.8833,15.3
+3104,Torviscosa,45.8167,13.2833
+3105,Fabro,42.8667,12.0167
+3106,Uras,39.6982,8.7015
+3107,Celico,39.3167,16.3333
+3108,Tusa,37.9833,14.2333
+3109,San Piero Patti,38.05,14.9667
+3110,Gallese,42.3744,12.3997
+3111,Guarno,39.2333,16.35
+3112,Castelnuovo Cilento,40.2179,15.1771
+3113,Vercurago,45.8167,9.4167
+3114,Pedaso,43.0974,13.8409
+3115,Moriago della Battaglia,45.8667,12.1
+3116,Sant’Arsenio,40.4667,15.4833
+3117,Sciara,37.9167,13.7667
+3118,Lamon,46.05,11.75
+3119,Monteviale,45.5667,11.4667
+3120,Saletto,45.2267,11.5339
+3121,Montemarano,40.9161,14.9983
+3122,Bitti,40.475,9.3817
+3123,Bronzolo,46.4045,11.3195
+3124,Moneglia,44.2386,9.4903
+3125,Sommariva Perno,44.75,7.9
+3126,Scurcola Marsicana,42.0642,13.34
+3127,Gruaro,45.8333,12.8333
+3128,Suno,45.6333,8.5333
+3129,Morsano al Tagliamento,45.8583,12.9278
+3130,Bonifati,39.5833,15.9
+3131,Vietri di Potenza,40.6,15.5
+3132,Burcèi,39.3445,9.3599
+3133,Acquasanta Terme,42.7692,13.4094
+3134,Carlino,45.8,13.1833
+3135,Candela,41.1333,15.5167
+3136,Traona,46.15,9.5167
+3137,Petriano,43.7806,12.7335
+3138,La Morra,44.6333,7.9333
+3139,Pozzoleone,45.6494,11.6744
+3140,Courmayeur,45.7833,6.9667
+3141,Cividate Camuno,45.9433,10.2783
+3142,Falcone,38.1167,15.0833
+3143,Pennabilli,43.819,12.2666
+3144,San Pier Niceto,38.1667,15.35
+3145,Orsenigo,45.7833,9.1833
+3146,Raiano,42.1033,13.8156
+3147,Mandatoriccio,39.4667,16.8333
+3148,Piasco,44.5639,7.4547
+3149,Chiusa Sclafani,37.6833,13.2667
+3150,Pavone del Mella,45.3008,10.2086
+3151,Biccari,41.4,15.2
+3152,Bettola,44.7783,9.6086
+3153,Gaiole in Chianti,43.4667,11.4333
+3154,Trevenzuolo,45.2667,10.9167
+3155,Montecalvo in Foglia,43.8116,12.6316
+3156,Berlingo,45.5022,10.0414
+3157,Amorosi,41.2,14.4667
+3158,Berchidda,40.7858,9.1658
+3159,Botrugno,40.0667,18.3167
+3160,Lessona,45.5863,8.1964
+3161,Salandra,40.5333,16.3167
+3162,Serra San Quirico,43.4477,13.0152
+3163,Arrone,42.5837,12.768
+3164,Fossato di Vico,43.3,12.7667
+3165,Sant’Anna Arresi,39.0038,8.6435
+3166,Castignano,42.9381,13.6219
+3167,Cordovado,45.85,12.8833
+3168,Zandobbio,45.6883,9.8525
+3169,Mammola,38.3667,16.2333
+3170,Rivello,40.0782,15.758
+3171,Petralia Sottana,37.8,14.0833
+3172,Golasecca,45.7,8.65
+3173,Barile,40.95,15.6667
+3174,Occhieppo Superiore,45.5,8
+3175,Valle di Maddaloni,41.0833,14.4167
+3176,Varmo,45.8833,12.9833
+3177,Paesana,44.6833,7.2833
+3178,Monforte San Giorgio,38.1667,15.3667
+3179,Pabillonis,39.5924,8.7217
+3180,Formignana,44.85,11.8667
+3181,Acerno,40.75,15.05
+3182,Seminara,38.3333,15.8667
+3183,Nimis,46.2,13.2667
+3184,Trecenta,45.0333,11.45
+3185,Marlengo,46.6556,11.1403
+3186,Bornasco,45.2666,9.218
+3187,Castell’Alfero,44.9822,8.2117
+3188,Mele,44.4455,8.7479
+3189,Lama Mocogno,44.3073,10.7318
+3190,Nulvi,40.7839,8.7439
+3191,Gissi,42.0167,14.55
+3192,Orsara di Puglia,41.2833,15.2667
+3193,Villanova d’Albenga,44.046,8.1431
+3194,Bargagli,44.4445,9.0886
+3195,Casaloldo,45.25,10.4833
+3196,Bereguardo,45.25,9.0333
+3197,Poggio Imperiale,41.8167,15.3667
+3198,Brembio,45.2156,9.5725
+3199,Canaro,44.9333,11.6667
+3200,Rossiglione,44.5667,8.6667
+3201,Gussola,45.0167,10.35
+3202,Noli,44.2057,8.4162
+3203,Abbasanta,40.1258,8.8194
+3204,Montesano Salentino,39.9758,18.3226
+3205,Baschi,42.6667,12.2167
+3206,Montecorice,40.2342,14.9839
+3207,Santa Maria la Fossa,41.1,14.1333
+3208,Guasila,39.5602,9.0447
+3209,Fiano,45.2167,7.5167
+3210,Cetona,42.9667,11.9
+3211,Porto Ercole,42.3939,11.2036
+3212,Caggiano,40.5667,15.5
+3213,Laion,46.6081,11.5656
+3214,Serdiana,39.3745,9.159
+3215,Pietra Montecorvino,41.55,15.1333
+3216,San Mango Piemonte,40.7,14.8333
+3217,Pieve Porto Morone,45.1103,9.4369
+3218,San Fili,39.3333,16.15
+3219,Apollosa,41.1,14.7
+3220,Castel San Niccolò,43.7453,11.71
+3221,Sandigliano,45.5,8.0333
+3222,Toirano,44.127,8.2071
+3223,Casalvieri,41.6333,13.7167
+3224,Guardamiglio,45.1086,9.6825
+3225,Vicari,37.8333,13.5667
+3226,Besenello,45.9419,11.1086
+3227,Villamar,39.62,8.96
+3228,Vallata,41.0333,15.25
+3229,Romano Canavese,45.3894,7.8675
+3230,San Cono,37.2899,14.3671
+3231,Cantalice,42.4667,12.9
+3232,Campodoro,45.4833,11.75
+3233,Castelvenere,41.2333,14.55
+3234,Alice Castello,45.3667,8.0833
+3235,Ururi,41.8167,15.0167
+3236,Grotte di Castro,42.6753,11.8731
+3237,Sgurgola,41.6667,13.15
+3238,Fontaneto d’Agogna,45.65,8.4833
+3239,Poggio Moiano,42.2,12.8833
+3240,Genola,44.5833,7.6667
+3241,Alvito,41.6889,13.7444
+3242,Cuglieri,40.1889,8.5672
+3243,Roccavione,44.3167,7.4833
+3244,San Quirico d’Orcia,43.0667,11.6
+3245,Merlara,45.1667,11.4333
+3246,Sinagra,38.0833,14.85
+3247,Verrès,45.6666,7.6891
+3248,Gavoi,40.1604,9.1947
+3249,Tocco da Casauria,42.2167,13.9167
+3250,Moena,46.3768,11.6594
+3251,Cison di Valmarino,45.9703,12.1431
+3252,San Colombano Certenoli,44.3718,9.3116
+3253,Solferino,45.3667,10.55
+3254,Gardone Riviera,45.6167,10.5667
+3255,San Nicolò d’Arcidano,39.6835,8.6466
+3256,Burgio,37.5985,13.2908
+3257,Schiavon,45.7,11.65
+3258,Pisciotta,40.1167,15.2333
+3259,Casabona,39.25,16.95
+3260,Dervio,46.0764,9.3067
+3261,Castel Sant’Elia,42.2514,12.375
+3262,Varano de’ Melegari,44.6833,10.0167
+3263,San Gregorio d’Ippona,38.65,16.1
+3264,Badia Calavena,45.5667,11.15
+3265,Agliè,45.3667,7.7667
+3266,Torricella Sicura,42.66,13.6581
+3267,Selva,46.5547,11.7604
+3268,Pianopoli,38.95,16.3833
+3269,Baranello,41.5333,14.55
+3270,Fratta Polesine,45.0333,11.65
+3271,Baragiano,40.6798,15.5938
+3272,Trenta,39.2833,16.3167
+3273,Caravate,45.8833,8.65
+3274,Gravedona,46.15,9.3
+3275,Ceresara,45.2623,10.5696
+3276,Rivara,45.3304,7.649
+3277,Mereto di Tomba,46.05,13.0333
+3278,Villa Santa Lucia,41.5167,13.7667
+3279,Casola Valsenio,44.2167,11.6167
+3280,Gerace,38.2667,16.2167
+3281,Rotondella,40.1667,16.5167
+3282,Ausonia,41.35,13.75
+3283,Vallerano,42.385,12.2642
+3284,Villaspeciosa,39.3115,8.9266
+3285,Lurago Marinone,45.7,8.9833
+3286,Besano,45.8833,8.8833
+3287,Vignolo,44.3636,7.4721
+3288,Ternate,45.7833,8.7
+3289,Lusiana,45.7833,11.5667
+3290,Valfurva,46.45,10.4167
+3291,Bolotana,40.3283,8.9593
+3292,Porpetto,45.85,13.2167
+3293,Urbisaglia,43.1973,13.3773
+3294,Pozzomaggiore,40.3978,8.6598
+3295,Dolcè,45.6,10.85
+3296,Vallecorsa,41.45,13.4
+3297,Ponte,41.2167,14.7
+3298,Stilo,38.4833,16.4667
+3299,San Gervasio Bresciano,45.3072,10.1494
+3300,Budoia,46.05,12.5333
+3301,San Vittore del Lazio,41.4667,13.9333
+3302,San Giorgio Canavese,45.3333,7.8
+3303,Vestenanuova,45.5667,11.2333
+3304,Petronà,39.0333,16.75
+3305,Sanza,40.25,15.55
+3306,Santa Fiora,42.8319,11.5853
+3307,Casole Bruzio,39.2833,16.3333
+3308,Benestare,38.1833,16.1333
+3309,San Lorenzo,38.0167,15.8333
+3310,Moricone,42.1166,12.7723
+3311,Poggio Nativo,42.2167,12.8
+3312,Costa di Rovigo,45.05,11.7
+3313,Paularo,46.5333,13.1167
+3314,Buonabitacolo,40.2667,15.6167
+3315,Rivarolo Mantovano,45.0667,10.4333
+3316,Camerata Picena,43.5783,13.3528
+3317,Chiuro,46.1667,9.9833
+3318,Pieve Vergonte,46.0058,8.2692
+3319,Pellestrina,45.2723,12.3008
+3320,Pignataro Interamna,41.4333,13.7833
+3321,Caltignaga,45.5167,8.5833
+3322,Cinigiano,42.8906,11.3925
+3323,Pressana,45.2833,11.4
+3324,Sant’Anna d’Alfaedo,45.6333,10.95
+3325,Lago,39.1667,16.15
+3326,Chiuppano,45.7667,11.4667
+3327,Santa Sofia d’Epiro,39.55,16.3333
+3328,Luras,40.9358,9.1747
+3329,Ziano Piacentino,45,9.4
+3330,Nuraminis,39.4423,9.0133
+3331,Bergantino,45.0667,11.25
+3332,Mamoiada,40.2142,9.2836
+3333,Corleto Perticara,40.3833,16.05
+3334,Corbara,40.7167,14.6
+3335,Donnaz,45.6,7.7667
+3336,Caltrano,45.7667,11.4667
+3337,Galati Mamertino,38.0333,14.7667
+3338,Campodipietra,41.55,14.75
+3339,Molochio,38.3167,16.0333
+3340,Galeata,44,11.9167
+3341,Santo Stefano di Cadore,46.5667,12.55
+3342,Momo,45.5833,8.55
+3343,Avigliano,42.65,12.4333
+3344,Carpignano Sesia,45.5333,8.4333
+3345,Lungro,39.75,16.1167
+3346,Sant’Elena,45.1833,11.7167
+3347,Montallegro,37.3939,13.3517
+3348,Amatrice,42.6294,13.2884
+3349,Moruzzo,46.1167,13.1167
+3350,Muzzana del Turgnano,45.8167,13.1333
+3351,Montodine,45.2833,9.7167
+3352,Antrodoco,42.4167,13.0833
+3353,Pieve Ligure,44.3748,9.0866
+3354,Cellino Attanasio,42.5833,13.8667
+3355,San Vero Milis,40.0131,8.5986
+3356,San Michele di Serino,40.8833,14.85
+3357,Portocannone,41.9167,15.0167
+3358,Sestola,44.2333,10.7667
+3359,Ravello,40.65,14.6167
+3360,Meina,45.7888,8.5388
+3361,Pieve Fosciana,44.1328,10.4119
+3362,Chiesa in Valmalenco,46.2667,9.85
+3363,Berzo Inferiore,45.9317,10.2806
+3364,Pocenia,45.8364,13.1017
+3365,Monteodorisio,42.0833,14.65
+3366,Regia Dogana,41.0038,9.6149
+3367,Capo di Ponte,46.0317,10.3461
+3368,Sant’Eusanio del Sangro,42.1667,14.3333
+3369,Cicagna,44.4085,9.2363
+3370,Tollegno,45.5833,8.05
+3371,Revere,45.0572,11.1302
+3372,Rive d’Arcano,46.1333,13.0333
