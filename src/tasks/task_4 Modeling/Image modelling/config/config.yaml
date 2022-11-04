@@ -1,0 +1,60 @@
+
+paths:
+  surf_refl_image_dir: data/surf_refl
+  surf_temp_image_dir: data/temp_data
+  land_cover_image_dir: data/land_cover_modis
+  preproc_dir: data/preprocessed
+  hist_dir: data/histogram
+  yield_file: data/yield data/final_durum_wheat.csv
+  hist_fig_save_dir: data/histogram/figures
+  model_dir: data/models
+  country_svg: data/italy_svgj.svg
+
+
+cnn_params:
+  data_path: data/histogram/histogram_all_full.npz
+  num_bins: 32
+  in_channels: 9
+  hidden_size: 128
+  dropout: 0.75
+  dense_features: 
+  savedir: data/models
+  times: all
+  pred_years: None
+  num_runs: 2
+  train_steps: 10000
+  batch_size: 32
+  starter_learning_rate: 0.001
+  weight_decay: 0
+  l1_weight: 0
+  patience: 10
+
+rnn_params:
+  data_path: data/histogram/histogram_all_full.npz
+  in_channels: 9
+  num_bins: 32
+  hidden_size: 128
+  num_rnn_layers: 1
+  rnn_dropout: 0.75
+  dense_features: None
+  savedir: data/models
+  times: all
+  pred_years: None
+  num_runs: 2
+  train_steps: 10000
+  batch_size: 32
+  starter_learning_rate: 0.001
+  weight_decay: 0
+  l1_weight: 0
+  patience: 10
+
+
+guassian:
+  use_gp: True
+  sigma: 1
+  r_loc: 0.5
+  r_year: 1.5
+  sigma_e: 0.32
+  sigma_b: 0.01
+
+
