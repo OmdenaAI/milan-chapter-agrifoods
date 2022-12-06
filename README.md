@@ -1,8 +1,7 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
+# Omdena-Milan chapter-AI for Sustainable AgriFoodroject-repository
 
 
-# [Chapter Challenge Name]
+# [AI for Sustainable AgriFoods: Use of Satellite Imagery]
 
 
 ## Contribution Guidelines
